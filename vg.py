@@ -156,7 +156,7 @@ def read_files(): #зчитування файлів з папки documents
        
 my_words = (open('MyStopWords.txt', 'r').read()).split() #мій словник stop-слів
 my_stop_words = text.ENGLISH_STOP_WORDS.union(my_words) #формування розширеного словника stop-слів  
-
+print my_stop_words
    
 all_words, all_bigrams, all_threegrams, bloblist, bloblist_bigrams, bloblist_threegrams = read_files()
 
@@ -252,7 +252,7 @@ list_of_threegrams_name = list()
 black_list = []
 quantity_all_threegrams = len(all_threegrams)
 print 'quantity_all_threegrams '+str(quantity_all_threegrams)
-lamda_ = 0.95*all_threegrams.count(['quantum', 'information', 'theory'])/quantity_all_threegrams
+lamda_ = 0.01*all_threegrams.count(['quantum', 'information', 'theory'])/quantity_all_threegrams
 for i,blob in  enumerate(bloblist_threegrams):
     print("T Document {}".format(i + 1))
     for threegram in blob:

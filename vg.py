@@ -201,12 +201,39 @@ for i, blob in enumerate(bloblist):
     scores_within_doc = []
 
 print 'Max_A '+str(max(all_scores))
-print
 
 time_for_tf_words = (time.time()-t0) - time_for_read_files
 print 'Time_for_tf_words '+str(time_for_tf_words)
+print
    
+#TF-IDF_біграми=======================================================================
+bigrams_scores_within_doc = list()
+list_of_bigrams_scores = list()
+all_bigrams_scores = list()
+list_of_bigrams = list()
+list_of_bigrams_name =list()
+quantity_all_bigrams = len(all_bigrams)
+print 'quantity_all_bigrams '+str(quantity_all_bigrams)
+lambda_ = 0.01*all_bigrams.count(['information', 'extraction'])/quantity_all_bigrams
+for i,blob in enumerate(bloblist_bigrams):
+    print("B Document {}".format(i + 1))
+    for bigram in blob:
+        tff = TF(bigram, all_bigrams, quantity_all_bigrams, bloblist_bigrams) 
+        if tff > lambda_:
+            bigrams_scores_within_doc.append(tff)
+            all_bigrams_scores.append(tff)
+            list_of_bigrams.append(bigram)
+            list_of_bigrams_name.append(bigram[0]+'_'+bigram[1])#запис біграми одним словом
+    list_of_bigrams_scores.append(bigrams_scores_within_doc)
+    bigrams_scores_within_doc = []
+#print 'list_of_bigrams'
+#print list_of_bigrams_name
 
+print 'Max_B' +str(max(all_bigrams_scores))
+print 
+time_for_tf_bigrams = (time.time()-t0) - time_for_tf_words
+print 'Time_for_tf_bigrams '+str(time_for_tf_bigrams)
+print
         
 #побулова графу видимості 1 ======================================================
 print 'quantity_all_words '+str(quantity_all_words)
@@ -222,6 +249,12 @@ mapping = dict(zip(g1.nodes(),list_of_words))
 g1 = nx.relabel_nodes(g1,mapping)
 filename = 'vg.graphml'
 nx.write_graphml(g1,filename)
+
+#побудова графу видимості 2 ======================================================
+print 'quantity_all_bigrams '+str(quantity_all_bigrams)
+print 'list_of_bigrams '+str(len(list_of_bigrams))
+print 'all_bigrams_scores '+str(len(all_bigrams_scores))
+print 
 
 #nx.draw_networkx(g1,node_color = ['g','r','y','1'])
 #plt.savefig("network_graph.png")
@@ -248,5 +281,6 @@ time_for_built_vg = (time.time()-t0) - time_for_tf_words
 
 print 'Time_for_read_files '+str(time_for_read_files)
 print 'Time_for_tf_words '+str(time_for_tf_words)
+print 'Time_for_tf_bigrams '+str(time_for_tf_bigrams)
 print 'Time_for_built_vg '+str(time_for_built_vg)
 print 'Time: '+str(time.time()-t0)

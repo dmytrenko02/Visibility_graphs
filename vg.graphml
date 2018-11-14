@@ -1,0 +1,1164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="mag" attr.type="double" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="selection">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="constituents">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="global">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="displayed">
+  <data key="d0">0.0164059519267</data>
+</node>
+<node id="stability">
+  <data key="d0">0.00228920259443</data>
+</node>
+<node id="paper">
+  <data key="d0">0.00686760778329</data>
+</node>
+<node id="networks">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="web">
+  <data key="d0">0.0118275467379</data>
+</node>
+<node id="removal">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="938">
+  <data key="d0">0.00572300648607</data>
+</node>
+<node id="systems">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="nodes">
+  <data key="d0">0.00228920259443</data>
+</node>
+<node id="local">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="regularly">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="arxiv.org/abs/cond-mat/0008064">
+  <data key="d0">0.00228920259443</data>
+</node>
+<node id="fate">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="number">
+  <data key="d0">0.00152613506295</data>
+</node>
+<node id="name.hawoong">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="cellular">
+  <data key="d0">0.00381533765738</data>
+</node>
+<node id="despite">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="inhomogeneously">
+  <data key="d0">0.00228920259443</data>
+</node>
+<node id="loss">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="processes">
+  <data key="d0">0.0110644792064</data>
+</node>
+<node id="mathematical">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="malfunction">
+  <data key="d0">0.0118275467379</data>
+</node>
+<node id="unexpected">
+  <data key="d0">0.00763067531477</data>
+</node>
+<node id="metabolic">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="energy">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="rubr.cond-mat">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="individual">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="sustaining">
+  <data key="d0">0.0080122090805</data>
+</node>
+<node id="jeong">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="21:11">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="describing">
+  <data key="d0">0.00152613506295</data>
+</node>
+<node id="network">
+  <data key="d0">0.0118275467379</data>
+</node>
+<node id="lead">
+  <data key="d0">0.049599389546</data>
+</node>
+<node id="specification">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="unknown">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="cell">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="name.albert-laszlo">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="internet">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="shared">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="tolerance">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="integrated">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="ability">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="degree">
+  <data key="d0">0.0164059519267</data>
+</node>
+<node id="communicate">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="key">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="i.e">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="generate">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="essentially">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="attacks">
+  <data key="d0">0.00228920259443</data>
+</node>
+<node id="scale-free">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="attributed">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="display">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="social">
+  <data key="d0">0.00152613506295</data>
+</node>
+<node id="domains">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="2000.08.03">
+  <data key="d0">0.00572300648607</data>
+</node>
+<node id="information-carrying">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="microorganism">
+  <data key="d0">0.00686760778329</data>
+</node>
+<node id="large-scale">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="communication">
+  <data key="d0">0.0240366272415</data>
+</node>
+<node id="functional">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="rarely">
+  <data key="d0">0.0240366272415</data>
+</node>
+<node id="barabasi">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="transfer">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="attack">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="assuring">
+  <data key="d0">0.00190766882869</data>
+</node>
+<node id="rates">
+  <data key="d0">0.049599389546</data>
+</node>
+<node id="life">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="albert">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="failure">
+  <data key="d0">0.0240366272415</data>
+</node>
+<node id="systematic">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="representing">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="wide">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="variances">
+  <data key="d0">0.0118275467379</data>
+</node>
+<node id="robustness">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="error">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="demonstrate">
+  <data key="d0">0.00572300648607</data>
+</node>
+<node id="seamlessly">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="called">
+  <data key="d0">0.0110644792064</data>
+</node>
+<node id="name.reka">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="defined">
+  <data key="d0">0.00419687142312</data>
+</node>
+<node id="high">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="analysis">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="comparative">
+  <data key="d0">0.0118275467379</data>
+</node>
+<node id="rubr.cond-mat.dis-nn">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="unaffected">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="vulnerable">
+  <data key="d0">0.049599389546</data>
+</node>
+<node id="functions">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="wiring">
+  <data key="d0">0.00686760778329</data>
+</node>
+<node id="43">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="rubr.cond-mat.stat-mech">
+  <data key="d0">0.00305227012591</data>
+</node>
+<node id="unrealistically">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="complex">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="role">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="reactions">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="play">
+  <data key="d0">0.0110644792064</data>
+</node>
+<node id="http">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="price">
+  <data key="d0">0.0049599389546</data>
+</node>
+<node id="connectivity">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="wired">
+  <data key="d0">0.000763067531477</data>
+</node>
+<node id="failures">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="extremely">
+  <data key="d0">0.0129721480351</data>
+</node>
+<node id="class">
+  <data key="d0">0.00610454025181</data>
+</node>
+<node id="structure">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="organisms">
+  <data key="d0">0.00228920259443</data>
+</node>
+<node id="surprising">
+  <data key="d0">0.00114460129721</data>
+</node>
+<node id="redundant">
+  <data key="d0">0.00190766882869</data>
+</node>
+<node id="mass">
+  <data key="d0">0.000381533765738</data>
+</node>
+<node id="components">
+  <data key="d0">0.00152613506295</data>
+</node>
+<node id="organization">
+  <data key="d0">0.000381533765738</data>
+</node>
+<edge source="selection" target="play"/>
+<edge source="selection" target="attacks"/>
+<edge source="selection" target="price"/>
+<edge source="selection" target="removal"/>
+<edge source="selection" target="i.e"/>
+<edge source="selection" target="nodes"/>
+<edge source="selection" target="vulnerable"/>
+<edge source="constituents" target="reactions"/>
+<edge source="constituents" target="specification"/>
+<edge source="constituents" target="networks"/>
+<edge source="constituents" target="complex"/>
+<edge source="constituents" target="cellular"/>
+<edge source="constituents" target="despite"/>
+<edge source="constituents" target="integrated"/>
+<edge source="global" target="information-carrying"/>
+<edge source="global" target="malfunction"/>
+<edge source="global" target="stability"/>
+<edge source="global" target="redundant"/>
+<edge source="global" target="rarely"/>
+<edge source="global" target="web"/>
+<edge source="global" target="network"/>
+<edge source="global" target="lead"/>
+<edge source="global" target="complex"/>
+<edge source="global" target="shared"/>
+<edge source="global" target="tolerance"/>
+<edge source="global" target="ability"/>
+<edge source="global" target="degree"/>
+<edge source="global" target="failures"/>
+<edge source="global" target="inhomogeneously"/>
+<edge source="global" target="loss"/>
+<edge source="global" target="surprising"/>
+<edge source="global" target="local"/>
+<edge source="global" target="robustness"/>
+<edge source="global" target="attributed"/>
+<edge source="global" target="components"/>
+<edge source="global" target="demonstrate"/>
+<edge source="displayed" target="web"/>
+<edge source="displayed" target="lead"/>
+<edge source="displayed" target="shared"/>
+<edge source="displayed" target="class"/>
+<edge source="displayed" target="redundant"/>
+<edge source="displayed" target="called"/>
+<edge source="displayed" target="paper"/>
+<edge source="displayed" target="wired"/>
+<edge source="displayed" target="systems"/>
+<edge source="displayed" target="components"/>
+<edge source="displayed" target="error"/>
+<edge source="displayed" target="demonstrate"/>
+<edge source="displayed" target="tolerance"/>
+<edge source="displayed" target="networks"/>
+<edge source="displayed" target="inhomogeneously"/>
+<edge source="stability" target="information-carrying"/>
+<edge source="stability" target="loss"/>
+<edge source="stability" target="ability"/>
+<edge source="stability" target="lead"/>
+<edge source="stability" target="defined"/>
+<edge source="stability" target="wiring"/>
+<edge source="stability" target="functional"/>
+<edge source="stability" target="attributed"/>
+<edge source="stability" target="complex"/>
+<edge source="stability" target="systems"/>
+<edge source="stability" target="redundant"/>
+<edge source="stability" target="rarely"/>
+<edge source="stability" target="local"/>
+<edge source="stability" target="display"/>
+<edge source="stability" target="network"/>
+<edge source="paper" target="shared"/>
+<edge source="paper" target="web"/>
+<edge source="paper" target="defined"/>
+<edge source="paper" target="wiring"/>
+<edge source="paper" target="functional"/>
+<edge source="paper" target="attributed"/>
+<edge source="paper" target="called"/>
+<edge source="paper" target="systems"/>
+<edge source="paper" target="components"/>
+<edge source="paper" target="error"/>
+<edge source="paper" target="demonstrate"/>
+<edge source="paper" target="tolerance"/>
+<edge source="paper" target="networks"/>
+<edge source="networks" target="malfunction"/>
+<edge source="networks" target="unexpected"/>
+<edge source="networks" target="microorganism"/>
+<edge source="networks" target="name.reka"/>
+<edge source="networks" target="defined"/>
+<edge source="networks" target="communication"/>
+<edge source="networks" target="energy"/>
+<edge source="networks" target="despite"/>
+<edge source="networks" target="functional"/>
+<edge source="networks" target="43"/>
+<edge source="networks" target="high"/>
+<edge source="networks" target="unaffected"/>
+<edge source="networks" target="networks"/>
+<edge source="networks" target="vulnerable"/>
+<edge source="networks" target="web"/>
+<edge source="networks" target="describing"/>
+<edge source="networks" target="network"/>
+<edge source="networks" target="lead"/>
+<edge source="networks" target="specification"/>
+<edge source="networks" target="large-scale"/>
+<edge source="networks" target="wiring"/>
+<edge source="networks" target="assuring"/>
+<edge source="networks" target="cell"/>
+<edge source="networks" target="attack"/>
+<edge source="networks" target="complex"/>
+<edge source="networks" target="rates"/>
+<edge source="networks" target="systems"/>
+<edge source="networks" target="internet"/>
+<edge source="networks" target="shared"/>
+<edge source="networks" target="nodes"/>
+<edge source="networks" target="local"/>
+<edge source="networks" target="regularly"/>
+<edge source="networks" target="arxiv.org/abs/cond-mat/0008064"/>
+<edge source="networks" target="ability"/>
+<edge source="networks" target="degree"/>
+<edge source="networks" target="price"/>
+<edge source="networks" target="social"/>
+<edge source="networks" target="number"/>
+<edge source="networks" target="938"/>
+<edge source="networks" target="metabolic"/>
+<edge source="networks" target="wired"/>
+<edge source="networks" target="key"/>
+<edge source="networks" target="demonstrate"/>
+<edge source="networks" target="i.e"/>
+<edge source="networks" target="role"/>
+<edge source="networks" target="extremely"/>
+<edge source="networks" target="class"/>
+<edge source="networks" target="inhomogeneously"/>
+<edge source="networks" target="play"/>
+<edge source="networks" target="wide"/>
+<edge source="networks" target="organization"/>
+<edge source="networks" target="surprising"/>
+<edge source="networks" target="attacks"/>
+<edge source="networks" target="tolerance"/>
+<edge source="networks" target="scale-free"/>
+<edge source="networks" target="robustness"/>
+<edge source="networks" target="redundant"/>
+<edge source="networks" target="called"/>
+<edge source="networks" target="mass"/>
+<edge source="networks" target="components"/>
+<edge source="networks" target="error"/>
+<edge source="networks" target="failures"/>
+<edge source="networks" target="display"/>
+<edge source="web" target="information-carrying"/>
+<edge source="web" target="defined"/>
+<edge source="web" target="number"/>
+<edge source="web" target="redundant"/>
+<edge source="web" target="rarely"/>
+<edge source="web" target="web"/>
+<edge source="web" target="network"/>
+<edge source="web" target="wiring"/>
+<edge source="web" target="cell"/>
+<edge source="web" target="complex"/>
+<edge source="web" target="systems"/>
+<edge source="web" target="internet"/>
+<edge source="web" target="shared"/>
+<edge source="web" target="nodes"/>
+<edge source="web" target="ability"/>
+<edge source="web" target="degree"/>
+<edge source="web" target="social"/>
+<edge source="web" target="communicate"/>
+<edge source="web" target="functional"/>
+<edge source="web" target="wired"/>
+<edge source="web" target="class"/>
+<edge source="web" target="inhomogeneously"/>
+<edge source="web" target="wide"/>
+<edge source="web" target="scale-free"/>
+<edge source="web" target="robustness"/>
+<edge source="web" target="attributed"/>
+<edge source="web" target="display"/>
+<edge source="web" target="components"/>
+<edge source="web" target="error"/>
+<edge source="web" target="called"/>
+<edge source="removal" target="attacks"/>
+<edge source="removal" target="assuring"/>
+<edge source="removal" target="role"/>
+<edge source="removal" target="i.e"/>
+<edge source="removal" target="nodes"/>
+<edge source="removal" target="2000.08.03"/>
+<edge source="removal" target="tolerance"/>
+<edge source="938" target="cell"/>
+<edge source="938" target="arxiv.org/abs/cond-mat/0008064"/>
+<edge source="938" target="large-scale"/>
+<edge source="938" target="transfer"/>
+<edge source="938" target="metabolic"/>
+<edge source="938" target="high"/>
+<edge source="938" target="organization"/>
+<edge source="938" target="nodes"/>
+<edge source="938" target="2000.08.03"/>
+<edge source="938" target="jeong"/>
+<edge source="systems" target="information-carrying"/>
+<edge source="systems" target="malfunction"/>
+<edge source="systems" target="unexpected"/>
+<edge source="systems" target="defined"/>
+<edge source="systems" target="communication"/>
+<edge source="systems" target="functional"/>
+<edge source="systems" target="redundant"/>
+<edge source="systems" target="rarely"/>
+<edge source="systems" target="describing"/>
+<edge source="systems" target="network"/>
+<edge source="systems" target="lead"/>
+<edge source="systems" target="wiring"/>
+<edge source="systems" target="cell"/>
+<edge source="systems" target="attack"/>
+<edge source="systems" target="complex"/>
+<edge source="systems" target="systems"/>
+<edge source="systems" target="internet"/>
+<edge source="systems" target="shared"/>
+<edge source="systems" target="tolerance"/>
+<edge source="systems" target="regularly"/>
+<edge source="systems" target="ability"/>
+<edge source="systems" target="degree"/>
+<edge source="systems" target="wide"/>
+<edge source="systems" target="social"/>
+<edge source="systems" target="number"/>
+<edge source="systems" target="wired"/>
+<edge source="systems" target="key"/>
+<edge source="systems" target="demonstrate"/>
+<edge source="systems" target="class"/>
+<edge source="systems" target="inhomogeneously"/>
+<edge source="systems" target="loss"/>
+<edge source="systems" target="surprising"/>
+<edge source="systems" target="scale-free"/>
+<edge source="systems" target="robustness"/>
+<edge source="systems" target="attributed"/>
+<edge source="systems" target="called"/>
+<edge source="systems" target="components"/>
+<edge source="systems" target="error"/>
+<edge source="systems" target="failures"/>
+<edge source="systems" target="display"/>
+<edge source="nodes" target="high"/>
+<edge source="nodes" target="unaffected"/>
+<edge source="nodes" target="vulnerable"/>
+<edge source="nodes" target="describing"/>
+<edge source="nodes" target="network"/>
+<edge source="nodes" target="unknown"/>
+<edge source="nodes" target="assuring"/>
+<edge source="nodes" target="cell"/>
+<edge source="nodes" target="unrealistically"/>
+<edge source="nodes" target="rates"/>
+<edge source="nodes" target="internet"/>
+<edge source="nodes" target="role"/>
+<edge source="nodes" target="play"/>
+<edge source="nodes" target="ability"/>
+<edge source="nodes" target="degree"/>
+<edge source="nodes" target="price"/>
+<edge source="nodes" target="error"/>
+<edge source="nodes" target="communicate"/>
+<edge source="nodes" target="transfer"/>
+<edge source="nodes" target="failure"/>
+<edge source="nodes" target="i.e"/>
+<edge source="nodes" target="wide"/>
+<edge source="nodes" target="connectivity"/>
+<edge source="nodes" target="attacks"/>
+<edge source="nodes" target="robustness"/>
+<edge source="nodes" target="components"/>
+<edge source="nodes" target="social"/>
+<edge source="nodes" target="2000.08.03"/>
+<edge source="nodes" target="display"/>
+<edge source="local" target="regularly"/>
+<edge source="local" target="malfunction"/>
+<edge source="local" target="components"/>
+<edge source="local" target="degree"/>
+<edge source="local" target="loss"/>
+<edge source="local" target="communication"/>
+<edge source="local" target="lead"/>
+<edge source="local" target="robustness"/>
+<edge source="local" target="information-carrying"/>
+<edge source="local" target="display"/>
+<edge source="local" target="complex"/>
+<edge source="local" target="redundant"/>
+<edge source="local" target="key"/>
+<edge source="local" target="failures"/>
+<edge source="local" target="rarely"/>
+<edge source="local" target="network"/>
+<edge source="regularly" target="malfunction"/>
+<edge source="regularly" target="redundant"/>
+<edge source="regularly" target="degree"/>
+<edge source="regularly" target="surprising"/>
+<edge source="regularly" target="loss"/>
+<edge source="regularly" target="communication"/>
+<edge source="regularly" target="lead"/>
+<edge source="regularly" target="robustness"/>
+<edge source="regularly" target="functional"/>
+<edge source="regularly" target="attributed"/>
+<edge source="regularly" target="complex"/>
+<edge source="regularly" target="key"/>
+<edge source="regularly" target="failures"/>
+<edge source="regularly" target="components"/>
+<edge source="regularly" target="rarely"/>
+<edge source="regularly" target="display"/>
+<edge source="regularly" target="inhomogeneously"/>
+<edge source="regularly" target="ability"/>
+<edge source="arxiv.org/abs/cond-mat/0008064" target="21:11"/>
+<edge source="arxiv.org/abs/cond-mat/0008064" target="http"/>
+<edge source="arxiv.org/abs/cond-mat/0008064" target="barabasi"/>
+<edge source="arxiv.org/abs/cond-mat/0008064" target="large-scale"/>
+<edge source="arxiv.org/abs/cond-mat/0008064" target="albert"/>
+<edge source="arxiv.org/abs/cond-mat/0008064" target="name.albert-laszlo"/>
+<edge source="arxiv.org/abs/cond-mat/0008064" target="2000.08.03"/>
+<edge source="arxiv.org/abs/cond-mat/0008064" target="jeong"/>
+<edge source="fate" target="cell"/>
+<edge source="fate" target="transfer"/>
+<edge source="fate" target="specification"/>
+<edge source="fate" target="network"/>
+<edge source="fate" target="cellular"/>
+<edge source="number" target="describing"/>
+<edge source="number" target="wide"/>
+<edge source="number" target="defined"/>
+<edge source="number" target="scale-free"/>
+<edge source="number" target="robustness"/>
+<edge source="number" target="internet"/>
+<edge source="number" target="redundant"/>
+<edge source="number" target="wired"/>
+<edge source="number" target="error"/>
+<edge source="number" target="demonstrate"/>
+<edge source="number" target="social"/>
+<edge source="name.hawoong" target="rubr.cond-mat.dis-nn"/>
+<edge source="name.hawoong" target="name.reka"/>
+<edge source="name.hawoong" target="albert"/>
+<edge source="name.hawoong" target="jeong"/>
+<edge source="name.hawoong" target="rubr.cond-mat.stat-mech"/>
+<edge source="cellular" target="reactions"/>
+<edge source="cellular" target="functions"/>
+<edge source="cellular" target="network"/>
+<edge source="cellular" target="complex"/>
+<edge source="cellular" target="sustaining"/>
+<edge source="cellular" target="comparative"/>
+<edge source="despite" target="reactions"/>
+<edge source="despite" target="life"/>
+<edge source="despite" target="role"/>
+<edge source="despite" target="key"/>
+<edge source="despite" target="variances"/>
+<edge source="inhomogeneously" target="surprising"/>
+<edge source="inhomogeneously" target="degree"/>
+<edge source="inhomogeneously" target="called"/>
+<edge source="inhomogeneously" target="functional"/>
+<edge source="inhomogeneously" target="redundant"/>
+<edge source="inhomogeneously" target="wired"/>
+<edge source="inhomogeneously" target="components"/>
+<edge source="inhomogeneously" target="demonstrate"/>
+<edge source="inhomogeneously" target="tolerance"/>
+<edge source="inhomogeneously" target="class"/>
+<edge source="inhomogeneously" target="network"/>
+<edge source="loss" target="malfunction"/>
+<edge source="loss" target="redundant"/>
+<edge source="loss" target="ability"/>
+<edge source="loss" target="lead"/>
+<edge source="loss" target="robustness"/>
+<edge source="loss" target="information-carrying"/>
+<edge source="loss" target="complex"/>
+<edge source="loss" target="components"/>
+<edge source="loss" target="shared"/>
+<edge source="loss" target="failures"/>
+<edge source="loss" target="rarely"/>
+<edge source="loss" target="network"/>
+<edge source="processes" target="network"/>
+<edge source="processes" target="energy"/>
+<edge source="processes" target="cell"/>
+<edge source="processes" target="mass"/>
+<edge source="processes" target="generate"/>
+<edge source="processes" target="microorganism"/>
+<edge source="mathematical" target="comparative"/>
+<edge source="mathematical" target="analysis"/>
+<edge source="malfunction" target="information-carrying"/>
+<edge source="malfunction" target="functional"/>
+<edge source="malfunction" target="attributed"/>
+<edge source="malfunction" target="rarely"/>
+<edge source="malfunction" target="network"/>
+<edge source="malfunction" target="lead"/>
+<edge source="malfunction" target="complex"/>
+<edge source="malfunction" target="internet"/>
+<edge source="malfunction" target="ability"/>
+<edge source="malfunction" target="degree"/>
+<edge source="malfunction" target="key"/>
+<edge source="malfunction" target="surprising"/>
+<edge source="malfunction" target="robustness"/>
+<edge source="malfunction" target="redundant"/>
+<edge source="malfunction" target="components"/>
+<edge source="malfunction" target="failures"/>
+<edge source="malfunction" target="display"/>
+<edge source="unexpected" target="describing"/>
+<edge source="unexpected" target="degree"/>
+<edge source="unexpected" target="communicate"/>
+<edge source="unexpected" target="scale-free"/>
+<edge source="unexpected" target="robustness"/>
+<edge source="unexpected" target="display"/>
+<edge source="unexpected" target="cell"/>
+<edge source="unexpected" target="failure"/>
+<edge source="unexpected" target="social"/>
+<edge source="metabolic" target="large-scale"/>
+<edge source="metabolic" target="energy"/>
+<edge source="metabolic" target="analysis"/>
+<edge source="metabolic" target="cell"/>
+<edge source="metabolic" target="organization"/>
+<edge source="energy" target="transfer"/>
+<edge source="energy" target="specification"/>
+<edge source="energy" target="large-scale"/>
+<edge source="energy" target="albert"/>
+<edge source="energy" target="mass"/>
+<edge source="energy" target="organization"/>
+<edge source="rubr.cond-mat" target="http"/>
+<edge source="rubr.cond-mat" target="network"/>
+<edge source="rubr.cond-mat" target="rubr.cond-mat.stat-mech"/>
+<edge source="rubr.cond-mat" target="connectivity"/>
+<edge source="rubr.cond-mat" target="assuring"/>
+<edge source="rubr.cond-mat" target="role"/>
+<edge source="rubr.cond-mat" target="rubr.cond-mat.dis-nn"/>
+<edge source="individual" target="variances"/>
+<edge source="sustaining" target="reactions"/>
+<edge source="sustaining" target="play"/>
+<edge source="sustaining" target="large-scale"/>
+<edge source="sustaining" target="functions"/>
+<edge source="sustaining" target="role"/>
+<edge source="sustaining" target="comparative"/>
+<edge source="sustaining" target="structure"/>
+<edge source="jeong" target="name.reka"/>
+<edge source="jeong" target="barabasi"/>
+<edge source="jeong" target="albert"/>
+<edge source="jeong" target="rubr.cond-mat.stat-mech"/>
+<edge source="jeong" target="connectivity"/>
+<edge source="jeong" target="name.albert-laszlo"/>
+<edge source="jeong" target="rubr.cond-mat.dis-nn"/>
+<edge source="jeong" target="2000.08.03"/>
+<edge source="21:11" target="2000.08.03"/>
+<edge source="21:11" target="http"/>
+<edge source="21:11" target="barabasi"/>
+<edge source="describing" target="wide"/>
+<edge source="describing" target="degree"/>
+<edge source="describing" target="scale-free"/>
+<edge source="describing" target="robustness"/>
+<edge source="describing" target="functional"/>
+<edge source="describing" target="redundant"/>
+<edge source="describing" target="cell"/>
+<edge source="describing" target="wired"/>
+<edge source="describing" target="internet"/>
+<edge source="describing" target="rates"/>
+<edge source="describing" target="called"/>
+<edge source="describing" target="social"/>
+<edge source="network" target="information-carrying"/>
+<edge source="network" target="functional"/>
+<edge source="network" target="attributed"/>
+<edge source="network" target="rubr.cond-mat.dis-nn"/>
+<edge source="network" target="rarely"/>
+<edge source="network" target="vulnerable"/>
+<edge source="network" target="wiring"/>
+<edge source="network" target="cell"/>
+<edge source="network" target="assuring"/>
+<edge source="network" target="complex"/>
+<edge source="network" target="role"/>
+<edge source="network" target="play"/>
+<edge source="network" target="http"/>
+<edge source="network" target="ability"/>
+<edge source="network" target="degree"/>
+<edge source="network" target="albert"/>
+<edge source="network" target="connectivity"/>
+<edge source="network" target="failures"/>
+<edge source="network" target="surprising"/>
+<edge source="network" target="attacks"/>
+<edge source="network" target="redundant"/>
+<edge source="network" target="components"/>
+<edge source="network" target="error"/>
+<edge source="network" target="demonstrate"/>
+<edge source="lead" target="ability"/>
+<edge source="lead" target="degree"/>
+<edge source="lead" target="wiring"/>
+<edge source="lead" target="robustness"/>
+<edge source="lead" target="functional"/>
+<edge source="lead" target="information-carrying"/>
+<edge source="lead" target="called"/>
+<edge source="lead" target="complex"/>
+<edge source="lead" target="components"/>
+<edge source="lead" target="shared"/>
+<edge source="lead" target="failures"/>
+<edge source="lead" target="rarely"/>
+<edge source="specification" target="play"/>
+<edge source="specification" target="transfer"/>
+<edge source="specification" target="integrated"/>
+<edge source="specification" target="comparative"/>
+<edge source="specification" target="seamlessly"/>
+<edge source="unknown" target="essentially"/>
+<edge source="unknown" target="transfer"/>
+<edge source="unknown" target="systematic"/>
+<edge source="unknown" target="variances"/>
+<edge source="unknown" target="structure"/>
+<edge source="cell" target="reactions"/>
+<edge source="cell" target="microorganism"/>
+<edge source="cell" target="high"/>
+<edge source="cell" target="vulnerable"/>
+<edge source="cell" target="transfer"/>
+<edge source="cell" target="rates"/>
+<edge source="cell" target="internet"/>
+<edge source="cell" target="ability"/>
+<edge source="cell" target="degree"/>
+<edge source="cell" target="wide"/>
+<edge source="cell" target="robustness"/>
+<edge source="cell" target="called"/>
+<edge source="cell" target="social"/>
+<edge source="cell" target="display"/>
+<edge source="name.albert-laszlo" target="large-scale"/>
+<edge source="name.albert-laszlo" target="barabasi"/>
+<edge source="name.albert-laszlo" target="albert"/>
+<edge source="name.albert-laszlo" target="2000.08.03"/>
+<edge source="internet" target="degree"/>
+<edge source="internet" target="scale-free"/>
+<edge source="internet" target="robustness"/>
+<edge source="internet" target="failure"/>
+<edge source="internet" target="high"/>
+<edge source="internet" target="display"/>
+<edge source="internet" target="social"/>
+<edge source="internet" target="unaffected"/>
+<edge source="internet" target="called"/>
+<edge source="internet" target="wide"/>
+<edge source="shared" target="defined"/>
+<edge source="shared" target="tolerance"/>
+<edge source="shared" target="social"/>
+<edge source="shared" target="failure"/>
+<edge source="shared" target="wired"/>
+<edge source="shared" target="class"/>
+<edge source="shared" target="surprising"/>
+<edge source="shared" target="scale-free"/>
+<edge source="shared" target="redundant"/>
+<edge source="shared" target="display"/>
+<edge source="shared" target="components"/>
+<edge source="shared" target="error"/>
+<edge source="shared" target="demonstrate"/>
+<edge source="shared" target="called"/>
+<edge source="tolerance" target="defined"/>
+<edge source="tolerance" target="communication"/>
+<edge source="tolerance" target="functional"/>
+<edge source="tolerance" target="high"/>
+<edge source="tolerance" target="attributed"/>
+<edge source="tolerance" target="vulnerable"/>
+<edge source="tolerance" target="assuring"/>
+<edge source="tolerance" target="attack"/>
+<edge source="tolerance" target="complex"/>
+<edge source="tolerance" target="rates"/>
+<edge source="tolerance" target="price"/>
+<edge source="tolerance" target="social"/>
+<edge source="tolerance" target="communicate"/>
+<edge source="tolerance" target="failure"/>
+<edge source="tolerance" target="wired"/>
+<edge source="tolerance" target="role"/>
+<edge source="tolerance" target="extremely"/>
+<edge source="tolerance" target="class"/>
+<edge source="tolerance" target="surprising"/>
+<edge source="tolerance" target="attacks"/>
+<edge source="tolerance" target="robustness"/>
+<edge source="tolerance" target="redundant"/>
+<edge source="tolerance" target="display"/>
+<edge source="tolerance" target="components"/>
+<edge source="tolerance" target="error"/>
+<edge source="tolerance" target="demonstrate"/>
+<edge source="tolerance" target="2000.08.03"/>
+<edge source="tolerance" target="called"/>
+<edge source="integrated" target="complex"/>
+<edge source="integrated" target="seamlessly"/>
+<edge source="ability" target="information-carrying"/>
+<edge source="ability" target="high"/>
+<edge source="ability" target="redundant"/>
+<edge source="ability" target="rarely"/>
+<edge source="ability" target="unaffected"/>
+<edge source="ability" target="wiring"/>
+<edge source="ability" target="unrealistically"/>
+<edge source="ability" target="complex"/>
+<edge source="ability" target="degree"/>
+<edge source="ability" target="communicate"/>
+<edge source="ability" target="failure"/>
+<edge source="ability" target="key"/>
+<edge source="ability" target="surprising"/>
+<edge source="ability" target="robustness"/>
+<edge source="ability" target="attributed"/>
+<edge source="ability" target="components"/>
+<edge source="ability" target="error"/>
+<edge source="degree" target="high"/>
+<edge source="degree" target="rarely"/>
+<edge source="degree" target="wiring"/>
+<edge source="degree" target="complex"/>
+<edge source="degree" target="error"/>
+<edge source="degree" target="failure"/>
+<edge source="degree" target="key"/>
+<edge source="degree" target="surprising"/>
+<edge source="degree" target="robustness"/>
+<edge source="degree" target="components"/>
+<edge source="degree" target="social"/>
+<edge source="degree" target="display"/>
+<edge source="communicate" target="attacks"/>
+<edge source="communicate" target="price"/>
+<edge source="communicate" target="robustness"/>
+<edge source="communicate" target="high"/>
+<edge source="communicate" target="failure"/>
+<edge source="communicate" target="unrealistically"/>
+<edge source="communicate" target="rates"/>
+<edge source="communicate" target="unaffected"/>
+<edge source="communicate" target="display"/>
+<edge source="key" target="surprising"/>
+<edge source="key" target="communication"/>
+<edge source="key" target="robustness"/>
+<edge source="key" target="complex"/>
+<edge source="key" target="role"/>
+<edge source="key" target="components"/>
+<edge source="key" target="failures"/>
+<edge source="key" target="rarely"/>
+<edge source="key" target="display"/>
+<edge source="i.e" target="attacks"/>
+<edge source="i.e" target="high"/>
+<edge source="i.e" target="complex"/>
+<edge source="i.e" target="rates"/>
+<edge source="i.e" target="extremely"/>
+<edge source="i.e" target="vulnerable"/>
+<edge source="generate" target="mass"/>
+<edge source="essentially" target="comparative"/>
+<edge source="essentially" target="structure"/>
+<edge source="attacks" target="play"/>
+<edge source="attacks" target="name.reka"/>
+<edge source="attacks" target="extremely"/>
+<edge source="attacks" target="price"/>
+<edge source="attacks" target="assuring"/>
+<edge source="attacks" target="high"/>
+<edge source="attacks" target="failure"/>
+<edge source="attacks" target="unrealistically"/>
+<edge source="attacks" target="role"/>
+<edge source="attacks" target="unaffected"/>
+<edge source="attacks" target="display"/>
+<edge source="attacks" target="vulnerable"/>
+<edge source="scale-free" target="called"/>
+<edge source="scale-free" target="scale-free"/>
+<edge source="scale-free" target="redundant"/>
+<edge source="scale-free" target="demonstrate"/>
+<edge source="scale-free" target="wired"/>
+<edge source="scale-free" target="error"/>
+<edge source="scale-free" target="class"/>
+<edge source="scale-free" target="social"/>
+<edge source="attributed" target="wiring"/>
+<edge source="attributed" target="functional"/>
+<edge source="attributed" target="redundant"/>
+<edge source="attributed" target="complex"/>
+<edge source="attributed" target="components"/>
+<edge source="attributed" target="social"/>
+<edge source="attributed" target="demonstrate"/>
+<edge source="attributed" target="unaffected"/>
+<edge source="display" target="information-carrying"/>
+<edge source="display" target="communication"/>
+<edge source="display" target="complex"/>
+<edge source="display" target="error"/>
+<edge source="display" target="failure"/>
+<edge source="display" target="surprising"/>
+<edge source="display" target="robustness"/>
+<edge source="display" target="components"/>
+<edge source="display" target="social"/>
+<edge source="display" target="called"/>
+<edge source="social" target="wide"/>
+<edge source="social" target="robustness"/>
+<edge source="social" target="failure"/>
+<edge source="social" target="rates"/>
+<edge source="social" target="unaffected"/>
+<edge source="domains" target="life"/>
+<edge source="domains" target="representing"/>
+<edge source="2000.08.03" target="play"/>
+<edge source="2000.08.03" target="barabasi"/>
+<edge source="2000.08.03" target="albert"/>
+<edge source="2000.08.03" target="rubr.cond-mat.dis-nn"/>
+<edge source="2000.08.03" target="vulnerable"/>
+<edge source="information-carrying" target="surprising"/>
+<edge source="information-carrying" target="functional"/>
+<edge source="information-carrying" target="redundant"/>
+<edge source="information-carrying" target="complex"/>
+<edge source="information-carrying" target="rarely"/>
+<edge source="microorganism" target="mass"/>
+<edge source="large-scale" target="albert"/>
+<edge source="large-scale" target="functions"/>
+<edge source="large-scale" target="mass"/>
+<edge source="large-scale" target="organization"/>
+<edge source="large-scale" target="structure"/>
+<edge source="communication" target="components"/>
+<edge source="communication" target="surprising"/>
+<edge source="communication" target="robustness"/>
+<edge source="communication" target="functional"/>
+<edge source="communication" target="attack"/>
+<edge source="communication" target="complex"/>
+<edge source="functional" target="defined"/>
+<edge source="functional" target="redundant"/>
+<edge source="functional" target="wiring"/>
+<edge source="functional" target="complex"/>
+<edge source="functional" target="class"/>
+<edge source="functional" target="surprising"/>
+<edge source="functional" target="components"/>
+<edge source="functional" target="demonstrate"/>
+<edge source="functional" target="called"/>
+<edge source="rarely" target="redundant"/>
+<edge source="rarely" target="wiring"/>
+<edge source="rarely" target="robustness"/>
+<edge source="rarely" target="complex"/>
+<edge source="rarely" target="components"/>
+<edge source="rarely" target="failures"/>
+<edge source="barabasi" target="http"/>
+<edge source="barabasi" target="rubr.cond-mat.stat-mech"/>
+<edge source="transfer" target="reactions"/>
+<edge source="transfer" target="structure"/>
+<edge source="attack" target="complex"/>
+<edge source="attack" target="error"/>
+<edge source="assuring" target="play"/>
+<edge source="assuring" target="name.reka"/>
+<edge source="assuring" target="extremely"/>
+<edge source="assuring" target="price"/>
+<edge source="assuring" target="robustness"/>
+<edge source="assuring" target="high"/>
+<edge source="assuring" target="connectivity"/>
+<edge source="assuring" target="role"/>
+<edge source="assuring" target="vulnerable"/>
+<edge source="rates" target="name.reka"/>
+<edge source="rates" target="high"/>
+<edge source="rates" target="unaffected"/>
+<edge source="rates" target="vulnerable"/>
+<edge source="rates" target="wiring"/>
+<edge source="rates" target="unrealistically"/>
+<edge source="rates" target="complex"/>
+<edge source="rates" target="role"/>
+<edge source="rates" target="albert"/>
+<edge source="rates" target="price"/>
+<edge source="rates" target="error"/>
+<edge source="rates" target="failure"/>
+<edge source="rates" target="wired"/>
+<edge source="rates" target="extremely"/>
+<edge source="rates" target="wide"/>
+<edge source="albert" target="name.reka"/>
+<edge source="albert" target="rubr.cond-mat.stat-mech"/>
+<edge source="failure" target="error"/>
+<edge source="failure" target="called"/>
+<edge source="failure" target="high"/>
+<edge source="failure" target="unrealistically"/>
+<edge source="failure" target="unaffected"/>
+<edge source="systematic" target="comparative"/>
+<edge source="systematic" target="variances"/>
+<edge source="representing" target="organisms"/>
+<edge source="wide" target="surprising"/>
+<edge source="wide" target="price"/>
+<edge source="wide" target="wiring"/>
+<edge source="wide" target="redundant"/>
+<edge source="wide" target="complex"/>
+<edge source="wide" target="unaffected"/>
+<edge source="variances" target="organisms"/>
+<edge source="variances" target="comparative"/>
+<edge source="robustness" target="high"/>
+<edge source="robustness" target="unaffected"/>
+<edge source="robustness" target="unrealistically"/>
+<edge source="robustness" target="complex"/>
+<edge source="robustness" target="price"/>
+<edge source="robustness" target="surprising"/>
+<edge source="robustness" target="components"/>
+<edge source="robustness" target="error"/>
+<edge source="robustness" target="failures"/>
+<edge source="error" target="defined"/>
+<edge source="error" target="high"/>
+<edge source="error" target="unaffected"/>
+<edge source="error" target="vulnerable"/>
+<edge source="error" target="wiring"/>
+<edge source="error" target="unrealistically"/>
+<edge source="error" target="complex"/>
+<edge source="error" target="price"/>
+<edge source="error" target="role"/>
+<edge source="error" target="class"/>
+<edge source="error" target="redundant"/>
+<edge source="error" target="components"/>
+<edge source="error" target="demonstrate"/>
+<edge source="demonstrate" target="defined"/>
+<edge source="demonstrate" target="wiring"/>
+<edge source="demonstrate" target="redundant"/>
+<edge source="demonstrate" target="called"/>
+<edge source="demonstrate" target="wired"/>
+<edge source="demonstrate" target="components"/>
+<edge source="called" target="redundant"/>
+<edge source="called" target="wired"/>
+<edge source="called" target="components"/>
+<edge source="called" target="class"/>
+<edge source="name.reka" target="rubr.cond-mat.stat-mech"/>
+<edge source="name.reka" target="connectivity"/>
+<edge source="name.reka" target="extremely"/>
+<edge source="name.reka" target="vulnerable"/>
+<edge source="defined" target="wiring"/>
+<edge source="defined" target="redundant"/>
+<edge source="defined" target="components"/>
+<edge source="high" target="price"/>
+<edge source="high" target="wiring"/>
+<edge source="high" target="unrealistically"/>
+<edge source="high" target="unaffected"/>
+<edge source="high" target="vulnerable"/>
+<edge source="comparative" target="organisms"/>
+<edge source="comparative" target="play"/>
+<edge source="comparative" target="43"/>
+<edge source="rubr.cond-mat.dis-nn" target="play"/>
+<edge source="rubr.cond-mat.dis-nn" target="rubr.cond-mat.stat-mech"/>
+<edge source="rubr.cond-mat.dis-nn" target="connectivity"/>
+<edge source="rubr.cond-mat.dis-nn" target="role"/>
+<edge source="unaffected" target="unrealistically"/>
+<edge source="vulnerable" target="play"/>
+<edge source="vulnerable" target="extremely"/>
+<edge source="vulnerable" target="price"/>
+<edge source="vulnerable" target="connectivity"/>
+<edge source="wiring" target="complex"/>
+<edge source="wiring" target="surprising"/>
+<edge source="wiring" target="redundant"/>
+<edge source="wiring" target="components"/>
+<edge source="43" target="organisms"/>
+<edge source="rubr.cond-mat.stat-mech" target="play"/>
+<edge source="rubr.cond-mat.stat-mech" target="http"/>
+<edge source="rubr.cond-mat.stat-mech" target="connectivity"/>
+<edge source="complex" target="complex"/>
+<edge source="complex" target="wired"/>
+<edge source="complex" target="surprising"/>
+<edge source="complex" target="redundant"/>
+<edge source="complex" target="components"/>
+<edge source="role" target="reactions"/>
+<edge source="role" target="play"/>
+<edge source="role" target="price"/>
+<edge source="role" target="wired"/>
+<edge source="reactions" target="structure"/>
+<edge source="price" target="extremely"/>
+<edge source="price" target="failures"/>
+<edge source="wired" target="redundant"/>
+<edge source="wired" target="class"/>
+<edge source="failures" target="components"/>
+<edge source="class" target="redundant"/>
+<edge source="class" target="components"/>
+<edge source="surprising" target="components"/>
+<edge source="redundant" target="components"/>
+</graph></graphml>

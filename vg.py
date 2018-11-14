@@ -17,8 +17,7 @@ import matplotlib.pyplot as plt
 from visibility_graph import visibility_graph
 
 import time
-t1 = time.time()
-
+t0 = time.time()
 def visibility_graph2(g, series, n):
     # convert list of magnitudes into list of tuples that hold the index
     tseries = []
@@ -131,7 +130,7 @@ def read_files(): #зчитування файлів з папки documents
             f_input = open(directory+file_, 'r')
             blob_ = tb(f_input.read().lower())
             
-            all_words = diff(blob_.words, my_stop_words)
+            all_words = all_words + diff(blob_.words, my_stop_words)
             blobs = blob_.split('***')
             
             for text_ in blobs:
@@ -153,12 +152,16 @@ def read_files(): #зчитування файлів з папки documents
                 bloblist_threegrams.append(threegrams)
                 
         return all_words, all_bigrams, all_threegrams, bloblist, bloblist_bigrams, bloblist_threegrams
-        
+
+       
 my_words = (open('MyStopWords.txt', 'r').read()).split() #мій словник stop-слів
 my_stop_words = text.ENGLISH_STOP_WORDS.union(my_words) #формування розширеного словника stop-слів  
 
    
 all_words, all_bigrams, all_threegrams, bloblist, bloblist_bigrams, bloblist_threegrams = read_files()
+
+time_for_read_files = time.time() - t0
+print 'Time_after_read_files '+str(time_for_read_files)
 
 quantity_all_documents = len(bloblist) #кількість всіх документів у колекції
 print 'quantity_all_documents '+str(quantity_all_documents)
@@ -168,8 +171,9 @@ scores_within_doc = list()
 list_of_scores = list()
 all_scores = list()
 list_of_words = list()
+black_list = list() #список слів, що мають tff<=lambda_
 quantity_all_words = len(all_words)
-t = 0.01*all_words.count('information')/quantity_all_words
+lambda_ = 0.01*all_words.count('information')/quantity_all_words
 for i, blob in enumerate(bloblist):
     print("W Document {}".format(i + 1))
     ##print("Top words in document {}".format(i + 1))
@@ -180,8 +184,16 @@ for i, blob in enumerate(bloblist):
      ##   print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
     
     for word in blob:
-        tff = TF(word, all_words, quantity_all_words, bloblist)
-        if tff > t:
+        if (word not in list_of_words) and (word not in black_list): #(якщо розглянуте слово відсутнє в списку слів, що мають tff>lambda_)або(і це слово не в чорному списку)
+            tff = TF(word, all_words, quantity_all_words, bloblist)
+            if tff > lambda_:
+                scores_within_doc.append(tff)
+                all_scores.append(tff)
+                list_of_words.append(word)
+            else:
+                black_list.append(word)
+        elif (word in list_of_words): #tff для даного слова вже розраховане й знаходиться у списку all_scores[list_of_words.index(word)]
+            tff = all_scores[list_of_words.index(word)]
             scores_within_doc.append(tff)
             all_scores.append(tff)
             list_of_words.append(word)
@@ -191,9 +203,10 @@ for i, blob in enumerate(bloblist):
 print 'Max_A '+str(max(all_scores))
 print
 
+time_for_tf_words = (time.time()-t0) - time_for_read_files
+print 'Time_for_tf_words '+str(time_for_tf_words)
    
 
-print 'Time: '+str(time.time()-t1)
         
 #побулова графу видимості 1 ======================================================
 print 'quantity_all_words '+str(quantity_all_words)
@@ -231,4 +244,9 @@ print 1.0*all_threegrams.count(['quantum', 'information', 'theory'])/len(all_thr
 
 print 'Max_A '+str(max(all_scores))
 print 
-print 'Time: '+str(time.time()-t1)
+time_for_built_vg = (time.time()-t0) - time_for_tf_words
+
+print 'Time_for_read_files '+str(time_for_read_files)
+print 'Time_for_tf_words '+str(time_for_tf_words)
+print 'Time_for_built_vg '+str(time_for_built_vg)
+print 'Time: '+str(time.time()-t0)

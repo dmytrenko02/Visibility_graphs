@@ -236,13 +236,49 @@ for i,blob in enumerate(bloblist_bigrams):
             list_of_bigrams_name.append(bigram[0]+'_'+bigram[1])#запис біграми одним словом
     list_of_bigrams_scores.append(bigrams_scores_within_doc)
     bigrams_scores_within_doc = []
-#print 'list_of_bigrams'
-#print list_of_bigrams_name
 
 print 'Max_B' +str(max(all_bigrams_scores))
 print 
 time_for_tf_bigrams = (time.time()-t0) - time_for_tf_words
 print 'Time_for_tf_bigrams '+str(time_for_tf_bigrams)
+print
+
+#TF-IDF_триграми=======================================================================
+threegrams_scores_within_doc = list()
+list_of_threegrams_scores = list()
+all_threegrams_scores = list()
+list_of_threegrams = list()
+list_of_threegrams_name = list()
+black_list = []
+quantity_all_threegrams = len(all_threegrams)
+print 'quantity_all_threegrams '+str(quantity_all_threegrams)
+lamda_ = 0.95*all_threegrams.count(['quantum', 'information', 'theory'])/quantity_all_threegrams
+for i,blob in  enumerate(bloblist_threegrams):
+    print("T Document {}".format(i + 1))
+    for threegram in blob:
+        if (threegram not in list_of_threegrams) and (threegram not in black_list): #(якщо розглянуте слово відсутнє в списку слів, що мають tff>lambda_)або(і це слово не в чорному списку)
+            tff = TF(threegram, all_threegrams, quantity_all_threegrams, bloblist_threegrams) 
+            if tff > lamda_:
+                threegrams_scores_within_doc.append(tff)
+                all_threegrams_scores.append(tff)
+                list_of_threegrams.append(threegram)
+                list_of_threegrams_name.append(threegram[0]+'_'+threegram[1]+'_'+threegram[2])#запис триграми одним словом
+            else:
+                black_list.append(threegram)
+        elif (threegram in list_of_threegrams): #tff для даної триграми вже розраховане й знаходиться у списку all_threegrams_scores[list_of_threegrams.index(threegram)]
+            tff = all_threegrams_scores[list_of_threegrams.index(threegram)]
+            threegrams_scores_within_doc.append(tff)
+            all_threegrams_scores.append(tff)
+            list_of_threegrams.append(threegram)
+            list_of_threegrams_name.append(threegram[0]+'_'+threegram[1]+'_'+threegram[2])#запис триграми одним словом
+    list_of_threegrams_scores.append(threegrams_scores_within_doc)
+    threegrams_scores_within_doc = []
+
+print 'Max_C '+str(max(all_threegrams_scores))       
+print  
+ 
+time_for_tf_threegrams = (time.time()-t0) - time_for_tf_bigrams
+print 'Time_for_tf_threegrams '+str(time_for_tf_threegrams)
 print
         
 #побулова графу видимості 1 ======================================================
@@ -265,21 +301,31 @@ print 'quantity_all_bigrams '+str(quantity_all_bigrams)
 print 'list_of_bigrams '+str(len(list_of_bigrams))
 print 'all_bigrams_scores '+str(len(all_bigrams_scores))
 print 
+g2 = nx.Graph()
+n = 0
+for scores in list_of_bigrams_scores:
+    #g2 = visibility_graph2(g2, scores, n)
+    g2 = horizontal_visibility_graph2(g2, scores, n)
+mapping = dict(zip(g2.nodes(),list_of_bigrams_name))
+g2 = nx.relabel_nodes(g2,mapping)
+filename = 'vg_bigrams.graphml'
+nx.write_graphml(g2,filename)
 
-#nx.draw_networkx(g1,node_color = ['g','r','y','1'])
-#plt.savefig("network_graph.png")
-#plt.show()
-#plt.close()
+#побулова графу видимості 3======================================================
+print 'quantity_all_threegrams '+str(quantity_all_threegrams)
+print 'list_of_threegrams '+str(len(list_of_threegrams))
+print 'all_threegrams_scores '+str(len(all_threegrams_scores))
+print 
+g3 = nx.Graph()
+n = 0
+for scores in list_of_threegrams_scores:
+    #g3 = visibility_graph2(g3, scores, n)
+    g3 = horizontal_visibility_graph2(g3, scores, n)
+mapping = dict(zip(g3.nodes(),list_of_threegrams_name))
+g3 = nx.relabel_nodes(g3,mapping)
 
-
-#nx.draw_networkx(g3,node_color = ['g','r','y','1'])
-#plt.savefig("network_graph_threegrams.png")
-#plt.show()
-
-#plt.close()
-#plt.barh(list_of_words, all_scores)
-#plt.savefig("gistigram.png")
-#plt.show()
+filename = 'vg_threegrams.graphml'
+nx.write_graphml(g3,filename)
 
 print 1.0*all_words.count('information')/len(all_words)
 print 1.0*all_bigrams.count(['information', 'extraction'])/len(all_bigrams)
@@ -287,10 +333,11 @@ print 1.0*all_threegrams.count(['quantum', 'information', 'theory'])/len(all_thr
 
 print 'Max_A '+str(max(all_scores))
 print 
-time_for_built_vg = (time.time()-t0) - time_for_tf_words
+time_for_built_vg = (time.time()-t0) - time_for_tf_threegrams
 
 print 'Time_for_read_files '+str(time_for_read_files)
 print 'Time_for_tf_words '+str(time_for_tf_words)
 print 'Time_for_tf_bigrams '+str(time_for_tf_bigrams)
+print 'Time_for_tf_bigrams '+str(time_for_tf_threegrams)
 print 'Time_for_built_vg '+str(time_for_built_vg)
 print 'Time: '+str(time.time()-t0)

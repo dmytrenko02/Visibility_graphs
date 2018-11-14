@@ -205,21 +205,31 @@ print 'Max_A '+str(max(all_scores))
 time_for_tf_words = (time.time()-t0) - time_for_read_files
 print 'Time_for_tf_words '+str(time_for_tf_words)
 print
-   
+  
 #TF-IDF_біграми=======================================================================
 bigrams_scores_within_doc = list()
 list_of_bigrams_scores = list()
 all_bigrams_scores = list()
 list_of_bigrams = list()
 list_of_bigrams_name =list()
+black_list = [] 
 quantity_all_bigrams = len(all_bigrams)
 print 'quantity_all_bigrams '+str(quantity_all_bigrams)
 lambda_ = 0.01*all_bigrams.count(['information', 'extraction'])/quantity_all_bigrams
 for i,blob in enumerate(bloblist_bigrams):
     print("B Document {}".format(i + 1))
     for bigram in blob:
-        tff = TF(bigram, all_bigrams, quantity_all_bigrams, bloblist_bigrams) 
-        if tff > lambda_:
+        if (bigram not in list_of_bigrams) and (bigram not in black_list): #(якщо розглянуте слово відсутнє в списку слів, що мають tff>lambda_)або(і це слово не в чорному списку)
+            tff = TF(bigram, all_bigrams, quantity_all_bigrams, bloblist_bigrams) 
+            if tff > lambda_:
+                bigrams_scores_within_doc.append(tff)
+                all_bigrams_scores.append(tff)
+                list_of_bigrams.append(bigram)
+                list_of_bigrams_name.append(bigram[0]+'_'+bigram[1])#запис біграми одним словом
+            else:
+                black_list.append(bigram)
+        elif (bigram in list_of_bigrams): #tff для даної біграми вже розраховане й знаходиться у списку all_bigrams_scores[list_of_bigrams.index(bigram)]
+            tff = all_bigrams_scores[list_of_bigrams.index(bigram)]
             bigrams_scores_within_doc.append(tff)
             all_bigrams_scores.append(tff)
             list_of_bigrams.append(bigram)

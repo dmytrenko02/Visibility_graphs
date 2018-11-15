@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="double" for="edge" id="d0"/>
+<graph edgedefault="directed"><node id="continuous_variable_teleportation"/>
+<node id="quantum_feedback_control"/>
+<node id="designing_hamiltonian"/>
+<node id="feedback"/>
+<node id="distortions"/>
+<node id="consider_optimizing"/>
+<node id="trade-off_in_quantum"/>
+<node id="universe_jumps"/>
+<node id="measurement_back-action"/>
+<node id="closed_quantum"/>
+<node id="answers_to_quantum"/>
+<node id="quantum_information_theory"/>
+<node id="desirable_properties"/>
+<node id="identify"/>
+<node id="extraction_and_quantum"/>
+<node id="measurement"/>
+<node id="quantum"/>
+<node id="hamiltonian_quantum"/>
+<node id="control_algorithms"/>
+<node id="variable_teleportation"/>
+<node id="distortions_correspond"/>
+<node id="field_amplitude"/>
+<node id="rules_governing"/>
+<node id="disturbance"/>
+<node id="distortions_in_continuous"/>
+<node id="field"/>
+<node id="continuous"/>
+<node id="rules_governing_temporal"/>
+<node id="control_strategy"/>
+<node id="governing_temporal"/>
+<node id="extraction"/>
+<node id="considered_in_quantum"/>
+<node id="motivates_concepts"/>
+<node id="name.akira_furusawa"/>
+<node id="measurement_estimation"/>
+<node id="feedback_control"/>
+<node id="optimizing_desirable"/>
+<node id="jungman"/>
+<node id="quantum_universe"/>
+<node id="entanglement"/>
+<node id="theory"/>
+<node id="extraction_and_disturbance"/>
+<node id="disturbance_and_hamiltonian"/>
+<node id="concepts_we_identify"/>
+<node id="amplitude_measurement"/>
+<node id="photon"/>
+<node id="teleportation"/>
+<node id="number"/>
+<node id="field_amplitude_measurement"/>
+<node id="control"/>
+<node id="motivates"/>
+<node id="name.gerard_jungman"/>
+<node id="variable"/>
+<node id="measurement_estimation_strategy"/>
+<node id="properties"/>
+<node id="quantum_feedback"/>
+<node id="fidelity_in_continuous"/>
+<node id="continuous_variable"/>
+<node id="non-maximal_entanglement"/>
+<node id="universe"/>
+<node id="photon_number"/>
+<node id="feedback_control_strategy"/>
+<node id="correspond"/>
+<node id="variable_quantum"/>
+<node id="optimizing_desirable_properties"/>
+<node id="consider_optimizing_desirable"/>
+<node id="quantum_teleportation"/>
+<node id="furusawa"/>
+<node id="amplitude"/>
+<node id="concepts"/>
+<node id="continuous_variable_quantum"/>
+<node id="designing_hamiltonian_quantum"/>
+<node id="estimation_strategy"/>
+<node id="extraction_and_noise"/>
+<edge source="designing_hamiltonian" target="designing_hamiltonian_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="feedback" target="quantum_feedback_control">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="feedback" target="feedback_control">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="feedback" target="feedback_control_strategy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="feedback" target="quantum_feedback">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="distortions" target="distortions_in_continuous">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="distortions" target="distortions_correspond">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="consider_optimizing" target="consider_optimizing_desirable">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="desirable_properties" target="optimizing_desirable_properties">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="identify" target="concepts_we_identify">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="measurement" target="measurement_estimation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="measurement" target="measurement_estimation_strategy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="measurement" target="amplitude_measurement">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="measurement" target="field_amplitude_measurement">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="measurement" target="measurement_back-action">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="quantum_feedback_control">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="quantum_universe">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="considered_in_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="trade-off_in_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="variable_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="closed_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="answers_to_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="quantum_information_theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="quantum_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="extraction_and_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="continuous_variable_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="hamiltonian_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="designing_hamiltonian_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum" target="quantum_feedback">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="hamiltonian_quantum" target="designing_hamiltonian_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="variable_teleportation" target="continuous_variable_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="field_amplitude" target="field_amplitude_measurement">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="rules_governing" target="rules_governing_temporal">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="disturbance" target="disturbance_and_hamiltonian">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="disturbance" target="extraction_and_disturbance">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="field" target="field_amplitude_measurement">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="field" target="field_amplitude">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="continuous" target="continuous_variable_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="continuous" target="fidelity_in_continuous">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="continuous" target="distortions_in_continuous">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="continuous" target="continuous_variable_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="continuous" target="continuous_variable">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="control_strategy" target="feedback_control_strategy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="governing_temporal" target="rules_governing_temporal">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="extraction" target="extraction_and_noise">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="extraction" target="extraction_and_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="extraction" target="extraction_and_disturbance">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="measurement_estimation" target="measurement_estimation_strategy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="feedback_control" target="quantum_feedback_control">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="feedback_control" target="feedback_control_strategy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="optimizing_desirable" target="consider_optimizing_desirable">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="optimizing_desirable" target="optimizing_desirable_properties">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="jungman" target="name.gerard_jungman">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="entanglement" target="non-maximal_entanglement">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="theory" target="quantum_information_theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="amplitude_measurement" target="field_amplitude_measurement">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="photon" target="photon_number">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="teleportation" target="continuous_variable_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="teleportation" target="variable_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="teleportation" target="quantum_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="number" target="photon_number">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="control" target="quantum_feedback_control">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="control" target="control_algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="control" target="feedback_control_strategy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="control" target="control_strategy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="control" target="feedback_control">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="motivates" target="motivates_concepts">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="variable" target="continuous_variable_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="variable" target="continuous_variable_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="variable" target="variable_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="variable" target="variable_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="variable" target="continuous_variable">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="properties" target="desirable_properties">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="properties" target="optimizing_desirable_properties">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="quantum_feedback" target="quantum_feedback_control">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="continuous_variable" target="continuous_variable_teleportation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="continuous_variable" target="continuous_variable_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="universe" target="quantum_universe">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="universe" target="universe_jumps">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="correspond" target="distortions_correspond">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="variable_quantum" target="continuous_variable_quantum">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="furusawa" target="name.akira_furusawa">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="amplitude" target="field_amplitude_measurement">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="amplitude" target="amplitude_measurement">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="amplitude" target="field_amplitude">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="concepts" target="concepts_we_identify">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="concepts" target="motivates_concepts">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="estimation_strategy" target="measurement_estimation_strategy">
+  <data key="d0">1.0</data>
+</edge>
+</graph></graphml>

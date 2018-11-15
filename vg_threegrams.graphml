@@ -1,0 +1,904 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="mag" attr.type="double" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="resource_is_doubled">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="superadditive_quantum_coding">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="reported_phys_rev">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="quantum_information_theory">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="extraction_and_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="entanglement_is_analyzed">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="answers_to_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="achieved_by_maximal">
+  <data key="d0">0.000308213900447</data>
+</node>
+<node id="classical_capacity_limit">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="rules_governing_temporal">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="transfer_of_effects">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="implications_for_cosmology">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="doubled_in_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="performance_by_introducing">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="quantum_channel_coding">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="disturbance_and_hamiltonian">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="quantum_coding_accessible">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="measurement_estimation_strategy">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="introducing_the_quantum-classical">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="accessible_information_extraction">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="exact_causality_achieved">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="continuous_variable_teleportation">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="quantum_feedback_control">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="strategy_of_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="requires_a_collective">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="feature_the_superadditive">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="discuss_the_implications">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="dimension_we_discuss">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="quantum_collective_decoding">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="entanglement_distribution_channels">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="causality_in_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="circuits_is_emphasized">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="extraction_and_disturbance">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="gain_on_communication">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="propose_a_paradigm">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="fidelity_in_continuous">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="measurements_superadditive_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="physical_quantum_circuits">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="implementation_of_generalized">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="extraction_and_classical">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="optimizing_desirable_properties">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="strategy_and_consider">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="consider_optimizing_desirable">
+  <data key="d0">0.000231160425335</data>
+</node>
+<node id="considered_in_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="designing_hamiltonian_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="definition_of_precise">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="observers_we_propose">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="trade-off_in_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="name.andrew_c_doherty">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="separating_the_problem">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="content_and_rules">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="rules_are_currently">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="series_of_stages">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="90_167906_2003">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="corresponding_non-commuting_properties">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="address_the_practical">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="collective_quantum_measurement">
+  <data key="d0">0.000154106950223</data>
+</node>
+<node id="lett_90_167906">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="concepts_we_identify">
+  <data key="d0">0.000154106950223</data>
+</node>
+<node id="paper_the_exact">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="decoding_which_requires">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="allows_a_definition">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="generalized_quantum_measurements">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="decoding_in_physical">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="effects_in_entanglement">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="hybrid_coding_scheme">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="demonstration_was_reported">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="corresponding_quantum_decoding">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="channel_coding_technique">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="feedback_control_strategy">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="field_amplitude_measurement">
+  <data key="d0">0.000154106950223</data>
+</node>
+<node id="continuous_variable_quantum">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="name.holger_f_hofmann">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="extraction_and_noise">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="choices_of_code">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="rev_lett_90">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="quantum_measurements_superadditive">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="distortions_in_continuous">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="variable_quantum_teleportation">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="quantum_coding_gain">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="analyze_the_loss">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="problem_of_designing">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="phys_rev_lett">
+  <data key="d0">0.000154106950223</data>
+</node>
+<node id="feedback_control_algorithms">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="time_is_synonymous">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="transferring_the_corresponding">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="entangled_system_distributed">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="teleportation_information_extraction">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="governing_temporal_evolution">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="quantum_state_distortions">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="classical_information_theory">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="2003_the_purpose">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="implemented_by_appropriate">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="hamiltonian_quantum_feedback">
+  <data key="d0">0.00231160425335</data>
+</node>
+<node id="quantum-classical_hybrid_coding">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="stage_is_defined">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<node id="loss_of_fidelity">
+  <data key="d0">7.70534751117e-05</data>
+</node>
+<edge source="resource_is_doubled" target="doubled_in_quantum"/>
+<edge source="resource_is_doubled" target="quantum_information_theory"/>
+<edge source="resource_is_doubled" target="observers_we_propose"/>
+<edge source="superadditive_quantum_coding" target="quantum_measurements_superadditive"/>
+<edge source="superadditive_quantum_coding" target="transfer_of_effects"/>
+<edge source="superadditive_quantum_coding" target="classical_capacity_limit"/>
+<edge source="superadditive_quantum_coding" target="requires_a_collective"/>
+<edge source="superadditive_quantum_coding" target="feature_the_superadditive"/>
+<edge source="superadditive_quantum_coding" target="quantum_coding_accessible"/>
+<edge source="superadditive_quantum_coding" target="teleportation_information_extraction"/>
+<edge source="superadditive_quantum_coding" target="accessible_information_extraction"/>
+<edge source="superadditive_quantum_coding" target="exact_causality_achieved"/>
+<edge source="superadditive_quantum_coding" target="generalized_quantum_measurements"/>
+<edge source="superadditive_quantum_coding" target="quantum_coding_gain"/>
+<edge source="superadditive_quantum_coding" target="measurements_superadditive_quantum"/>
+<edge source="superadditive_quantum_coding" target="doubled_in_quantum"/>
+<edge source="superadditive_quantum_coding" target="hybrid_coding_scheme"/>
+<edge source="reported_phys_rev" target="demonstration_was_reported"/>
+<edge source="reported_phys_rev" target="phys_rev_lett"/>
+<edge source="quantum_information_theory" target="quantum_feedback_control"/>
+<edge source="quantum_information_theory" target="classical_capacity_limit"/>
+<edge source="quantum_information_theory" target="trade-off_in_quantum"/>
+<edge source="quantum_information_theory" target="name.andrew_c_doherty"/>
+<edge source="quantum_information_theory" target="separating_the_problem"/>
+<edge source="quantum_information_theory" target="extraction_and_quantum"/>
+<edge source="quantum_information_theory" target="entanglement_is_analyzed"/>
+<edge source="quantum_information_theory" target="problem_of_designing"/>
+<edge source="quantum_information_theory" target="feedback_control_algorithms"/>
+<edge source="quantum_information_theory" target="time_is_synonymous"/>
+<edge source="quantum_information_theory" target="extraction_and_disturbance"/>
+<edge source="quantum_information_theory" target="concepts_we_identify"/>
+<edge source="quantum_information_theory" target="paper_the_exact"/>
+<edge source="quantum_information_theory" target="quantum_coding_accessible"/>
+<edge source="quantum_information_theory" target="measurement_estimation_strategy"/>
+<edge source="quantum_information_theory" target="governing_temporal_evolution"/>
+<edge source="quantum_information_theory" target="quantum_state_distortions"/>
+<edge source="quantum_information_theory" target="feedback_control_strategy"/>
+<edge source="quantum_information_theory" target="strategy_and_consider"/>
+<edge source="quantum_information_theory" target="consider_optimizing_desirable"/>
+<edge source="quantum_information_theory" target="considered_in_quantum"/>
+<edge source="quantum_information_theory" target="hamiltonian_quantum_feedback"/>
+<edge source="quantum_information_theory" target="continuous_variable_quantum"/>
+<edge source="quantum_information_theory" target="name.holger_f_hofmann"/>
+<edge source="extraction_and_quantum" target="continuous_variable_teleportation"/>
+<edge source="extraction_and_quantum" target="quantum_feedback_control"/>
+<edge source="extraction_and_quantum" target="name.andrew_c_doherty"/>
+<edge source="extraction_and_quantum" target="separating_the_problem"/>
+<edge source="extraction_and_quantum" target="achieved_by_maximal"/>
+<edge source="extraction_and_quantum" target="distortions_in_continuous"/>
+<edge source="extraction_and_quantum" target="variable_quantum_teleportation"/>
+<edge source="extraction_and_quantum" target="problem_of_designing"/>
+<edge source="extraction_and_quantum" target="extraction_and_disturbance"/>
+<edge source="extraction_and_quantum" target="disturbance_and_hamiltonian"/>
+<edge source="extraction_and_quantum" target="concepts_we_identify"/>
+<edge source="extraction_and_quantum" target="paper_the_exact"/>
+<edge source="extraction_and_quantum" target="entangled_system_distributed"/>
+<edge source="extraction_and_quantum" target="fidelity_in_continuous"/>
+<edge source="extraction_and_quantum" target="governing_temporal_evolution"/>
+<edge source="extraction_and_quantum" target="quantum_state_distortions"/>
+<edge source="extraction_and_quantum" target="loss_of_fidelity"/>
+<edge source="extraction_and_quantum" target="feedback_control_strategy"/>
+<edge source="extraction_and_quantum" target="optimizing_desirable_properties"/>
+<edge source="extraction_and_quantum" target="strategy_and_consider"/>
+<edge source="extraction_and_quantum" target="consider_optimizing_desirable"/>
+<edge source="extraction_and_quantum" target="considered_in_quantum"/>
+<edge source="extraction_and_quantum" target="hamiltonian_quantum_feedback"/>
+<edge source="extraction_and_quantum" target="continuous_variable_quantum"/>
+<edge source="extraction_and_quantum" target="name.holger_f_hofmann"/>
+<edge source="extraction_and_quantum" target="designing_hamiltonian_quantum"/>
+<edge source="entanglement_is_analyzed" target="achieved_by_maximal"/>
+<edge source="entanglement_is_analyzed" target="classical_capacity_limit"/>
+<edge source="entanglement_is_analyzed" target="discuss_the_implications"/>
+<edge source="entanglement_is_analyzed" target="transfer_of_effects"/>
+<edge source="entanglement_is_analyzed" target="implications_for_cosmology"/>
+<edge source="entanglement_is_analyzed" target="extraction_and_noise"/>
+<edge source="answers_to_quantum" target="discuss_the_implications"/>
+<edge source="answers_to_quantum" target="dimension_we_discuss"/>
+<edge source="answers_to_quantum" target="quantum_measurements_superadditive"/>
+<edge source="answers_to_quantum" target="propose_a_paradigm"/>
+<edge source="answers_to_quantum" target="concepts_we_identify"/>
+<edge source="answers_to_quantum" target="stage_is_defined"/>
+<edge source="answers_to_quantum" target="rules_governing_temporal"/>
+<edge source="answers_to_quantum" target="name.andrew_c_doherty"/>
+<edge source="answers_to_quantum" target="time_is_synonymous"/>
+<edge source="answers_to_quantum" target="teleportation_information_extraction"/>
+<edge source="answers_to_quantum" target="causality_in_quantum"/>
+<edge source="answers_to_quantum" target="hamiltonian_quantum_feedback"/>
+<edge source="answers_to_quantum" target="analyze_the_loss"/>
+<edge source="answers_to_quantum" target="variable_quantum_teleportation"/>
+<edge source="answers_to_quantum" target="content_and_rules"/>
+<edge source="answers_to_quantum" target="name.holger_f_hofmann"/>
+<edge source="answers_to_quantum" target="effects_in_entanglement"/>
+<edge source="answers_to_quantum" target="governing_temporal_evolution"/>
+<edge source="answers_to_quantum" target="rules_are_currently"/>
+<edge source="achieved_by_maximal" target="quantum_state_distortions"/>
+<edge source="achieved_by_maximal" target="series_of_stages"/>
+<edge source="achieved_by_maximal" target="discuss_the_implications"/>
+<edge source="achieved_by_maximal" target="accessible_information_extraction"/>
+<edge source="achieved_by_maximal" target="exact_causality_achieved"/>
+<edge source="achieved_by_maximal" target="effects_in_entanglement"/>
+<edge source="classical_capacity_limit" target="extraction_and_classical"/>
+<edge source="rules_governing_temporal" target="continuous_variable_teleportation"/>
+<edge source="rules_governing_temporal" target="observers_we_propose"/>
+<edge source="rules_governing_temporal" target="trade-off_in_quantum"/>
+<edge source="rules_governing_temporal" target="content_and_rules"/>
+<edge source="rules_governing_temporal" target="dimension_we_discuss"/>
+<edge source="rules_governing_temporal" target="rules_are_currently"/>
+<edge source="rules_governing_temporal" target="series_of_stages"/>
+<edge source="rules_governing_temporal" target="variable_quantum_teleportation"/>
+<edge source="rules_governing_temporal" target="causality_in_quantum"/>
+<edge source="rules_governing_temporal" target="problem_of_designing"/>
+<edge source="rules_governing_temporal" target="time_is_synonymous"/>
+<edge source="rules_governing_temporal" target="propose_a_paradigm"/>
+<edge source="rules_governing_temporal" target="concepts_we_identify"/>
+<edge source="rules_governing_temporal" target="fidelity_in_continuous"/>
+<edge source="rules_governing_temporal" target="teleportation_information_extraction"/>
+<edge source="rules_governing_temporal" target="measurement_estimation_strategy"/>
+<edge source="rules_governing_temporal" target="governing_temporal_evolution"/>
+<edge source="rules_governing_temporal" target="quantum_state_distortions"/>
+<edge source="rules_governing_temporal" target="allows_a_definition"/>
+<edge source="rules_governing_temporal" target="optimizing_desirable_properties"/>
+<edge source="rules_governing_temporal" target="hamiltonian_quantum_feedback"/>
+<edge source="rules_governing_temporal" target="continuous_variable_quantum"/>
+<edge source="rules_governing_temporal" target="designing_hamiltonian_quantum"/>
+<edge source="transfer_of_effects" target="quantum_measurements_superadditive"/>
+<edge source="transfer_of_effects" target="series_of_stages"/>
+<edge source="transfer_of_effects" target="entanglement_distribution_channels"/>
+<edge source="transfer_of_effects" target="paper_the_exact"/>
+<edge source="transfer_of_effects" target="quantum_coding_accessible"/>
+<edge source="transfer_of_effects" target="teleportation_information_extraction"/>
+<edge source="transfer_of_effects" target="corresponding_non-commuting_properties"/>
+<edge source="transfer_of_effects" target="effects_in_entanglement"/>
+<edge source="implications_for_cosmology" target="discuss_the_implications"/>
+<edge source="implications_for_cosmology" target="measurements_superadditive_quantum"/>
+<edge source="implications_for_cosmology" target="content_and_rules"/>
+<edge source="implications_for_cosmology" target="causality_in_quantum"/>
+<edge source="implications_for_cosmology" target="analyze_the_loss"/>
+<edge source="implications_for_cosmology" target="hamiltonian_quantum_feedback"/>
+<edge source="implications_for_cosmology" target="extraction_and_noise"/>
+<edge source="implications_for_cosmology" target="entanglement_distribution_channels"/>
+<edge source="implications_for_cosmology" target="rules_are_currently"/>
+<edge source="doubled_in_quantum" target="channel_coding_technique"/>
+<edge source="doubled_in_quantum" target="quantum_channel_coding"/>
+<edge source="performance_by_introducing" target="introducing_the_quantum-classical"/>
+<edge source="performance_by_introducing" target="gain_on_communication"/>
+<edge source="quantum_channel_coding" target="generalized_quantum_measurements"/>
+<edge source="quantum_channel_coding" target="channel_coding_technique"/>
+<edge source="quantum_channel_coding" target="definition_of_precise"/>
+<edge source="disturbance_and_hamiltonian" target="quantum_feedback_control"/>
+<edge source="disturbance_and_hamiltonian" target="extraction_and_disturbance"/>
+<edge source="disturbance_and_hamiltonian" target="concepts_we_identify"/>
+<edge source="disturbance_and_hamiltonian" target="trade-off_in_quantum"/>
+<edge source="disturbance_and_hamiltonian" target="feedback_control_strategy"/>
+<edge source="disturbance_and_hamiltonian" target="entangled_system_distributed"/>
+<edge source="disturbance_and_hamiltonian" target="separating_the_problem"/>
+<edge source="disturbance_and_hamiltonian" target="consider_optimizing_desirable"/>
+<edge source="disturbance_and_hamiltonian" target="hamiltonian_quantum_feedback"/>
+<edge source="disturbance_and_hamiltonian" target="problem_of_designing"/>
+<edge source="disturbance_and_hamiltonian" target="measurement_estimation_strategy"/>
+<edge source="disturbance_and_hamiltonian" target="feedback_control_algorithms"/>
+<edge source="disturbance_and_hamiltonian" target="designing_hamiltonian_quantum"/>
+<edge source="quantum_coding_accessible" target="choices_of_code"/>
+<edge source="quantum_coding_accessible" target="implementation_of_generalized"/>
+<edge source="quantum_coding_accessible" target="transferring_the_corresponding"/>
+<edge source="quantum_coding_accessible" target="trade-off_in_quantum"/>
+<edge source="quantum_coding_accessible" target="paper_the_exact"/>
+<edge source="quantum_coding_accessible" target="accessible_information_extraction"/>
+<edge source="measurement_estimation_strategy" target="quantum_feedback_control"/>
+<edge source="measurement_estimation_strategy" target="distortions_in_continuous"/>
+<edge source="measurement_estimation_strategy" target="extraction_and_disturbance"/>
+<edge source="measurement_estimation_strategy" target="quantum_state_distortions"/>
+<edge source="measurement_estimation_strategy" target="variable_quantum_teleportation"/>
+<edge source="measurement_estimation_strategy" target="trade-off_in_quantum"/>
+<edge source="measurement_estimation_strategy" target="feedback_control_strategy"/>
+<edge source="measurement_estimation_strategy" target="strategy_and_consider"/>
+<edge source="measurement_estimation_strategy" target="optimizing_desirable_properties"/>
+<edge source="measurement_estimation_strategy" target="separating_the_problem"/>
+<edge source="measurement_estimation_strategy" target="consider_optimizing_desirable"/>
+<edge source="measurement_estimation_strategy" target="considered_in_quantum"/>
+<edge source="measurement_estimation_strategy" target="hamiltonian_quantum_feedback"/>
+<edge source="measurement_estimation_strategy" target="continuous_variable_quantum"/>
+<edge source="measurement_estimation_strategy" target="problem_of_designing"/>
+<edge source="measurement_estimation_strategy" target="name.andrew_c_doherty"/>
+<edge source="measurement_estimation_strategy" target="feedback_control_algorithms"/>
+<edge source="measurement_estimation_strategy" target="designing_hamiltonian_quantum"/>
+<edge source="introducing_the_quantum-classical" target="quantum-classical_hybrid_coding"/>
+<edge source="accessible_information_extraction" target="implementation_of_generalized"/>
+<edge source="accessible_information_extraction" target="extraction_and_classical"/>
+<edge source="exact_causality_achieved" target="quantum_state_distortions"/>
+<edge source="exact_causality_achieved" target="observers_we_propose"/>
+<edge source="exact_causality_achieved" target="discuss_the_implications"/>
+<edge source="exact_causality_achieved" target="paper_the_exact"/>
+<edge source="exact_causality_achieved" target="dimension_we_discuss"/>
+<edge source="exact_causality_achieved" target="time_is_synonymous"/>
+<edge source="continuous_variable_teleportation" target="quantum_feedback_control"/>
+<edge source="continuous_variable_teleportation" target="rules_are_currently"/>
+<edge source="continuous_variable_teleportation" target="quantum_state_distortions"/>
+<edge source="continuous_variable_teleportation" target="series_of_stages"/>
+<edge source="continuous_variable_teleportation" target="observers_we_propose"/>
+<edge source="continuous_variable_teleportation" target="propose_a_paradigm"/>
+<edge source="continuous_variable_teleportation" target="variable_quantum_teleportation"/>
+<edge source="continuous_variable_teleportation" target="field_amplitude_measurement"/>
+<edge source="continuous_variable_teleportation" target="feedback_control_strategy"/>
+<edge source="continuous_variable_teleportation" target="separating_the_problem"/>
+<edge source="continuous_variable_teleportation" target="consider_optimizing_desirable"/>
+<edge source="continuous_variable_teleportation" target="considered_in_quantum"/>
+<edge source="continuous_variable_teleportation" target="hamiltonian_quantum_feedback"/>
+<edge source="continuous_variable_teleportation" target="analyze_the_loss"/>
+<edge source="continuous_variable_teleportation" target="dimension_we_discuss"/>
+<edge source="continuous_variable_teleportation" target="causality_in_quantum"/>
+<edge source="continuous_variable_teleportation" target="governing_temporal_evolution"/>
+<edge source="continuous_variable_teleportation" target="designing_hamiltonian_quantum"/>
+<edge source="continuous_variable_teleportation" target="fidelity_in_continuous"/>
+<edge source="quantum_feedback_control" target="quantum_feedback_control"/>
+<edge source="quantum_feedback_control" target="observers_we_propose"/>
+<edge source="quantum_feedback_control" target="trade-off_in_quantum"/>
+<edge source="quantum_feedback_control" target="name.andrew_c_doherty"/>
+<edge source="quantum_feedback_control" target="separating_the_problem"/>
+<edge source="quantum_feedback_control" target="series_of_stages"/>
+<edge source="quantum_feedback_control" target="variable_quantum_teleportation"/>
+<edge source="quantum_feedback_control" target="entanglement_distribution_channels"/>
+<edge source="quantum_feedback_control" target="propose_a_paradigm"/>
+<edge source="quantum_feedback_control" target="causality_in_quantum"/>
+<edge source="quantum_feedback_control" target="analyze_the_loss"/>
+<edge source="quantum_feedback_control" target="problem_of_designing"/>
+<edge source="quantum_feedback_control" target="feedback_control_algorithms"/>
+<edge source="quantum_feedback_control" target="transferring_the_corresponding"/>
+<edge source="quantum_feedback_control" target="extraction_and_disturbance"/>
+<edge source="quantum_feedback_control" target="quantum_state_distortions"/>
+<edge source="quantum_feedback_control" target="concepts_we_identify"/>
+<edge source="quantum_feedback_control" target="field_amplitude_measurement"/>
+<edge source="quantum_feedback_control" target="fidelity_in_continuous"/>
+<edge source="quantum_feedback_control" target="loss_of_fidelity"/>
+<edge source="quantum_feedback_control" target="feedback_control_strategy"/>
+<edge source="quantum_feedback_control" target="optimizing_desirable_properties"/>
+<edge source="quantum_feedback_control" target="strategy_and_consider"/>
+<edge source="quantum_feedback_control" target="consider_optimizing_desirable"/>
+<edge source="quantum_feedback_control" target="considered_in_quantum"/>
+<edge source="quantum_feedback_control" target="hamiltonian_quantum_feedback"/>
+<edge source="quantum_feedback_control" target="stage_is_defined"/>
+<edge source="quantum_feedback_control" target="continuous_variable_quantum"/>
+<edge source="quantum_feedback_control" target="name.holger_f_hofmann"/>
+<edge source="quantum_feedback_control" target="designing_hamiltonian_quantum"/>
+<edge source="strategy_of_quantum" target="quantum_collective_decoding"/>
+<edge source="strategy_of_quantum" target="2003_the_purpose"/>
+<edge source="requires_a_collective" target="collective_quantum_measurement"/>
+<edge source="requires_a_collective" target="decoding_which_requires"/>
+<edge source="feature_the_superadditive" target="lett_90_167906"/>
+<edge source="feature_the_superadditive" target="classical_information_theory"/>
+<edge source="feature_the_superadditive" target="time_is_synonymous"/>
+<edge source="feature_the_superadditive" target="channel_coding_technique"/>
+<edge source="discuss_the_implications" target="definition_of_precise"/>
+<edge source="discuss_the_implications" target="observers_we_propose"/>
+<edge source="discuss_the_implications" target="separating_the_problem"/>
+<edge source="discuss_the_implications" target="dimension_we_discuss"/>
+<edge source="discuss_the_implications" target="distortions_in_continuous"/>
+<edge source="discuss_the_implications" target="entanglement_distribution_channels"/>
+<edge source="discuss_the_implications" target="corresponding_non-commuting_properties"/>
+<edge source="discuss_the_implications" target="quantum_measurements_superadditive"/>
+<edge source="discuss_the_implications" target="propose_a_paradigm"/>
+<edge source="discuss_the_implications" target="field_amplitude_measurement"/>
+<edge source="discuss_the_implications" target="measurements_superadditive_quantum"/>
+<edge source="discuss_the_implications" target="series_of_stages"/>
+<edge source="discuss_the_implications" target="fidelity_in_continuous"/>
+<edge source="discuss_the_implications" target="implementation_of_generalized"/>
+<edge source="discuss_the_implications" target="channel_coding_technique"/>
+<edge source="discuss_the_implications" target="feedback_control_strategy"/>
+<edge source="discuss_the_implications" target="stage_is_defined"/>
+<edge source="discuss_the_implications" target="name.holger_f_hofmann"/>
+<edge source="discuss_the_implications" target="loss_of_fidelity"/>
+<edge source="dimension_we_discuss" target="quantum_state_distortions"/>
+<edge source="dimension_we_discuss" target="definition_of_precise"/>
+<edge source="dimension_we_discuss" target="observers_we_propose"/>
+<edge source="dimension_we_discuss" target="propose_a_paradigm"/>
+<edge source="dimension_we_discuss" target="variable_quantum_teleportation"/>
+<edge source="dimension_we_discuss" target="hamiltonian_quantum_feedback"/>
+<edge source="dimension_we_discuss" target="extraction_and_noise"/>
+<edge source="dimension_we_discuss" target="content_and_rules"/>
+<edge source="dimension_we_discuss" target="stage_is_defined"/>
+<edge source="dimension_we_discuss" target="continuous_variable_quantum"/>
+<edge source="dimension_we_discuss" target="name.holger_f_hofmann"/>
+<edge source="dimension_we_discuss" target="time_is_synonymous"/>
+<edge source="dimension_we_discuss" target="rules_are_currently"/>
+<edge source="quantum_collective_decoding" target="decoding_in_physical"/>
+<edge source="entanglement_distribution_channels" target="definition_of_precise"/>
+<edge source="entanglement_distribution_channels" target="entangled_system_distributed"/>
+<edge source="causality_in_quantum" target="allows_a_definition"/>
+<edge source="causality_in_quantum" target="teleportation_information_extraction"/>
+<edge source="causality_in_quantum" target="corresponding_non-commuting_properties"/>
+<edge source="causality_in_quantum" target="governing_temporal_evolution"/>
+<edge source="causality_in_quantum" target="extraction_and_noise"/>
+<edge source="causality_in_quantum" target="rules_are_currently"/>
+<edge source="circuits_is_emphasized" target="address_the_practical"/>
+<edge source="circuits_is_emphasized" target="physical_quantum_circuits"/>
+<edge source="extraction_and_disturbance" target="quantum_state_distortions"/>
+<edge source="extraction_and_disturbance" target="variable_quantum_teleportation"/>
+<edge source="extraction_and_disturbance" target="name.andrew_c_doherty"/>
+<edge source="extraction_and_disturbance" target="observers_we_propose"/>
+<edge source="extraction_and_disturbance" target="feedback_control_strategy"/>
+<edge source="extraction_and_disturbance" target="strategy_and_consider"/>
+<edge source="extraction_and_disturbance" target="optimizing_desirable_properties"/>
+<edge source="extraction_and_disturbance" target="separating_the_problem"/>
+<edge source="extraction_and_disturbance" target="consider_optimizing_desirable"/>
+<edge source="extraction_and_disturbance" target="considered_in_quantum"/>
+<edge source="extraction_and_disturbance" target="hamiltonian_quantum_feedback"/>
+<edge source="extraction_and_disturbance" target="loss_of_fidelity"/>
+<edge source="extraction_and_disturbance" target="feedback_control_algorithms"/>
+<edge source="extraction_and_disturbance" target="designing_hamiltonian_quantum"/>
+<edge source="extraction_and_disturbance" target="fidelity_in_continuous"/>
+<edge source="gain_on_communication" target="address_the_practical"/>
+<edge source="propose_a_paradigm" target="observers_we_propose"/>
+<edge source="propose_a_paradigm" target="name.andrew_c_doherty"/>
+<edge source="propose_a_paradigm" target="separating_the_problem"/>
+<edge source="propose_a_paradigm" target="series_of_stages"/>
+<edge source="propose_a_paradigm" target="variable_quantum_teleportation"/>
+<edge source="propose_a_paradigm" target="corresponding_non-commuting_properties"/>
+<edge source="propose_a_paradigm" target="analyze_the_loss"/>
+<edge source="propose_a_paradigm" target="transferring_the_corresponding"/>
+<edge source="propose_a_paradigm" target="fidelity_in_continuous"/>
+<edge source="propose_a_paradigm" target="quantum_state_distortions"/>
+<edge source="propose_a_paradigm" target="designing_hamiltonian_quantum"/>
+<edge source="propose_a_paradigm" target="feedback_control_strategy"/>
+<edge source="propose_a_paradigm" target="optimizing_desirable_properties"/>
+<edge source="propose_a_paradigm" target="effects_in_entanglement"/>
+<edge source="propose_a_paradigm" target="hamiltonian_quantum_feedback"/>
+<edge source="propose_a_paradigm" target="stage_is_defined"/>
+<edge source="propose_a_paradigm" target="field_amplitude_measurement"/>
+<edge source="propose_a_paradigm" target="continuous_variable_quantum"/>
+<edge source="propose_a_paradigm" target="loss_of_fidelity"/>
+<edge source="fidelity_in_continuous" target="trade-off_in_quantum"/>
+<edge source="fidelity_in_continuous" target="name.andrew_c_doherty"/>
+<edge source="fidelity_in_continuous" target="content_and_rules"/>
+<edge source="fidelity_in_continuous" target="distortions_in_continuous"/>
+<edge source="fidelity_in_continuous" target="variable_quantum_teleportation"/>
+<edge source="fidelity_in_continuous" target="feedback_control_algorithms"/>
+<edge source="fidelity_in_continuous" target="teleportation_information_extraction"/>
+<edge source="fidelity_in_continuous" target="series_of_stages"/>
+<edge source="fidelity_in_continuous" target="quantum_state_distortions"/>
+<edge source="fidelity_in_continuous" target="designing_hamiltonian_quantum"/>
+<edge source="fidelity_in_continuous" target="feedback_control_strategy"/>
+<edge source="fidelity_in_continuous" target="strategy_and_consider"/>
+<edge source="fidelity_in_continuous" target="consider_optimizing_desirable"/>
+<edge source="fidelity_in_continuous" target="considered_in_quantum"/>
+<edge source="fidelity_in_continuous" target="hamiltonian_quantum_feedback"/>
+<edge source="fidelity_in_continuous" target="stage_is_defined"/>
+<edge source="fidelity_in_continuous" target="name.holger_f_hofmann"/>
+<edge source="fidelity_in_continuous" target="loss_of_fidelity"/>
+<edge source="fidelity_in_continuous" target="extraction_and_noise"/>
+<edge source="measurements_superadditive_quantum" target="name.holger_f_hofmann"/>
+<edge source="measurements_superadditive_quantum" target="quantum_measurements_superadditive"/>
+<edge source="physical_quantum_circuits" target="decoding_in_physical"/>
+<edge source="implementation_of_generalized" target="transferring_the_corresponding"/>
+<edge source="implementation_of_generalized" target="definition_of_precise"/>
+<edge source="implementation_of_generalized" target="content_and_rules"/>
+<edge source="implementation_of_generalized" target="generalized_quantum_measurements"/>
+<edge source="implementation_of_generalized" target="name.holger_f_hofmann"/>
+<edge source="optimizing_desirable_properties" target="trade-off_in_quantum"/>
+<edge source="optimizing_desirable_properties" target="distortions_in_continuous"/>
+<edge source="optimizing_desirable_properties" target="variable_quantum_teleportation"/>
+<edge source="optimizing_desirable_properties" target="problem_of_designing"/>
+<edge source="optimizing_desirable_properties" target="feedback_control_algorithms"/>
+<edge source="optimizing_desirable_properties" target="concepts_we_identify"/>
+<edge source="optimizing_desirable_properties" target="quantum_state_distortions"/>
+<edge source="optimizing_desirable_properties" target="designing_hamiltonian_quantum"/>
+<edge source="optimizing_desirable_properties" target="feedback_control_strategy"/>
+<edge source="optimizing_desirable_properties" target="strategy_and_consider"/>
+<edge source="optimizing_desirable_properties" target="consider_optimizing_desirable"/>
+<edge source="optimizing_desirable_properties" target="considered_in_quantum"/>
+<edge source="optimizing_desirable_properties" target="hamiltonian_quantum_feedback"/>
+<edge source="optimizing_desirable_properties" target="stage_is_defined"/>
+<edge source="optimizing_desirable_properties" target="continuous_variable_quantum"/>
+<edge source="optimizing_desirable_properties" target="loss_of_fidelity"/>
+<edge source="strategy_and_consider" target="trade-off_in_quantum"/>
+<edge source="strategy_and_consider" target="name.andrew_c_doherty"/>
+<edge source="strategy_and_consider" target="separating_the_problem"/>
+<edge source="strategy_and_consider" target="distortions_in_continuous"/>
+<edge source="strategy_and_consider" target="variable_quantum_teleportation"/>
+<edge source="strategy_and_consider" target="problem_of_designing"/>
+<edge source="strategy_and_consider" target="feedback_control_algorithms"/>
+<edge source="strategy_and_consider" target="concepts_we_identify"/>
+<edge source="strategy_and_consider" target="governing_temporal_evolution"/>
+<edge source="strategy_and_consider" target="quantum_state_distortions"/>
+<edge source="strategy_and_consider" target="feedback_control_strategy"/>
+<edge source="strategy_and_consider" target="consider_optimizing_desirable"/>
+<edge source="strategy_and_consider" target="considered_in_quantum"/>
+<edge source="strategy_and_consider" target="hamiltonian_quantum_feedback"/>
+<edge source="strategy_and_consider" target="field_amplitude_measurement"/>
+<edge source="strategy_and_consider" target="continuous_variable_quantum"/>
+<edge source="strategy_and_consider" target="name.holger_f_hofmann"/>
+<edge source="strategy_and_consider" target="loss_of_fidelity"/>
+<edge source="consider_optimizing_desirable" target="series_of_stages"/>
+<edge source="consider_optimizing_desirable" target="concepts_we_identify"/>
+<edge source="consider_optimizing_desirable" target="feedback_control_strategy"/>
+<edge source="consider_optimizing_desirable" target="loss_of_fidelity"/>
+<edge source="consider_optimizing_desirable" target="hamiltonian_quantum_feedback"/>
+<edge source="consider_optimizing_desirable" target="analyze_the_loss"/>
+<edge source="consider_optimizing_desirable" target="problem_of_designing"/>
+<edge source="consider_optimizing_desirable" target="designing_hamiltonian_quantum"/>
+<edge source="consider_optimizing_desirable" target="distortions_in_continuous"/>
+<edge source="considered_in_quantum" target="series_of_stages"/>
+<edge source="considered_in_quantum" target="quantum_state_distortions"/>
+<edge source="considered_in_quantum" target="concepts_we_identify"/>
+<edge source="considered_in_quantum" target="trade-off_in_quantum"/>
+<edge source="considered_in_quantum" target="feedback_control_strategy"/>
+<edge source="considered_in_quantum" target="loss_of_fidelity"/>
+<edge source="considered_in_quantum" target="field_amplitude_measurement"/>
+<edge source="considered_in_quantum" target="hamiltonian_quantum_feedback"/>
+<edge source="considered_in_quantum" target="problem_of_designing"/>
+<edge source="considered_in_quantum" target="feedback_control_algorithms"/>
+<edge source="considered_in_quantum" target="designing_hamiltonian_quantum"/>
+<edge source="designing_hamiltonian_quantum" target="trade-off_in_quantum"/>
+<edge source="designing_hamiltonian_quantum" target="name.andrew_c_doherty"/>
+<edge source="designing_hamiltonian_quantum" target="separating_the_problem"/>
+<edge source="designing_hamiltonian_quantum" target="effects_in_entanglement"/>
+<edge source="designing_hamiltonian_quantum" target="distortions_in_continuous"/>
+<edge source="designing_hamiltonian_quantum" target="problem_of_designing"/>
+<edge source="designing_hamiltonian_quantum" target="feedback_control_algorithms"/>
+<edge source="designing_hamiltonian_quantum" target="concepts_we_identify"/>
+<edge source="designing_hamiltonian_quantum" target="feedback_control_strategy"/>
+<edge source="designing_hamiltonian_quantum" target="hamiltonian_quantum_feedback"/>
+<edge source="designing_hamiltonian_quantum" target="continuous_variable_quantum"/>
+<edge source="designing_hamiltonian_quantum" target="name.holger_f_hofmann"/>
+<edge source="definition_of_precise" target="series_of_stages"/>
+<edge source="definition_of_precise" target="variable_quantum_teleportation"/>
+<edge source="definition_of_precise" target="allows_a_definition"/>
+<edge source="definition_of_precise" target="corresponding_non-commuting_properties"/>
+<edge source="definition_of_precise" target="analyze_the_loss"/>
+<edge source="definition_of_precise" target="extraction_and_noise"/>
+<edge source="observers_we_propose" target="trade-off_in_quantum"/>
+<edge source="observers_we_propose" target="name.andrew_c_doherty"/>
+<edge source="observers_we_propose" target="content_and_rules"/>
+<edge source="observers_we_propose" target="distortions_in_continuous"/>
+<edge source="observers_we_propose" target="variable_quantum_teleportation"/>
+<edge source="observers_we_propose" target="analyze_the_loss"/>
+<edge source="observers_we_propose" target="time_is_synonymous"/>
+<edge source="observers_we_propose" target="paper_the_exact"/>
+<edge source="observers_we_propose" target="field_amplitude_measurement"/>
+<edge source="observers_we_propose" target="allows_a_definition"/>
+<edge source="observers_we_propose" target="series_of_stages"/>
+<edge source="observers_we_propose" target="quantum_state_distortions"/>
+<edge source="observers_we_propose" target="stage_is_defined"/>
+<edge source="observers_we_propose" target="continuous_variable_quantum"/>
+<edge source="observers_we_propose" target="name.holger_f_hofmann"/>
+<edge source="observers_we_propose" target="extraction_and_noise"/>
+<edge source="trade-off_in_quantum" target="name.andrew_c_doherty"/>
+<edge source="trade-off_in_quantum" target="separating_the_problem"/>
+<edge source="trade-off_in_quantum" target="distortions_in_continuous"/>
+<edge source="trade-off_in_quantum" target="variable_quantum_teleportation"/>
+<edge source="trade-off_in_quantum" target="analyze_the_loss"/>
+<edge source="trade-off_in_quantum" target="problem_of_designing"/>
+<edge source="trade-off_in_quantum" target="concepts_we_identify"/>
+<edge source="trade-off_in_quantum" target="quantum_state_distortions"/>
+<edge source="trade-off_in_quantum" target="loss_of_fidelity"/>
+<edge source="trade-off_in_quantum" target="hamiltonian_quantum_feedback"/>
+<edge source="trade-off_in_quantum" target="stage_is_defined"/>
+<edge source="trade-off_in_quantum" target="field_amplitude_measurement"/>
+<edge source="trade-off_in_quantum" target="continuous_variable_quantum"/>
+<edge source="name.andrew_c_doherty" target="separating_the_problem"/>
+<edge source="name.andrew_c_doherty" target="distortions_in_continuous"/>
+<edge source="name.andrew_c_doherty" target="variable_quantum_teleportation"/>
+<edge source="name.andrew_c_doherty" target="analyze_the_loss"/>
+<edge source="name.andrew_c_doherty" target="problem_of_designing"/>
+<edge source="name.andrew_c_doherty" target="feedback_control_algorithms"/>
+<edge source="name.andrew_c_doherty" target="quantum_state_distortions"/>
+<edge source="name.andrew_c_doherty" target="hamiltonian_quantum_feedback"/>
+<edge source="name.andrew_c_doherty" target="stage_is_defined"/>
+<edge source="name.andrew_c_doherty" target="field_amplitude_measurement"/>
+<edge source="name.andrew_c_doherty" target="name.holger_f_hofmann"/>
+<edge source="name.andrew_c_doherty" target="loss_of_fidelity"/>
+<edge source="separating_the_problem" target="quantum_state_distortions"/>
+<edge source="separating_the_problem" target="concepts_we_identify"/>
+<edge source="separating_the_problem" target="feedback_control_strategy"/>
+<edge source="separating_the_problem" target="hamiltonian_quantum_feedback"/>
+<edge source="separating_the_problem" target="content_and_rules"/>
+<edge source="separating_the_problem" target="problem_of_designing"/>
+<edge source="separating_the_problem" target="feedback_control_algorithms"/>
+<edge source="content_and_rules" target="transferring_the_corresponding"/>
+<edge source="content_and_rules" target="quantum_state_distortions"/>
+<edge source="content_and_rules" target="concepts_we_identify"/>
+<edge source="content_and_rules" target="hamiltonian_quantum_feedback"/>
+<edge source="content_and_rules" target="stage_is_defined"/>
+<edge source="content_and_rules" target="governing_temporal_evolution"/>
+<edge source="content_and_rules" target="loss_of_fidelity"/>
+<edge source="rules_are_currently" target="variable_quantum_teleportation"/>
+<edge source="rules_are_currently" target="paper_the_exact"/>
+<edge source="rules_are_currently" target="time_is_synonymous"/>
+<edge source="rules_are_currently" target="field_amplitude_measurement"/>
+<edge source="rules_are_currently" target="teleportation_information_extraction"/>
+<edge source="rules_are_currently" target="hamiltonian_quantum_feedback"/>
+<edge source="rules_are_currently" target="concepts_we_identify"/>
+<edge source="rules_are_currently" target="continuous_variable_quantum"/>
+<edge source="rules_are_currently" target="name.holger_f_hofmann"/>
+<edge source="rules_are_currently" target="loss_of_fidelity"/>
+<edge source="rules_are_currently" target="governing_temporal_evolution"/>
+<edge source="series_of_stages" target="generalized_quantum_measurements"/>
+<edge source="series_of_stages" target="stage_is_defined"/>
+<edge source="series_of_stages" target="field_amplitude_measurement"/>
+<edge source="series_of_stages" target="name.holger_f_hofmann"/>
+<edge source="series_of_stages" target="effects_in_entanglement"/>
+<edge source="series_of_stages" target="governing_temporal_evolution"/>
+<edge source="90_167906_2003" target="lett_90_167906"/>
+<edge source="90_167906_2003" target="2003_the_purpose"/>
+<edge source="corresponding_non-commuting_properties" target="paper_the_exact"/>
+<edge source="corresponding_non-commuting_properties" target="teleportation_information_extraction"/>
+<edge source="corresponding_non-commuting_properties" target="extraction_and_noise"/>
+<edge source="collective_quantum_measurement" target="phys_rev_lett"/>
+<edge source="collective_quantum_measurement" target="demonstration_was_reported"/>
+<edge source="collective_quantum_measurement" target="stage_is_defined"/>
+<edge source="lett_90_167906" target="rev_lett_90"/>
+<edge source="lett_90_167906" target="2003_the_purpose"/>
+<edge source="concepts_we_identify" target="variable_quantum_teleportation"/>
+<edge source="concepts_we_identify" target="analyze_the_loss"/>
+<edge source="concepts_we_identify" target="feedback_control_algorithms"/>
+<edge source="concepts_we_identify" target="time_is_synonymous"/>
+<edge source="concepts_we_identify" target="field_amplitude_measurement"/>
+<edge source="concepts_we_identify" target="hamiltonian_quantum_feedback"/>
+<edge source="concepts_we_identify" target="continuous_variable_quantum"/>
+<edge source="paper_the_exact" target="quantum_state_distortions"/>
+<edge source="paper_the_exact" target="choices_of_code"/>
+<edge source="paper_the_exact" target="allows_a_definition"/>
+<edge source="paper_the_exact" target="transferring_the_corresponding"/>
+<edge source="decoding_which_requires" target="corresponding_quantum_decoding"/>
+<edge source="allows_a_definition" target="name.holger_f_hofmann"/>
+<edge source="allows_a_definition" target="transferring_the_corresponding"/>
+<edge source="allows_a_definition" target="teleportation_information_extraction"/>
+<edge source="allows_a_definition" target="analyze_the_loss"/>
+<edge source="allows_a_definition" target="governing_temporal_evolution"/>
+<edge source="allows_a_definition" target="effects_in_entanglement"/>
+<edge source="allows_a_definition" target="time_is_synonymous"/>
+<edge source="generalized_quantum_measurements" target="quantum_measurements_superadditive"/>
+<edge source="generalized_quantum_measurements" target="feedback_control_strategy"/>
+<edge source="generalized_quantum_measurements" target="teleportation_information_extraction"/>
+<edge source="effects_in_entanglement" target="continuous_variable_quantum"/>
+<edge source="effects_in_entanglement" target="governing_temporal_evolution"/>
+<edge source="effects_in_entanglement" target="time_is_synonymous"/>
+<edge source="effects_in_entanglement" target="extraction_and_noise"/>
+<edge source="hybrid_coding_scheme" target="quantum-classical_hybrid_coding"/>
+<edge source="corresponding_quantum_decoding" target="choices_of_code"/>
+<edge source="channel_coding_technique" target="classical_information_theory"/>
+<edge source="channel_coding_technique" target="entangled_system_distributed"/>
+<edge source="feedback_control_strategy" target="analyze_the_loss"/>
+<edge source="feedback_control_strategy" target="problem_of_designing"/>
+<edge source="feedback_control_strategy" target="feedback_control_algorithms"/>
+<edge source="feedback_control_strategy" target="governing_temporal_evolution"/>
+<edge source="feedback_control_strategy" target="quantum_state_distortions"/>
+<edge source="feedback_control_strategy" target="hamiltonian_quantum_feedback"/>
+<edge source="feedback_control_strategy" target="name.holger_f_hofmann"/>
+<edge source="field_amplitude_measurement" target="distortions_in_continuous"/>
+<edge source="field_amplitude_measurement" target="quantum_state_distortions"/>
+<edge source="field_amplitude_measurement" target="time_is_synonymous"/>
+<edge source="field_amplitude_measurement" target="variable_quantum_teleportation"/>
+<edge source="field_amplitude_measurement" target="continuous_variable_quantum"/>
+<edge source="field_amplitude_measurement" target="name.holger_f_hofmann"/>
+<edge source="field_amplitude_measurement" target="governing_temporal_evolution"/>
+<edge source="continuous_variable_quantum" target="distortions_in_continuous"/>
+<edge source="continuous_variable_quantum" target="variable_quantum_teleportation"/>
+<edge source="continuous_variable_quantum" target="problem_of_designing"/>
+<edge source="continuous_variable_quantum" target="feedback_control_algorithms"/>
+<edge source="continuous_variable_quantum" target="quantum_state_distortions"/>
+<edge source="continuous_variable_quantum" target="hamiltonian_quantum_feedback"/>
+<edge source="continuous_variable_quantum" target="name.holger_f_hofmann"/>
+<edge source="name.holger_f_hofmann" target="variable_quantum_teleportation"/>
+<edge source="name.holger_f_hofmann" target="analyze_the_loss"/>
+<edge source="name.holger_f_hofmann" target="time_is_synonymous"/>
+<edge source="name.holger_f_hofmann" target="transferring_the_corresponding"/>
+<edge source="name.holger_f_hofmann" target="quantum_state_distortions"/>
+<edge source="name.holger_f_hofmann" target="hamiltonian_quantum_feedback"/>
+<edge source="name.holger_f_hofmann" target="stage_is_defined"/>
+<edge source="name.holger_f_hofmann" target="loss_of_fidelity"/>
+<edge source="extraction_and_noise" target="quantum_state_distortions"/>
+<edge source="extraction_and_noise" target="teleportation_information_extraction"/>
+<edge source="extraction_and_noise" target="hamiltonian_quantum_feedback"/>
+<edge source="extraction_and_noise" target="feedback_control_algorithms"/>
+<edge source="choices_of_code" target="implemented_by_appropriate"/>
+<edge source="rev_lett_90" target="phys_rev_lett"/>
+<edge source="distortions_in_continuous" target="quantum_state_distortions"/>
+<edge source="distortions_in_continuous" target="loss_of_fidelity"/>
+<edge source="distortions_in_continuous" target="variable_quantum_teleportation"/>
+<edge source="distortions_in_continuous" target="analyze_the_loss"/>
+<edge source="distortions_in_continuous" target="problem_of_designing"/>
+<edge source="distortions_in_continuous" target="governing_temporal_evolution"/>
+<edge source="variable_quantum_teleportation" target="analyze_the_loss"/>
+<edge source="variable_quantum_teleportation" target="quantum_state_distortions"/>
+<edge source="variable_quantum_teleportation" target="hamiltonian_quantum_feedback"/>
+<edge source="variable_quantum_teleportation" target="loss_of_fidelity"/>
+<edge source="quantum_coding_gain" target="implemented_by_appropriate"/>
+<edge source="analyze_the_loss" target="quantum_state_distortions"/>
+<edge source="analyze_the_loss" target="feedback_control_algorithms"/>
+<edge source="analyze_the_loss" target="loss_of_fidelity"/>
+<edge source="analyze_the_loss" target="stage_is_defined"/>
+<edge source="problem_of_designing" target="quantum_state_distortions"/>
+<edge source="problem_of_designing" target="loss_of_fidelity"/>
+<edge source="problem_of_designing" target="hamiltonian_quantum_feedback"/>
+<edge source="problem_of_designing" target="feedback_control_algorithms"/>
+<edge source="feedback_control_algorithms" target="hamiltonian_quantum_feedback"/>
+<edge source="feedback_control_algorithms" target="governing_temporal_evolution"/>
+<edge source="feedback_control_algorithms" target="loss_of_fidelity"/>
+<edge source="time_is_synonymous" target="stage_is_defined"/>
+<edge source="time_is_synonymous" target="governing_temporal_evolution"/>
+<edge source="transferring_the_corresponding" target="entangled_system_distributed"/>
+<edge source="transferring_the_corresponding" target="implemented_by_appropriate"/>
+<edge source="teleportation_information_extraction" target="quantum_state_distortions"/>
+<edge source="governing_temporal_evolution" target="stage_is_defined"/>
+<edge source="quantum_state_distortions" target="quantum_state_distortions"/>
+<edge source="quantum_state_distortions" target="hamiltonian_quantum_feedback"/>
+<edge source="quantum_state_distortions" target="stage_is_defined"/>
+<edge source="quantum_state_distortions" target="loss_of_fidelity"/>
+<edge source="hamiltonian_quantum_feedback" target="loss_of_fidelity"/>
+<edge source="hamiltonian_quantum_feedback" target="hamiltonian_quantum_feedback"/>
+<edge source="stage_is_defined" target="loss_of_fidelity"/>
+</graph></graphml>

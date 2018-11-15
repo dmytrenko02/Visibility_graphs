@@ -1,0 +1,1147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="mag" attr.type="double" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="http_arxiv.org/abs/quant-ph/0110127">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_channels">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="2002.03.05_17:21">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="name.kurt_jacobs">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="reported_phys">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="name.takayoshi_kobayashi">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="control_strategy">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="exact_causality">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_feedback">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="generalized_quantum">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="http_arxiv.org/abs/quant-ph/0203020">
+  <data key="d0">0.000219796322075</data>
+</node>
+<node id="quantum_universe">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="theory_predicts">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="quantum_coding">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="maximal_entanglement">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="feedback_control">
+  <data key="d0">0.000293061762767</data>
+</node>
+<node id="desirable_properties">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="coding_gain">
+  <data key="d0">0.000219796322075</data>
+</node>
+<node id="closed_quantum">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="calculate_answers">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="teleported_output">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="90_167906">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="hamiltonian_quantum">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="control_algorithms">
+  <data key="d0">0.00278408674628</data>
+</node>
+<node id="variable_teleportation">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="entanglement_distribution">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="rules_governing">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="167906_2003">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_measurement">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="channel_coding">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="precise_correlations">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="coding_accessible">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="amplitude_measurement">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="effects_acting">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="2001.10.22_06:21">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="appropriate_choices">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="corresponding_non-commuting">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="classical_capacity">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="http_arxiv.org/abs/quant-ph/0203128">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="http_arxiv.org/abs/quant-ph/0006013">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="consider_separating">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="designing_hamiltonian">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="design_strategy">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="non-commuting_properties">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="universe_jumps">
+  <data key="d0">0.000659388966225</data>
+</node>
+<node id="measurement_back-action">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="distribution_channels">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="paradigm_time">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="name.toshiki_ide">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="lett_90">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="governing_temporal">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_process">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="measurement_estimation">
+  <data key="d0">0.00219796322075</data>
+</node>
+<node id="collective_quantum">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="field_amplitude">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="2000.06.03_16:56">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="label_associated">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="noise_effects">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="estimation_strategy">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="superadditive_quantum">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="name.gerard_jungman">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="2002.05.15_06:44">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="rev_lett">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="name.jon_eakins">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="temporal_evolution">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="photon_number">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="sender_provide">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_teleportation">
+  <data key="d0">0.000512858084841</data>
+</node>
+<node id="experimental_demonstration">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="coding_technique">
+  <data key="d0">0.000366327203458</data>
+</node>
+<node id="teleported_quantum">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_channel">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_decoding">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="external_observers">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="measurements_superadditive">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="distortions_correspond">
+  <data key="d0">0.000366327203458</data>
+</node>
+<node id="corresponding_back-action">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="currently_understood">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="minimal_constraint">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="temporal_dimension">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="remarkable_feature">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="motivates_concepts">
+  <data key="d0">0.00168510513591</data>
+</node>
+<node id="corresponding_quantum">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="name.akira_furusawa">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="name.george_jaroszkiewicz">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="optimizing_desirable">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="consider_optimizing">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_measurements">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="capacity_limit">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="quantum_questions">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="transmission_resource">
+  <data key="d0">0.000146530881383</data>
+</node>
+<node id="continuous_variable">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="non-maximal_entanglement">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="variable_quantum">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="phys_rev">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="causality_achieved">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="measurements_performed">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<node id="entanglement_allows">
+  <data key="d0">7.32654406916e-05</data>
+</node>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="universe_jumps"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="measurement_back-action"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="closed_quantum"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="external_observers"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="variable_teleportation"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="paradigm_time"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="name.toshiki_ide"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="distortions_correspond"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="rules_governing"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="name.kurt_jacobs"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="entanglement_distribution"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="name.takayoshi_kobayashi"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="control_strategy"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="governing_temporal"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="desirable_properties"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="quantum_process"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="name.akira_furusawa"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="feedback_control"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="quantum_universe"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="field_amplitude"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="2000.06.03_16:56"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="amplitude_measurement"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="name.gerard_jungman"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="quantum_feedback"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="non-maximal_entanglement"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="name.jon_eakins"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="temporal_evolution"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="photon_number"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="quantum_teleportation"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="2001.10.22_06:21"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="label_associated"/>
+<edge source="http_arxiv.org/abs/quant-ph/0110127" target="entanglement_allows"/>
+<edge source="quantum_channels" target="quantum_channel"/>
+<edge source="quantum_channels" target="transmission_resource"/>
+<edge source="2002.03.05_17:21" target="http_arxiv.org/abs/quant-ph/0203020"/>
+<edge source="2002.03.05_17:21" target="name.jon_eakins"/>
+<edge source="2002.03.05_17:21" target="label_associated"/>
+<edge source="2002.03.05_17:21" target="noise_effects"/>
+<edge source="2002.03.05_17:21" target="calculate_answers"/>
+<edge source="2002.03.05_17:21" target="quantum_teleportation"/>
+<edge source="2002.03.05_17:21" target="non-commuting_properties"/>
+<edge source="2002.03.05_17:21" target="hamiltonian_quantum"/>
+<edge source="2002.03.05_17:21" target="name.george_jaroszkiewicz"/>
+<edge source="2002.03.05_17:21" target="entanglement_distribution"/>
+<edge source="2002.03.05_17:21" target="entanglement_allows"/>
+<edge source="name.kurt_jacobs" target="designing_hamiltonian"/>
+<edge source="name.kurt_jacobs" target="measurement_back-action"/>
+<edge source="name.kurt_jacobs" target="control_algorithms"/>
+<edge source="name.kurt_jacobs" target="variable_teleportation"/>
+<edge source="name.kurt_jacobs" target="distortions_correspond"/>
+<edge source="name.kurt_jacobs" target="rules_governing"/>
+<edge source="name.kurt_jacobs" target="currently_understood"/>
+<edge source="name.kurt_jacobs" target="minimal_constraint"/>
+<edge source="name.kurt_jacobs" target="control_strategy"/>
+<edge source="name.kurt_jacobs" target="desirable_properties"/>
+<edge source="name.kurt_jacobs" target="motivates_concepts"/>
+<edge source="name.kurt_jacobs" target="measurement_estimation"/>
+<edge source="name.kurt_jacobs" target="feedback_control"/>
+<edge source="name.kurt_jacobs" target="optimizing_desirable"/>
+<edge source="name.kurt_jacobs" target="consider_optimizing"/>
+<edge source="name.kurt_jacobs" target="field_amplitude"/>
+<edge source="name.kurt_jacobs" target="2000.06.03_16:56"/>
+<edge source="name.kurt_jacobs" target="amplitude_measurement"/>
+<edge source="name.kurt_jacobs" target="estimation_strategy"/>
+<edge source="name.kurt_jacobs" target="name.gerard_jungman"/>
+<edge source="name.kurt_jacobs" target="quantum_feedback"/>
+<edge source="name.kurt_jacobs" target="continuous_variable"/>
+<edge source="name.kurt_jacobs" target="non-maximal_entanglement"/>
+<edge source="name.kurt_jacobs" target="temporal_evolution"/>
+<edge source="name.kurt_jacobs" target="variable_quantum"/>
+<edge source="name.kurt_jacobs" target="quantum_teleportation"/>
+<edge source="name.kurt_jacobs" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="name.kurt_jacobs" target="consider_separating"/>
+<edge source="reported_phys" target="experimental_demonstration"/>
+<edge source="reported_phys" target="phys_rev"/>
+<edge source="name.takayoshi_kobayashi" target="universe_jumps"/>
+<edge source="name.takayoshi_kobayashi" target="measurement_back-action"/>
+<edge source="name.takayoshi_kobayashi" target="closed_quantum"/>
+<edge source="name.takayoshi_kobayashi" target="calculate_answers"/>
+<edge source="name.takayoshi_kobayashi" target="external_observers"/>
+<edge source="name.takayoshi_kobayashi" target="hamiltonian_quantum"/>
+<edge source="name.takayoshi_kobayashi" target="control_algorithms"/>
+<edge source="name.takayoshi_kobayashi" target="variable_teleportation"/>
+<edge source="name.takayoshi_kobayashi" target="name.toshiki_ide"/>
+<edge source="name.takayoshi_kobayashi" target="distortions_correspond"/>
+<edge source="name.takayoshi_kobayashi" target="rules_governing"/>
+<edge source="name.takayoshi_kobayashi" target="currently_understood"/>
+<edge source="name.takayoshi_kobayashi" target="temporal_dimension"/>
+<edge source="name.takayoshi_kobayashi" target="governing_temporal"/>
+<edge source="name.takayoshi_kobayashi" target="motivates_concepts"/>
+<edge source="name.takayoshi_kobayashi" target="quantum_process"/>
+<edge source="name.takayoshi_kobayashi" target="name.akira_furusawa"/>
+<edge source="name.takayoshi_kobayashi" target="name.george_jaroszkiewicz"/>
+<edge source="name.takayoshi_kobayashi" target="consider_optimizing"/>
+<edge source="name.takayoshi_kobayashi" target="field_amplitude"/>
+<edge source="name.takayoshi_kobayashi" target="2000.06.03_16:56"/>
+<edge source="name.takayoshi_kobayashi" target="amplitude_measurement"/>
+<edge source="name.takayoshi_kobayashi" target="2001.10.22_06:21"/>
+<edge source="name.takayoshi_kobayashi" target="temporal_evolution"/>
+<edge source="name.takayoshi_kobayashi" target="photon_number"/>
+<edge source="name.takayoshi_kobayashi" target="variable_quantum"/>
+<edge source="name.takayoshi_kobayashi" target="quantum_universe"/>
+<edge source="name.takayoshi_kobayashi" target="quantum_teleportation"/>
+<edge source="name.takayoshi_kobayashi" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="name.takayoshi_kobayashi" target="label_associated"/>
+<edge source="control_strategy" target="designing_hamiltonian"/>
+<edge source="control_strategy" target="measurement_back-action"/>
+<edge source="control_strategy" target="quantum_universe"/>
+<edge source="control_strategy" target="hamiltonian_quantum"/>
+<edge source="control_strategy" target="control_algorithms"/>
+<edge source="control_strategy" target="variable_teleportation"/>
+<edge source="control_strategy" target="distortions_correspond"/>
+<edge source="control_strategy" target="minimal_constraint"/>
+<edge source="control_strategy" target="desirable_properties"/>
+<edge source="control_strategy" target="motivates_concepts"/>
+<edge source="control_strategy" target="measurement_estimation"/>
+<edge source="control_strategy" target="feedback_control"/>
+<edge source="control_strategy" target="optimizing_desirable"/>
+<edge source="control_strategy" target="consider_optimizing"/>
+<edge source="control_strategy" target="2000.06.03_16:56"/>
+<edge source="control_strategy" target="estimation_strategy"/>
+<edge source="control_strategy" target="name.gerard_jungman"/>
+<edge source="control_strategy" target="quantum_feedback"/>
+<edge source="control_strategy" target="continuous_variable"/>
+<edge source="control_strategy" target="non-maximal_entanglement"/>
+<edge source="control_strategy" target="photon_number"/>
+<edge source="control_strategy" target="variable_quantum"/>
+<edge source="control_strategy" target="quantum_teleportation"/>
+<edge source="control_strategy" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="control_strategy" target="consider_separating"/>
+<edge source="exact_causality" target="quantum_universe"/>
+<edge source="exact_causality" target="name.jon_eakins"/>
+<edge source="exact_causality" target="label_associated"/>
+<edge source="exact_causality" target="distribution_channels"/>
+<edge source="exact_causality" target="entanglement_distribution"/>
+<edge source="exact_causality" target="quantum_teleportation"/>
+<edge source="exact_causality" target="causality_achieved"/>
+<edge source="exact_causality" target="effects_acting"/>
+<edge source="exact_causality" target="non-commuting_properties"/>
+<edge source="exact_causality" target="maximal_entanglement"/>
+<edge source="exact_causality" target="paradigm_time"/>
+<edge source="exact_causality" target="entanglement_allows"/>
+<edge source="quantum_feedback" target="designing_hamiltonian"/>
+<edge source="quantum_feedback" target="measurement_back-action"/>
+<edge source="quantum_feedback" target="temporal_dimension"/>
+<edge source="quantum_feedback" target="closed_quantum"/>
+<edge source="quantum_feedback" target="hamiltonian_quantum"/>
+<edge source="quantum_feedback" target="control_algorithms"/>
+<edge source="quantum_feedback" target="variable_teleportation"/>
+<edge source="quantum_feedback" target="distortions_correspond"/>
+<edge source="quantum_feedback" target="minimal_constraint"/>
+<edge source="quantum_feedback" target="quantum_teleportation"/>
+<edge source="quantum_feedback" target="motivates_concepts"/>
+<edge source="quantum_feedback" target="name.akira_furusawa"/>
+<edge source="quantum_feedback" target="measurement_estimation"/>
+<edge source="quantum_feedback" target="quantum_feedback"/>
+<edge source="quantum_feedback" target="optimizing_desirable"/>
+<edge source="quantum_feedback" target="consider_optimizing"/>
+<edge source="quantum_feedback" target="2000.06.03_16:56"/>
+<edge source="quantum_feedback" target="estimation_strategy"/>
+<edge source="quantum_feedback" target="name.gerard_jungman"/>
+<edge source="quantum_feedback" target="feedback_control"/>
+<edge source="quantum_feedback" target="continuous_variable"/>
+<edge source="quantum_feedback" target="non-maximal_entanglement"/>
+<edge source="quantum_feedback" target="photon_number"/>
+<edge source="quantum_feedback" target="variable_quantum"/>
+<edge source="quantum_feedback" target="desirable_properties"/>
+<edge source="quantum_feedback" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="quantum_feedback" target="consider_separating"/>
+<edge source="generalized_quantum" target="2002.05.15_06:44"/>
+<edge source="generalized_quantum" target="http_arxiv.org/abs/quant-ph/0203128"/>
+<edge source="generalized_quantum" target="quantum_measurements"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="rules_governing"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="quantum_universe"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="quantum_questions"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="currently_understood"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="name.jon_eakins"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="temporal_evolution"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="amplitude_measurement"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="noise_effects"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="universe_jumps"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="temporal_dimension"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="2002.05.15_06:44"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="entanglement_distribution"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="quantum_teleportation"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="label_associated"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="name.george_jaroszkiewicz"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="paradigm_time"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203020" target="entanglement_allows"/>
+<edge source="quantum_universe" target="universe_jumps"/>
+<edge source="quantum_universe" target="measurement_back-action"/>
+<edge source="quantum_universe" target="closed_quantum"/>
+<edge source="quantum_universe" target="external_observers"/>
+<edge source="quantum_universe" target="variable_teleportation"/>
+<edge source="quantum_universe" target="paradigm_time"/>
+<edge source="quantum_universe" target="name.toshiki_ide"/>
+<edge source="quantum_universe" target="distortions_correspond"/>
+<edge source="quantum_universe" target="rules_governing"/>
+<edge source="quantum_universe" target="currently_understood"/>
+<edge source="quantum_universe" target="entanglement_distribution"/>
+<edge source="quantum_universe" target="minimal_constraint"/>
+<edge source="quantum_universe" target="governing_temporal"/>
+<edge source="quantum_universe" target="motivates_concepts"/>
+<edge source="quantum_universe" target="quantum_process"/>
+<edge source="quantum_universe" target="name.akira_furusawa"/>
+<edge source="quantum_universe" target="name.george_jaroszkiewicz"/>
+<edge source="quantum_universe" target="optimizing_desirable"/>
+<edge source="quantum_universe" target="consider_optimizing"/>
+<edge source="quantum_universe" target="field_amplitude"/>
+<edge source="quantum_universe" target="2000.06.03_16:56"/>
+<edge source="quantum_universe" target="amplitude_measurement"/>
+<edge source="quantum_universe" target="2001.10.22_06:21"/>
+<edge source="quantum_universe" target="continuous_variable"/>
+<edge source="quantum_universe" target="name.jon_eakins"/>
+<edge source="quantum_universe" target="temporal_evolution"/>
+<edge source="quantum_universe" target="photon_number"/>
+<edge source="quantum_universe" target="variable_quantum"/>
+<edge source="quantum_universe" target="quantum_teleportation"/>
+<edge source="quantum_universe" target="name.gerard_jungman"/>
+<edge source="quantum_universe" target="label_associated"/>
+<edge source="theory_predicts" target="classical_capacity"/>
+<edge source="theory_predicts" target="transmission_resource"/>
+<edge source="theory_predicts" target="capacity_limit"/>
+<edge source="quantum_coding" target="coding_accessible"/>
+<edge source="quantum_coding" target="maximal_entanglement"/>
+<edge source="quantum_coding" target="quantum_channel"/>
+<edge source="quantum_coding" target="superadditive_quantum"/>
+<edge source="quantum_coding" target="coding_gain"/>
+<edge source="maximal_entanglement" target="corresponding_non-commuting"/>
+<edge source="maximal_entanglement" target="non-commuting_properties"/>
+<edge source="maximal_entanglement" target="measurements_performed"/>
+<edge source="maximal_entanglement" target="distribution_channels"/>
+<edge source="maximal_entanglement" target="effects_acting"/>
+<edge source="maximal_entanglement" target="causality_achieved"/>
+<edge source="maximal_entanglement" target="entanglement_distribution"/>
+<edge source="maximal_entanglement" target="entanglement_allows"/>
+<edge source="feedback_control" target="designing_hamiltonian"/>
+<edge source="feedback_control" target="non-commuting_properties"/>
+<edge source="feedback_control" target="universe_jumps"/>
+<edge source="feedback_control" target="measurement_back-action"/>
+<edge source="feedback_control" target="external_observers"/>
+<edge source="feedback_control" target="hamiltonian_quantum"/>
+<edge source="feedback_control" target="control_algorithms"/>
+<edge source="feedback_control" target="variable_teleportation"/>
+<edge source="feedback_control" target="name.toshiki_ide"/>
+<edge source="feedback_control" target="distortions_correspond"/>
+<edge source="feedback_control" target="minimal_constraint"/>
+<edge source="feedback_control" target="governing_temporal"/>
+<edge source="feedback_control" target="quantum_teleportation"/>
+<edge source="feedback_control" target="motivates_concepts"/>
+<edge source="feedback_control" target="quantum_process"/>
+<edge source="feedback_control" target="name.akira_furusawa"/>
+<edge source="feedback_control" target="measurement_estimation"/>
+<edge source="feedback_control" target="feedback_control"/>
+<edge source="feedback_control" target="optimizing_desirable"/>
+<edge source="feedback_control" target="consider_optimizing"/>
+<edge source="feedback_control" target="field_amplitude"/>
+<edge source="feedback_control" target="2000.06.03_16:56"/>
+<edge source="feedback_control" target="label_associated"/>
+<edge source="feedback_control" target="estimation_strategy"/>
+<edge source="feedback_control" target="name.gerard_jungman"/>
+<edge source="feedback_control" target="quantum_questions"/>
+<edge source="feedback_control" target="continuous_variable"/>
+<edge source="feedback_control" target="non-maximal_entanglement"/>
+<edge source="feedback_control" target="photon_number"/>
+<edge source="feedback_control" target="variable_quantum"/>
+<edge source="feedback_control" target="desirable_properties"/>
+<edge source="feedback_control" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="feedback_control" target="consider_separating"/>
+<edge source="desirable_properties" target="designing_hamiltonian"/>
+<edge source="desirable_properties" target="measurement_back-action"/>
+<edge source="desirable_properties" target="closed_quantum"/>
+<edge source="desirable_properties" target="hamiltonian_quantum"/>
+<edge source="desirable_properties" target="control_algorithms"/>
+<edge source="desirable_properties" target="variable_teleportation"/>
+<edge source="desirable_properties" target="name.toshiki_ide"/>
+<edge source="desirable_properties" target="distortions_correspond"/>
+<edge source="desirable_properties" target="minimal_constraint"/>
+<edge source="desirable_properties" target="motivates_concepts"/>
+<edge source="desirable_properties" target="measurement_estimation"/>
+<edge source="desirable_properties" target="optimizing_desirable"/>
+<edge source="desirable_properties" target="consider_optimizing"/>
+<edge source="desirable_properties" target="2000.06.03_16:56"/>
+<edge source="desirable_properties" target="estimation_strategy"/>
+<edge source="desirable_properties" target="name.gerard_jungman"/>
+<edge source="desirable_properties" target="continuous_variable"/>
+<edge source="desirable_properties" target="non-maximal_entanglement"/>
+<edge source="desirable_properties" target="variable_quantum"/>
+<edge source="desirable_properties" target="quantum_teleportation"/>
+<edge source="desirable_properties" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="desirable_properties" target="consider_separating"/>
+<edge source="coding_gain" target="coding_technique"/>
+<edge source="coding_gain" target="appropriate_choices"/>
+<edge source="closed_quantum" target="universe_jumps"/>
+<edge source="closed_quantum" target="calculate_answers"/>
+<edge source="closed_quantum" target="external_observers"/>
+<edge source="closed_quantum" target="hamiltonian_quantum"/>
+<edge source="closed_quantum" target="variable_teleportation"/>
+<edge source="closed_quantum" target="name.toshiki_ide"/>
+<edge source="closed_quantum" target="rules_governing"/>
+<edge source="closed_quantum" target="currently_understood"/>
+<edge source="closed_quantum" target="governing_temporal"/>
+<edge source="closed_quantum" target="name.akira_furusawa"/>
+<edge source="closed_quantum" target="field_amplitude"/>
+<edge source="closed_quantum" target="2001.10.22_06:21"/>
+<edge source="closed_quantum" target="quantum_questions"/>
+<edge source="closed_quantum" target="temporal_evolution"/>
+<edge source="closed_quantum" target="photon_number"/>
+<edge source="closed_quantum" target="variable_quantum"/>
+<edge source="closed_quantum" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="closed_quantum" target="name.gerard_jungman"/>
+<edge source="calculate_answers" target="designing_hamiltonian"/>
+<edge source="calculate_answers" target="non-commuting_properties"/>
+<edge source="calculate_answers" target="universe_jumps"/>
+<edge source="calculate_answers" target="measurement_back-action"/>
+<edge source="calculate_answers" target="external_observers"/>
+<edge source="calculate_answers" target="variable_teleportation"/>
+<edge source="calculate_answers" target="entanglement_distribution"/>
+<edge source="calculate_answers" target="rules_governing"/>
+<edge source="calculate_answers" target="currently_understood"/>
+<edge source="calculate_answers" target="paradigm_time"/>
+<edge source="calculate_answers" target="governing_temporal"/>
+<edge source="calculate_answers" target="quantum_process"/>
+<edge source="calculate_answers" target="name.akira_furusawa"/>
+<edge source="calculate_answers" target="name.george_jaroszkiewicz"/>
+<edge source="calculate_answers" target="amplitude_measurement"/>
+<edge source="calculate_answers" target="label_associated"/>
+<edge source="calculate_answers" target="2001.10.22_06:21"/>
+<edge source="calculate_answers" target="quantum_questions"/>
+<edge source="calculate_answers" target="temporal_evolution"/>
+<edge source="teleported_output" target="2002.05.15_06:44"/>
+<edge source="teleported_output" target="sender_provide"/>
+<edge source="teleported_output" target="corresponding_non-commuting"/>
+<edge source="teleported_output" target="measurements_performed"/>
+<edge source="teleported_output" target="distribution_channels"/>
+<edge source="teleported_output" target="quantum_teleportation"/>
+<edge source="teleported_output" target="causality_achieved"/>
+<edge source="teleported_output" target="name.akira_furusawa"/>
+<edge source="teleported_output" target="entanglement_distribution"/>
+<edge source="90_167906" target="lett_90"/>
+<edge source="90_167906" target="167906_2003"/>
+<edge source="hamiltonian_quantum" target="designing_hamiltonian"/>
+<edge source="hamiltonian_quantum" target="non-commuting_properties"/>
+<edge source="hamiltonian_quantum" target="universe_jumps"/>
+<edge source="hamiltonian_quantum" target="measurement_back-action"/>
+<edge source="hamiltonian_quantum" target="hamiltonian_quantum"/>
+<edge source="hamiltonian_quantum" target="control_algorithms"/>
+<edge source="hamiltonian_quantum" target="variable_teleportation"/>
+<edge source="hamiltonian_quantum" target="minimal_constraint"/>
+<edge source="hamiltonian_quantum" target="motivates_concepts"/>
+<edge source="hamiltonian_quantum" target="measurement_estimation"/>
+<edge source="hamiltonian_quantum" target="optimizing_desirable"/>
+<edge source="hamiltonian_quantum" target="consider_optimizing"/>
+<edge source="hamiltonian_quantum" target="field_amplitude"/>
+<edge source="hamiltonian_quantum" target="2000.06.03_16:56"/>
+<edge source="hamiltonian_quantum" target="estimation_strategy"/>
+<edge source="hamiltonian_quantum" target="name.gerard_jungman"/>
+<edge source="hamiltonian_quantum" target="continuous_variable"/>
+<edge source="hamiltonian_quantum" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="hamiltonian_quantum" target="consider_separating"/>
+<edge source="control_algorithms" target="designing_hamiltonian"/>
+<edge source="control_algorithms" target="measurement_back-action"/>
+<edge source="control_algorithms" target="variable_teleportation"/>
+<edge source="control_algorithms" target="distortions_correspond"/>
+<edge source="control_algorithms" target="minimal_constraint"/>
+<edge source="control_algorithms" target="governing_temporal"/>
+<edge source="control_algorithms" target="motivates_concepts"/>
+<edge source="control_algorithms" target="measurement_estimation"/>
+<edge source="control_algorithms" target="optimizing_desirable"/>
+<edge source="control_algorithms" target="consider_optimizing"/>
+<edge source="control_algorithms" target="field_amplitude"/>
+<edge source="control_algorithms" target="estimation_strategy"/>
+<edge source="control_algorithms" target="name.gerard_jungman"/>
+<edge source="control_algorithms" target="continuous_variable"/>
+<edge source="control_algorithms" target="non-maximal_entanglement"/>
+<edge source="control_algorithms" target="variable_quantum"/>
+<edge source="control_algorithms" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="control_algorithms" target="consider_separating"/>
+<edge source="variable_teleportation" target="universe_jumps"/>
+<edge source="variable_teleportation" target="measurement_back-action"/>
+<edge source="variable_teleportation" target="name.toshiki_ide"/>
+<edge source="variable_teleportation" target="distortions_correspond"/>
+<edge source="variable_teleportation" target="minimal_constraint"/>
+<edge source="variable_teleportation" target="motivates_concepts"/>
+<edge source="variable_teleportation" target="name.akira_furusawa"/>
+<edge source="variable_teleportation" target="optimizing_desirable"/>
+<edge source="variable_teleportation" target="consider_optimizing"/>
+<edge source="variable_teleportation" target="2001.10.22_06:21"/>
+<edge source="variable_teleportation" target="field_amplitude"/>
+<edge source="variable_teleportation" target="2000.06.03_16:56"/>
+<edge source="variable_teleportation" target="amplitude_measurement"/>
+<edge source="variable_teleportation" target="name.gerard_jungman"/>
+<edge source="variable_teleportation" target="name.george_jaroszkiewicz"/>
+<edge source="variable_teleportation" target="continuous_variable"/>
+<edge source="variable_teleportation" target="non-maximal_entanglement"/>
+<edge source="variable_teleportation" target="photon_number"/>
+<edge source="variable_teleportation" target="variable_quantum"/>
+<edge source="variable_teleportation" target="quantum_teleportation"/>
+<edge source="variable_teleportation" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="variable_teleportation" target="consider_separating"/>
+<edge source="variable_teleportation" target="label_associated"/>
+<edge source="entanglement_distribution" target="non-commuting_properties"/>
+<edge source="entanglement_distribution" target="universe_jumps"/>
+<edge source="entanglement_distribution" target="distribution_channels"/>
+<edge source="entanglement_distribution" target="external_observers"/>
+<edge source="entanglement_distribution" target="paradigm_time"/>
+<edge source="entanglement_distribution" target="rules_governing"/>
+<edge source="entanglement_distribution" target="currently_understood"/>
+<edge source="entanglement_distribution" target="entanglement_distribution"/>
+<edge source="entanglement_distribution" target="temporal_dimension"/>
+<edge source="entanglement_distribution" target="precise_correlations"/>
+<edge source="entanglement_distribution" target="quantum_process"/>
+<edge source="entanglement_distribution" target="name.akira_furusawa"/>
+<edge source="entanglement_distribution" target="name.george_jaroszkiewicz"/>
+<edge source="entanglement_distribution" target="field_amplitude"/>
+<edge source="entanglement_distribution" target="label_associated"/>
+<edge source="entanglement_distribution" target="noise_effects"/>
+<edge source="entanglement_distribution" target="effects_acting"/>
+<edge source="entanglement_distribution" target="corresponding_non-commuting"/>
+<edge source="entanglement_distribution" target="name.jon_eakins"/>
+<edge source="entanglement_distribution" target="sender_provide"/>
+<edge source="entanglement_distribution" target="quantum_teleportation"/>
+<edge source="entanglement_distribution" target="causality_achieved"/>
+<edge source="entanglement_distribution" target="entanglement_allows"/>
+<edge source="rules_governing" target="universe_jumps"/>
+<edge source="rules_governing" target="measurement_back-action"/>
+<edge source="rules_governing" target="external_observers"/>
+<edge source="rules_governing" target="paradigm_time"/>
+<edge source="rules_governing" target="name.toshiki_ide"/>
+<edge source="rules_governing" target="distortions_correspond"/>
+<edge source="rules_governing" target="currently_understood"/>
+<edge source="rules_governing" target="temporal_dimension"/>
+<edge source="rules_governing" target="governing_temporal"/>
+<edge source="rules_governing" target="quantum_process"/>
+<edge source="rules_governing" target="name.akira_furusawa"/>
+<edge source="rules_governing" target="name.george_jaroszkiewicz"/>
+<edge source="rules_governing" target="amplitude_measurement"/>
+<edge source="rules_governing" target="2001.10.22_06:21"/>
+<edge source="rules_governing" target="quantum_questions"/>
+<edge source="rules_governing" target="continuous_variable"/>
+<edge source="rules_governing" target="name.jon_eakins"/>
+<edge source="rules_governing" target="temporal_evolution"/>
+<edge source="rules_governing" target="photon_number"/>
+<edge source="rules_governing" target="quantum_teleportation"/>
+<edge source="rules_governing" target="label_associated"/>
+<edge source="167906_2003" target="design_strategy"/>
+<edge source="quantum_measurement" target="experimental_demonstration"/>
+<edge source="quantum_measurement" target="collective_quantum"/>
+<edge source="channel_coding" target="coding_technique"/>
+<edge source="channel_coding" target="quantum_channel"/>
+<edge source="channel_coding" target="transmission_resource"/>
+<edge source="precise_correlations" target="corresponding_non-commuting"/>
+<edge source="precise_correlations" target="non-commuting_properties"/>
+<edge source="precise_correlations" target="quantum_teleportation"/>
+<edge source="precise_correlations" target="entanglement_allows"/>
+<edge source="coding_accessible" target="classical_capacity"/>
+<edge source="coding_accessible" target="transmission_resource"/>
+<edge source="amplitude_measurement" target="universe_jumps"/>
+<edge source="amplitude_measurement" target="measurement_back-action"/>
+<edge source="amplitude_measurement" target="name.toshiki_ide"/>
+<edge source="amplitude_measurement" target="distortions_correspond"/>
+<edge source="amplitude_measurement" target="currently_understood"/>
+<edge source="amplitude_measurement" target="governing_temporal"/>
+<edge source="amplitude_measurement" target="motivates_concepts"/>
+<edge source="amplitude_measurement" target="name.akira_furusawa"/>
+<edge source="amplitude_measurement" target="field_amplitude"/>
+<edge source="amplitude_measurement" target="2000.06.03_16:56"/>
+<edge source="amplitude_measurement" target="estimation_strategy"/>
+<edge source="amplitude_measurement" target="2001.10.22_06:21"/>
+<edge source="amplitude_measurement" target="continuous_variable"/>
+<edge source="amplitude_measurement" target="non-maximal_entanglement"/>
+<edge source="amplitude_measurement" target="temporal_evolution"/>
+<edge source="amplitude_measurement" target="photon_number"/>
+<edge source="amplitude_measurement" target="variable_quantum"/>
+<edge source="amplitude_measurement" target="quantum_teleportation"/>
+<edge source="amplitude_measurement" target="http_arxiv.org/abs/quant-ph/0006013"/>
+<edge source="amplitude_measurement" target="name.gerard_jungman"/>
+<edge source="effects_acting" target="sender_provide"/>
+<edge source="effects_acting" target="corresponding_back-action"/>
+<edge source="effects_acting" target="corresponding_non-commuting"/>
+<edge source="effects_acting" target="non-commuting_properties"/>
+<edge source="effects_acting" target="distribution_channels"/>
+<edge source="effects_acting" target="causality_achieved"/>
+<edge source="2001.10.22_06:21" target="universe_jumps"/>
+<edge source="2001.10.22_06:21" target="measurement_back-action"/>
+<edge source="2001.10.22_06:21" target="external_observers"/>
+<edge source="2001.10.22_06:21" target="paradigm_time"/>
+<edge source="2001.10.22_06:21" target="name.toshiki_ide"/>
+<edge source="2001.10.22_06:21" target="distortions_correspond"/>
+<edge source="2001.10.22_06:21" target="governing_temporal"/>
+<edge source="2001.10.22_06:21" target="name.akira_furusawa"/>
+<edge source="2001.10.22_06:21" target="field_amplitude"/>
+<edge source="2001.10.22_06:21" target="name.gerard_jungman"/>
+<edge source="2001.10.22_06:21" target="2002.05.15_06:44"/>
+<edge source="2001.10.22_06:21" target="continuous_variable"/>
+<edge source="2001.10.22_06:21" target="non-maximal_entanglement"/>
+<edge source="2001.10.22_06:21" target="temporal_evolution"/>
+<edge source="2001.10.22_06:21" target="photon_number"/>
+<edge source="2001.10.22_06:21" target="quantum_teleportation"/>
+<edge source="2001.10.22_06:21" target="label_associated"/>
+<edge source="appropriate_choices" target="corresponding_quantum"/>
+<edge source="corresponding_non-commuting" target="paradigm_time"/>
+<edge source="corresponding_non-commuting" target="name.jon_eakins"/>
+<edge source="corresponding_non-commuting" target="distribution_channels"/>
+<edge source="corresponding_non-commuting" target="quantum_teleportation"/>
+<edge source="corresponding_non-commuting" target="non-commuting_properties"/>
+<edge source="corresponding_non-commuting" target="entanglement_allows"/>
+<edge source="classical_capacity" target="capacity_limit"/>
+<edge source="classical_capacity" target="transmission_resource"/>
+<edge source="http_arxiv.org/abs/quant-ph/0203128" target="2002.05.15_06:44"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="designing_hamiltonian"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="measurement_back-action"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="temporal_dimension"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="name.toshiki_ide"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="distortions_correspond"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="minimal_constraint"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="motivates_concepts"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="name.akira_furusawa"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="measurement_estimation"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="optimizing_desirable"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="label_associated"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="field_amplitude"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="2000.06.03_16:56"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="name.gerard_jungman"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="continuous_variable"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="non-maximal_entanglement"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="photon_number"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="variable_quantum"/>
+<edge source="http_arxiv.org/abs/quant-ph/0006013" target="quantum_teleportation"/>
+<edge source="consider_separating" target="optimizing_desirable"/>
+<edge source="consider_separating" target="designing_hamiltonian"/>
+<edge source="consider_separating" target="consider_optimizing"/>
+<edge source="consider_separating" target="2000.06.03_16:56"/>
+<edge source="consider_separating" target="continuous_variable"/>
+<edge source="consider_separating" target="minimal_constraint"/>
+<edge source="consider_separating" target="estimation_strategy"/>
+<edge source="consider_separating" target="photon_number"/>
+<edge source="consider_separating" target="measurement_estimation"/>
+<edge source="consider_separating" target="name.toshiki_ide"/>
+<edge source="designing_hamiltonian" target="universe_jumps"/>
+<edge source="designing_hamiltonian" target="external_observers"/>
+<edge source="designing_hamiltonian" target="distortions_correspond"/>
+<edge source="designing_hamiltonian" target="motivates_concepts"/>
+<edge source="designing_hamiltonian" target="measurement_estimation"/>
+<edge source="designing_hamiltonian" target="optimizing_desirable"/>
+<edge source="designing_hamiltonian" target="consider_optimizing"/>
+<edge source="designing_hamiltonian" target="field_amplitude"/>
+<edge source="designing_hamiltonian" target="2000.06.03_16:56"/>
+<edge source="designing_hamiltonian" target="estimation_strategy"/>
+<edge source="designing_hamiltonian" target="name.gerard_jungman"/>
+<edge source="designing_hamiltonian" target="continuous_variable"/>
+<edge source="designing_hamiltonian" target="non-maximal_entanglement"/>
+<edge source="designing_hamiltonian" target="photon_number"/>
+<edge source="designing_hamiltonian" target="quantum_teleportation"/>
+<edge source="non-commuting_properties" target="2002.05.15_06:44"/>
+<edge source="non-commuting_properties" target="currently_understood"/>
+<edge source="non-commuting_properties" target="name.jon_eakins"/>
+<edge source="non-commuting_properties" target="quantum_teleportation"/>
+<edge source="non-commuting_properties" target="universe_jumps"/>
+<edge source="non-commuting_properties" target="temporal_dimension"/>
+<edge source="non-commuting_properties" target="distribution_channels"/>
+<edge source="non-commuting_properties" target="external_observers"/>
+<edge source="non-commuting_properties" target="causality_achieved"/>
+<edge source="non-commuting_properties" target="non-commuting_properties"/>
+<edge source="non-commuting_properties" target="entanglement_allows"/>
+<edge source="universe_jumps" target="measurement_back-action"/>
+<edge source="universe_jumps" target="paradigm_time"/>
+<edge source="universe_jumps" target="name.toshiki_ide"/>
+<edge source="universe_jumps" target="currently_understood"/>
+<edge source="universe_jumps" target="temporal_dimension"/>
+<edge source="universe_jumps" target="governing_temporal"/>
+<edge source="universe_jumps" target="motivates_concepts"/>
+<edge source="universe_jumps" target="quantum_process"/>
+<edge source="universe_jumps" target="name.akira_furusawa"/>
+<edge source="universe_jumps" target="consider_optimizing"/>
+<edge source="universe_jumps" target="field_amplitude"/>
+<edge source="universe_jumps" target="quantum_questions"/>
+<edge source="universe_jumps" target="continuous_variable"/>
+<edge source="universe_jumps" target="non-maximal_entanglement"/>
+<edge source="universe_jumps" target="temporal_evolution"/>
+<edge source="universe_jumps" target="photon_number"/>
+<edge source="universe_jumps" target="external_observers"/>
+<edge source="universe_jumps" target="quantum_teleportation"/>
+<edge source="universe_jumps" target="name.gerard_jungman"/>
+<edge source="universe_jumps" target="entanglement_allows"/>
+<edge source="measurement_back-action" target="temporal_dimension"/>
+<edge source="measurement_back-action" target="name.toshiki_ide"/>
+<edge source="measurement_back-action" target="distortions_correspond"/>
+<edge source="measurement_back-action" target="currently_understood"/>
+<edge source="measurement_back-action" target="minimal_constraint"/>
+<edge source="measurement_back-action" target="governing_temporal"/>
+<edge source="measurement_back-action" target="motivates_concepts"/>
+<edge source="measurement_back-action" target="name.akira_furusawa"/>
+<edge source="measurement_back-action" target="measurement_estimation"/>
+<edge source="measurement_back-action" target="consider_optimizing"/>
+<edge source="measurement_back-action" target="field_amplitude"/>
+<edge source="measurement_back-action" target="2000.06.03_16:56"/>
+<edge source="measurement_back-action" target="estimation_strategy"/>
+<edge source="measurement_back-action" target="name.gerard_jungman"/>
+<edge source="measurement_back-action" target="continuous_variable"/>
+<edge source="measurement_back-action" target="non-maximal_entanglement"/>
+<edge source="measurement_back-action" target="photon_number"/>
+<edge source="measurement_back-action" target="variable_quantum"/>
+<edge source="measurement_back-action" target="quantum_teleportation"/>
+<edge source="distribution_channels" target="sender_provide"/>
+<edge source="distribution_channels" target="measurements_performed"/>
+<edge source="distribution_channels" target="causality_achieved"/>
+<edge source="paradigm_time" target="quantum_questions"/>
+<edge source="paradigm_time" target="currently_understood"/>
+<edge source="paradigm_time" target="name.jon_eakins"/>
+<edge source="paradigm_time" target="temporal_evolution"/>
+<edge source="paradigm_time" target="minimal_constraint"/>
+<edge source="paradigm_time" target="temporal_dimension"/>
+<edge source="paradigm_time" target="causality_achieved"/>
+<edge source="paradigm_time" target="quantum_process"/>
+<edge source="paradigm_time" target="label_associated"/>
+<edge source="paradigm_time" target="entanglement_allows"/>
+<edge source="name.toshiki_ide" target="external_observers"/>
+<edge source="name.toshiki_ide" target="distortions_correspond"/>
+<edge source="name.toshiki_ide" target="minimal_constraint"/>
+<edge source="name.toshiki_ide" target="temporal_dimension"/>
+<edge source="name.toshiki_ide" target="governing_temporal"/>
+<edge source="name.toshiki_ide" target="quantum_teleportation"/>
+<edge source="name.toshiki_ide" target="motivates_concepts"/>
+<edge source="name.toshiki_ide" target="name.akira_furusawa"/>
+<edge source="name.toshiki_ide" target="field_amplitude"/>
+<edge source="name.toshiki_ide" target="estimation_strategy"/>
+<edge source="name.toshiki_ide" target="quantum_questions"/>
+<edge source="name.toshiki_ide" target="continuous_variable"/>
+<edge source="name.toshiki_ide" target="non-maximal_entanglement"/>
+<edge source="name.toshiki_ide" target="temporal_evolution"/>
+<edge source="name.toshiki_ide" target="photon_number"/>
+<edge source="name.toshiki_ide" target="variable_quantum"/>
+<edge source="name.toshiki_ide" target="name.gerard_jungman"/>
+<edge source="name.toshiki_ide" target="entanglement_allows"/>
+<edge source="lett_90" target="rev_lett"/>
+<edge source="governing_temporal" target="external_observers"/>
+<edge source="governing_temporal" target="currently_understood"/>
+<edge source="governing_temporal" target="minimal_constraint"/>
+<edge source="governing_temporal" target="name.akira_furusawa"/>
+<edge source="governing_temporal" target="2000.06.03_16:56"/>
+<edge source="governing_temporal" target="noise_effects"/>
+<edge source="governing_temporal" target="estimation_strategy"/>
+<edge source="governing_temporal" target="quantum_questions"/>
+<edge source="governing_temporal" target="name.jon_eakins"/>
+<edge source="governing_temporal" target="temporal_evolution"/>
+<edge source="governing_temporal" target="photon_number"/>
+<edge source="governing_temporal" target="variable_quantum"/>
+<edge source="governing_temporal" target="quantum_teleportation"/>
+<edge source="governing_temporal" target="label_associated"/>
+<edge source="governing_temporal" target="entanglement_allows"/>
+<edge source="quantum_process" target="quantum_questions"/>
+<edge source="quantum_process" target="currently_understood"/>
+<edge source="quantum_process" target="name.jon_eakins"/>
+<edge source="quantum_process" target="label_associated"/>
+<edge source="quantum_process" target="temporal_dimension"/>
+<edge source="quantum_process" target="quantum_teleportation"/>
+<edge source="quantum_process" target="name.akira_furusawa"/>
+<edge source="quantum_process" target="noise_effects"/>
+<edge source="quantum_process" target="name.george_jaroszkiewicz"/>
+<edge source="quantum_process" target="entanglement_allows"/>
+<edge source="measurement_estimation" target="minimal_constraint"/>
+<edge source="measurement_estimation" target="motivates_concepts"/>
+<edge source="measurement_estimation" target="name.akira_furusawa"/>
+<edge source="measurement_estimation" target="optimizing_desirable"/>
+<edge source="measurement_estimation" target="consider_optimizing"/>
+<edge source="measurement_estimation" target="2000.06.03_16:56"/>
+<edge source="measurement_estimation" target="label_associated"/>
+<edge source="measurement_estimation" target="estimation_strategy"/>
+<edge source="measurement_estimation" target="name.gerard_jungman"/>
+<edge source="measurement_estimation" target="continuous_variable"/>
+<edge source="measurement_estimation" target="variable_quantum"/>
+<edge source="measurement_estimation" target="quantum_teleportation"/>
+<edge source="collective_quantum" target="quantum_decoding"/>
+<edge source="field_amplitude" target="distortions_correspond"/>
+<edge source="field_amplitude" target="currently_understood"/>
+<edge source="field_amplitude" target="temporal_dimension"/>
+<edge source="field_amplitude" target="motivates_concepts"/>
+<edge source="field_amplitude" target="name.akira_furusawa"/>
+<edge source="field_amplitude" target="name.george_jaroszkiewicz"/>
+<edge source="field_amplitude" target="optimizing_desirable"/>
+<edge source="field_amplitude" target="consider_optimizing"/>
+<edge source="field_amplitude" target="2000.06.03_16:56"/>
+<edge source="field_amplitude" target="quantum_questions"/>
+<edge source="field_amplitude" target="continuous_variable"/>
+<edge source="field_amplitude" target="non-maximal_entanglement"/>
+<edge source="field_amplitude" target="name.jon_eakins"/>
+<edge source="field_amplitude" target="photon_number"/>
+<edge source="field_amplitude" target="variable_quantum"/>
+<edge source="field_amplitude" target="quantum_teleportation"/>
+<edge source="field_amplitude" target="coding_technique"/>
+<edge source="2000.06.03_16:56" target="distortions_correspond"/>
+<edge source="2000.06.03_16:56" target="minimal_constraint"/>
+<edge source="2000.06.03_16:56" target="quantum_teleportation"/>
+<edge source="2000.06.03_16:56" target="motivates_concepts"/>
+<edge source="2000.06.03_16:56" target="name.akira_furusawa"/>
+<edge source="2000.06.03_16:56" target="optimizing_desirable"/>
+<edge source="2000.06.03_16:56" target="consider_optimizing"/>
+<edge source="2000.06.03_16:56" target="estimation_strategy"/>
+<edge source="2000.06.03_16:56" target="name.gerard_jungman"/>
+<edge source="2000.06.03_16:56" target="continuous_variable"/>
+<edge source="2000.06.03_16:56" target="non-maximal_entanglement"/>
+<edge source="2000.06.03_16:56" target="photon_number"/>
+<edge source="2000.06.03_16:56" target="external_observers"/>
+<edge source="2000.06.03_16:56" target="variable_quantum"/>
+<edge source="label_associated" target="external_observers"/>
+<edge source="label_associated" target="currently_understood"/>
+<edge source="label_associated" target="temporal_dimension"/>
+<edge source="label_associated" target="name.akira_furusawa"/>
+<edge source="label_associated" target="name.george_jaroszkiewicz"/>
+<edge source="label_associated" target="quantum_questions"/>
+<edge source="label_associated" target="name.jon_eakins"/>
+<edge source="label_associated" target="temporal_evolution"/>
+<edge source="label_associated" target="quantum_teleportation"/>
+<edge source="noise_effects" target="optimizing_desirable"/>
+<edge source="noise_effects" target="temporal_dimension"/>
+<edge source="noise_effects" target="quantum_teleportation"/>
+<edge source="noise_effects" target="name.george_jaroszkiewicz"/>
+<edge source="estimation_strategy" target="distortions_correspond"/>
+<edge source="estimation_strategy" target="minimal_constraint"/>
+<edge source="estimation_strategy" target="motivates_concepts"/>
+<edge source="estimation_strategy" target="optimizing_desirable"/>
+<edge source="estimation_strategy" target="consider_optimizing"/>
+<edge source="estimation_strategy" target="continuous_variable"/>
+<edge source="estimation_strategy" target="non-maximal_entanglement"/>
+<edge source="estimation_strategy" target="variable_quantum"/>
+<edge source="estimation_strategy" target="quantum_teleportation"/>
+<edge source="superadditive_quantum" target="2002.05.15_06:44"/>
+<edge source="superadditive_quantum" target="remarkable_feature"/>
+<edge source="superadditive_quantum" target="corresponding_back-action"/>
+<edge source="superadditive_quantum" target="measurements_superadditive"/>
+<edge source="name.gerard_jungman" target="distortions_correspond"/>
+<edge source="name.gerard_jungman" target="minimal_constraint"/>
+<edge source="name.gerard_jungman" target="motivates_concepts"/>
+<edge source="name.gerard_jungman" target="name.akira_furusawa"/>
+<edge source="name.gerard_jungman" target="optimizing_desirable"/>
+<edge source="name.gerard_jungman" target="consider_optimizing"/>
+<edge source="name.gerard_jungman" target="continuous_variable"/>
+<edge source="name.gerard_jungman" target="non-maximal_entanglement"/>
+<edge source="name.gerard_jungman" target="photon_number"/>
+<edge source="name.gerard_jungman" target="external_observers"/>
+<edge source="name.gerard_jungman" target="variable_quantum"/>
+<edge source="name.gerard_jungman" target="quantum_teleportation"/>
+<edge source="2002.05.15_06:44" target="sender_provide"/>
+<edge source="2002.05.15_06:44" target="measurements_superadditive"/>
+<edge source="2002.05.15_06:44" target="teleported_quantum"/>
+<edge source="rev_lett" target="phys_rev"/>
+<edge source="name.jon_eakins" target="quantum_questions"/>
+<edge source="name.jon_eakins" target="temporal_dimension"/>
+<edge source="name.jon_eakins" target="quantum_teleportation"/>
+<edge source="name.jon_eakins" target="name.george_jaroszkiewicz"/>
+<edge source="name.jon_eakins" target="entanglement_allows"/>
+<edge source="temporal_evolution" target="external_observers"/>
+<edge source="temporal_evolution" target="distortions_correspond"/>
+<edge source="temporal_evolution" target="currently_understood"/>
+<edge source="temporal_evolution" target="temporal_dimension"/>
+<edge source="temporal_evolution" target="name.akira_furusawa"/>
+<edge source="temporal_evolution" target="quantum_questions"/>
+<edge source="temporal_evolution" target="photon_number"/>
+<edge source="temporal_evolution" target="quantum_teleportation"/>
+<edge source="photon_number" target="external_observers"/>
+<edge source="photon_number" target="distortions_correspond"/>
+<edge source="photon_number" target="motivates_concepts"/>
+<edge source="photon_number" target="name.akira_furusawa"/>
+<edge source="photon_number" target="continuous_variable"/>
+<edge source="photon_number" target="non-maximal_entanglement"/>
+<edge source="photon_number" target="variable_quantum"/>
+<edge source="photon_number" target="quantum_teleportation"/>
+<edge source="sender_provide" target="teleported_quantum"/>
+<edge source="sender_provide" target="corresponding_back-action"/>
+<edge source="sender_provide" target="measurements_performed"/>
+<edge source="sender_provide" target="causality_achieved"/>
+<edge source="sender_provide" target="entanglement_allows"/>
+<edge source="quantum_teleportation" target="temporal_dimension"/>
+<edge source="quantum_teleportation" target="distortions_correspond"/>
+<edge source="quantum_teleportation" target="minimal_constraint"/>
+<edge source="quantum_teleportation" target="motivates_concepts"/>
+<edge source="quantum_teleportation" target="name.akira_furusawa"/>
+<edge source="quantum_teleportation" target="optimizing_desirable"/>
+<edge source="quantum_teleportation" target="consider_optimizing"/>
+<edge source="quantum_teleportation" target="name.george_jaroszkiewicz"/>
+<edge source="quantum_teleportation" target="continuous_variable"/>
+<edge source="quantum_teleportation" target="non-maximal_entanglement"/>
+<edge source="quantum_teleportation" target="variable_quantum"/>
+<edge source="quantum_teleportation" target="causality_achieved"/>
+<edge source="quantum_teleportation" target="entanglement_allows"/>
+<edge source="coding_technique" target="quantum_channel"/>
+<edge source="coding_technique" target="non-maximal_entanglement"/>
+<edge source="coding_technique" target="remarkable_feature"/>
+<edge source="teleported_quantum" target="corresponding_back-action"/>
+<edge source="quantum_channel" target="transmission_resource"/>
+<edge source="quantum_decoding" target="corresponding_quantum"/>
+<edge source="external_observers" target="distortions_correspond"/>
+<edge source="external_observers" target="currently_understood"/>
+<edge source="external_observers" target="name.akira_furusawa"/>
+<edge source="external_observers" target="quantum_questions"/>
+<edge source="external_observers" target="non-maximal_entanglement"/>
+<edge source="measurements_superadditive" target="corresponding_back-action"/>
+<edge source="measurements_superadditive" target="quantum_measurements"/>
+<edge source="distortions_correspond" target="currently_understood"/>
+<edge source="distortions_correspond" target="minimal_constraint"/>
+<edge source="distortions_correspond" target="motivates_concepts"/>
+<edge source="distortions_correspond" target="name.akira_furusawa"/>
+<edge source="distortions_correspond" target="optimizing_desirable"/>
+<edge source="distortions_correspond" target="consider_optimizing"/>
+<edge source="distortions_correspond" target="continuous_variable"/>
+<edge source="distortions_correspond" target="non-maximal_entanglement"/>
+<edge source="distortions_correspond" target="variable_quantum"/>
+<edge source="corresponding_back-action" target="causality_achieved"/>
+<edge source="corresponding_back-action" target="measurements_performed"/>
+<edge source="corresponding_back-action" target="quantum_measurements"/>
+<edge source="currently_understood" target="temporal_dimension"/>
+<edge source="currently_understood" target="name.akira_furusawa"/>
+<edge source="currently_understood" target="quantum_questions"/>
+<edge source="currently_understood" target="continuous_variable"/>
+<edge source="minimal_constraint" target="motivates_concepts"/>
+<edge source="minimal_constraint" target="name.akira_furusawa"/>
+<edge source="minimal_constraint" target="optimizing_desirable"/>
+<edge source="minimal_constraint" target="consider_optimizing"/>
+<edge source="minimal_constraint" target="continuous_variable"/>
+<edge source="minimal_constraint" target="non-maximal_entanglement"/>
+<edge source="minimal_constraint" target="variable_quantum"/>
+<edge source="minimal_constraint" target="causality_achieved"/>
+<edge source="temporal_dimension" target="quantum_questions"/>
+<edge source="temporal_dimension" target="name.george_jaroszkiewicz"/>
+<edge source="motivates_concepts" target="optimizing_desirable"/>
+<edge source="motivates_concepts" target="consider_optimizing"/>
+<edge source="motivates_concepts" target="quantum_questions"/>
+<edge source="motivates_concepts" target="continuous_variable"/>
+<edge source="motivates_concepts" target="non-maximal_entanglement"/>
+<edge source="motivates_concepts" target="variable_quantum"/>
+<edge source="name.akira_furusawa" target="consider_optimizing"/>
+<edge source="name.akira_furusawa" target="quantum_questions"/>
+<edge source="name.akira_furusawa" target="continuous_variable"/>
+<edge source="name.akira_furusawa" target="non-maximal_entanglement"/>
+<edge source="name.akira_furusawa" target="variable_quantum"/>
+<edge source="name.george_jaroszkiewicz" target="entanglement_allows"/>
+<edge source="optimizing_desirable" target="consider_optimizing"/>
+<edge source="optimizing_desirable" target="continuous_variable"/>
+<edge source="optimizing_desirable" target="non-maximal_entanglement"/>
+<edge source="optimizing_desirable" target="variable_quantum"/>
+<edge source="consider_optimizing" target="continuous_variable"/>
+<edge source="consider_optimizing" target="non-maximal_entanglement"/>
+<edge source="consider_optimizing" target="variable_quantum"/>
+<edge source="quantum_questions" target="entanglement_allows"/>
+<edge source="continuous_variable" target="continuous_variable"/>
+<edge source="continuous_variable" target="non-maximal_entanglement"/>
+<edge source="continuous_variable" target="variable_quantum"/>
+<edge source="non-maximal_entanglement" target="variable_quantum"/>
+<edge source="causality_achieved" target="entanglement_allows"/>
+</graph></graphml>

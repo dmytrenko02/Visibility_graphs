@@ -18,6 +18,7 @@ from visibility_graph import visibility_graph
 
 import time
 t0 = time.time()
+
 def visibility_graph2(g, series, n):
     # convert list of magnitudes into list of tuples that hold the index
     tseries = []

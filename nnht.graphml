@@ -1,341 +1,584 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="double" for="edge" id="d0"/>
-<graph edgedefault="directed"><node id="continuous_variable_teleportation"/>
-<node id="quantum_feedback_control"/>
-<node id="designing_hamiltonian"/>
-<node id="feedback"/>
-<node id="distortions"/>
-<node id="consider_optimizing"/>
-<node id="trade-off_in_quantum"/>
-<node id="universe_jumps"/>
-<node id="measurement_back-action"/>
-<node id="closed_quantum"/>
-<node id="answers_to_quantum"/>
-<node id="quantum_information_theory"/>
-<node id="desirable_properties"/>
-<node id="identify"/>
-<node id="extraction_and_quantum"/>
-<node id="measurement"/>
-<node id="quantum"/>
-<node id="hamiltonian_quantum"/>
-<node id="control_algorithms"/>
-<node id="variable_teleportation"/>
-<node id="distortions_correspond"/>
-<node id="field_amplitude"/>
-<node id="rules_governing"/>
-<node id="disturbance"/>
-<node id="distortions_in_continuous"/>
-<node id="field"/>
-<node id="continuous"/>
-<node id="rules_governing_temporal"/>
-<node id="control_strategy"/>
-<node id="governing_temporal"/>
-<node id="extraction"/>
-<node id="considered_in_quantum"/>
-<node id="motivates_concepts"/>
-<node id="name.akira_furusawa"/>
-<node id="measurement_estimation"/>
-<node id="feedback_control"/>
-<node id="optimizing_desirable"/>
-<node id="jungman"/>
-<node id="quantum_universe"/>
-<node id="entanglement"/>
-<node id="theory"/>
-<node id="extraction_and_disturbance"/>
-<node id="disturbance_and_hamiltonian"/>
-<node id="concepts_we_identify"/>
-<node id="amplitude_measurement"/>
-<node id="photon"/>
-<node id="teleportation"/>
+<graph edgedefault="directed"><node id="selection"/>
+<node id="mass_energy"/>
+<node id="networks"/>
+<node id="web"/>
+<node id="failures_rarely"/>
+<node id="large-scale"/>
+<node id="class_of_inhomogeneously"/>
+<node id="removal"/>
+<node id="systems"/>
+<node id="malfunction_local_failures"/>
+<node id="malfunction_local"/>
+<node id="nodes"/>
+<node id="vulnerable_to_attacks"/>
+<node id="called_scale-free_networks"/>
+<node id="scale-free_networks"/>
+<node id="regularly_malfunction"/>
+<node id="large-scale_organization"/>
+<node id="internet_social_networks"/>
+<node id="metabolic_networks"/>
+<node id="complex_systems"/>
+<node id="unexpected_degree"/>
+<node id="unexpected"/>
+<node id="scale-free_networks_describing"/>
+<node id="robustness_while_key"/>
+<node id="redundant_wiring"/>
+<node id="rates_however_error"/>
+<node id="describing"/>
+<node id="network"/>
+<node id="cell"/>
+<node id="high_failure_rates"/>
+<node id="functional_web"/>
+<node id="internet"/>
+<node id="tolerance"/>
+<node id="web_internet_social"/>
+<node id="ability"/>
+<node id="degree"/>
+<node id="networks_are_extremely"/>
+<node id="regularly_malfunction_local"/>
+<node id="cell_display"/>
+<node id="communicate"/>
+<node id="web_internet"/>
+<node id="key"/>
+<node id="attacks"/>
+<node id="scale-free"/>
+<node id="surprising_degree"/>
+<node id="called"/>
+<node id="local_failures"/>
+<node id="key_components_regularly"/>
+<node id="social"/>
+<node id="unrealistically_high"/>
+<node id="cell_or_microorganism"/>
+<node id="degree_of_robustness"/>
+<node id="price_these_networks"/>
+<node id="wired_networks"/>
+<node id="networks_display"/>
 <node id="number"/>
-<node id="field_amplitude_measurement"/>
-<node id="control"/>
-<node id="motivates"/>
-<node id="name.gerard_jungman"/>
-<node id="variable"/>
-<node id="measurement_estimation_strategy"/>
-<node id="properties"/>
-<node id="quantum_feedback"/>
-<node id="fidelity_in_continuous"/>
-<node id="continuous_variable"/>
-<node id="non-maximal_entanglement"/>
-<node id="universe"/>
-<node id="photon_number"/>
-<node id="feedback_control_strategy"/>
-<node id="correspond"/>
-<node id="variable_quantum"/>
-<node id="optimizing_desirable_properties"/>
-<node id="consider_optimizing_desirable"/>
-<node id="quantum_teleportation"/>
-<node id="furusawa"/>
-<node id="amplitude"/>
-<node id="concepts"/>
-<node id="continuous_variable_quantum"/>
-<node id="designing_hamiltonian_quantum"/>
-<node id="estimation_strategy"/>
-<node id="extraction_and_noise"/>
-<edge source="designing_hamiltonian" target="designing_hamiltonian_quantum">
+<node id="internet_social"/>
+<node id="networks_called"/>
+<node id="networks_called_scale-free"/>
+<node id="class"/>
+<node id="rarely_lead"/>
+<node id="information-carrying_ability"/>
+<node id="rates"/>
+<node id="wired_networks_called"/>
+<node id="generate_mass_energy"/>
+<node id="redundant_systems"/>
+<node id="nodes_to_communicate"/>
+<node id="wide_web_internet"/>
+<node id="assuring_the_network"/>
+<node id="called_scale-free"/>
+<node id="communicate_being_unaffected"/>
+<node id="failure"/>
+<node id="key_components"/>
+<node id="number_of_systems"/>
+<node id="wide_web"/>
+<node id="generate_mass"/>
+<node id="extremely_vulnerable"/>
+<node id="wide"/>
+<node id="tolerance_of_complex"/>
+<node id="demonstrate_that_error"/>
+<node id="social_networks"/>
+<node id="robustness"/>
+<node id="selection_and_removal"/>
+<node id="paper_we_demonstrate"/>
+<node id="error"/>
+<node id="demonstrate"/>
+<node id="display"/>
+<node id="failure_rates"/>
+<node id="local_failures_rarely"/>
+<node id="error_tolerance"/>
+<node id="high"/>
+<node id="high_failure"/>
+<node id="describing_a_number"/>
+<node id="complex_networks"/>
+<node id="communication_networks_display"/>
+<node id="failures_rarely_lead"/>
+<node id="vulnerable"/>
+<node id="display_an_unexpected"/>
+<node id="systems_components"/>
+<node id="complex"/>
+<node id="role"/>
+<node id="display_a_surprising"/>
+<node id="robustness_the_ability"/>
+<node id="high_price"/>
+<node id="play"/>
+<node id="price"/>
+<node id="communication_networks"/>
+<node id="components_regularly"/>
+<node id="nodes_that_play"/>
+<node id="extremely"/>
+<node id="networks_describing"/>
+<node id="role_in_assuring"/>
+<node id="unrealistically_high_failure"/>
+<node id="redundant"/>
+<node id="components_regularly_malfunction"/>
+<node id="components"/>
+<edge source="selection" target="selection_and_removal">
   <data key="d0">1.0</data>
 </edge>
-<edge source="feedback" target="quantum_feedback_control">
+<edge source="mass_energy" target="generate_mass_energy">
   <data key="d0">1.0</data>
 </edge>
-<edge source="feedback" target="feedback_control">
+<edge source="networks" target="price_these_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="feedback" target="feedback_control_strategy">
+<edge source="networks" target="social_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="feedback" target="quantum_feedback">
+<edge source="networks" target="metabolic_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="distortions" target="distortions_in_continuous">
+<edge source="networks" target="wired_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="distortions" target="distortions_correspond">
+<edge source="networks" target="networks_are_extremely">
   <data key="d0">1.0</data>
 </edge>
-<edge source="consider_optimizing" target="consider_optimizing_desirable">
+<edge source="networks" target="scale-free_networks_describing">
   <data key="d0">1.0</data>
 </edge>
-<edge source="desirable_properties" target="optimizing_desirable_properties">
+<edge source="networks" target="scale-free_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="identify" target="concepts_we_identify">
+<edge source="networks" target="wired_networks_called">
   <data key="d0">1.0</data>
 </edge>
-<edge source="measurement" target="measurement_estimation">
+<edge source="networks" target="communication_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="measurement" target="measurement_estimation_strategy">
+<edge source="networks" target="networks_called_scale-free">
   <data key="d0">1.0</data>
 </edge>
-<edge source="measurement" target="amplitude_measurement">
+<edge source="networks" target="networks_describing">
   <data key="d0">1.0</data>
 </edge>
-<edge source="measurement" target="field_amplitude_measurement">
+<edge source="networks" target="communication_networks_display">
   <data key="d0">1.0</data>
 </edge>
-<edge source="measurement" target="measurement_back-action">
+<edge source="networks" target="networks_called">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="quantum_feedback_control">
+<edge source="networks" target="complex_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="quantum_universe">
+<edge source="networks" target="internet_social_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="considered_in_quantum">
+<edge source="networks" target="networks_display">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="trade-off_in_quantum">
+<edge source="networks" target="called_scale-free_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="variable_quantum">
+<edge source="web" target="wide_web">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="closed_quantum">
+<edge source="web" target="wide_web_internet">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="answers_to_quantum">
+<edge source="web" target="web_internet">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="quantum_information_theory">
+<edge source="web" target="functional_web">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="quantum_teleportation">
+<edge source="web" target="web_internet_social">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="extraction_and_quantum">
+<edge source="failures_rarely" target="local_failures_rarely">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="continuous_variable_quantum">
+<edge source="failures_rarely" target="failures_rarely_lead">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="hamiltonian_quantum">
+<edge source="large-scale" target="large-scale_organization">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="designing_hamiltonian_quantum">
+<edge source="removal" target="selection_and_removal">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum" target="quantum_feedback">
+<edge source="systems" target="number_of_systems">
   <data key="d0">1.0</data>
 </edge>
-<edge source="hamiltonian_quantum" target="designing_hamiltonian_quantum">
+<edge source="systems" target="complex_systems">
   <data key="d0">1.0</data>
 </edge>
-<edge source="variable_teleportation" target="continuous_variable_teleportation">
+<edge source="systems" target="redundant_systems">
   <data key="d0">1.0</data>
 </edge>
-<edge source="field_amplitude" target="field_amplitude_measurement">
+<edge source="systems" target="systems_components">
   <data key="d0">1.0</data>
 </edge>
-<edge source="rules_governing" target="rules_governing_temporal">
+<edge source="malfunction_local" target="regularly_malfunction_local">
   <data key="d0">1.0</data>
 </edge>
-<edge source="disturbance" target="disturbance_and_hamiltonian">
+<edge source="malfunction_local" target="malfunction_local_failures">
   <data key="d0">1.0</data>
 </edge>
-<edge source="disturbance" target="extraction_and_disturbance">
+<edge source="nodes" target="nodes_that_play">
   <data key="d0">1.0</data>
 </edge>
-<edge source="field" target="field_amplitude_measurement">
+<edge source="nodes" target="nodes_to_communicate">
   <data key="d0">1.0</data>
 </edge>
-<edge source="field" target="field_amplitude">
+<edge source="scale-free_networks" target="scale-free_networks_describing">
   <data key="d0">1.0</data>
 </edge>
-<edge source="continuous" target="continuous_variable_teleportation">
+<edge source="scale-free_networks" target="called_scale-free_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="continuous" target="fidelity_in_continuous">
+<edge source="scale-free_networks" target="networks_called_scale-free">
   <data key="d0">1.0</data>
 </edge>
-<edge source="continuous" target="distortions_in_continuous">
+<edge source="regularly_malfunction" target="regularly_malfunction_local">
   <data key="d0">1.0</data>
 </edge>
-<edge source="continuous" target="continuous_variable_quantum">
+<edge source="regularly_malfunction" target="components_regularly_malfunction">
   <data key="d0">1.0</data>
 </edge>
-<edge source="continuous" target="continuous_variable">
+<edge source="unexpected" target="unexpected_degree">
   <data key="d0">1.0</data>
 </edge>
-<edge source="control_strategy" target="feedback_control_strategy">
+<edge source="unexpected" target="display_an_unexpected">
   <data key="d0">1.0</data>
 </edge>
-<edge source="governing_temporal" target="rules_governing_temporal">
+<edge source="describing" target="describing_a_number">
   <data key="d0">1.0</data>
 </edge>
-<edge source="extraction" target="extraction_and_noise">
+<edge source="describing" target="scale-free_networks_describing">
   <data key="d0">1.0</data>
 </edge>
-<edge source="extraction" target="extraction_and_quantum">
+<edge source="describing" target="networks_describing">
   <data key="d0">1.0</data>
 </edge>
-<edge source="extraction" target="extraction_and_disturbance">
+<edge source="network" target="assuring_the_network">
   <data key="d0">1.0</data>
 </edge>
-<edge source="measurement_estimation" target="measurement_estimation_strategy">
+<edge source="cell" target="cell_or_microorganism">
   <data key="d0">1.0</data>
 </edge>
-<edge source="feedback_control" target="quantum_feedback_control">
+<edge source="cell" target="cell_display">
   <data key="d0">1.0</data>
 </edge>
-<edge source="feedback_control" target="feedback_control_strategy">
+<edge source="internet" target="internet_social">
   <data key="d0">1.0</data>
 </edge>
-<edge source="optimizing_desirable" target="consider_optimizing_desirable">
+<edge source="internet" target="wide_web_internet">
   <data key="d0">1.0</data>
 </edge>
-<edge source="optimizing_desirable" target="optimizing_desirable_properties">
+<edge source="internet" target="web_internet_social">
   <data key="d0">1.0</data>
 </edge>
-<edge source="jungman" target="name.gerard_jungman">
+<edge source="internet" target="web_internet">
   <data key="d0">1.0</data>
 </edge>
-<edge source="entanglement" target="non-maximal_entanglement">
+<edge source="internet" target="internet_social_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="theory" target="quantum_information_theory">
+<edge source="tolerance" target="error_tolerance">
   <data key="d0">1.0</data>
 </edge>
-<edge source="amplitude_measurement" target="field_amplitude_measurement">
+<edge source="tolerance" target="tolerance_of_complex">
   <data key="d0">1.0</data>
 </edge>
-<edge source="photon" target="photon_number">
+<edge source="ability" target="information-carrying_ability">
   <data key="d0">1.0</data>
 </edge>
-<edge source="teleportation" target="continuous_variable_teleportation">
+<edge source="ability" target="robustness_the_ability">
   <data key="d0">1.0</data>
 </edge>
-<edge source="teleportation" target="variable_teleportation">
+<edge source="degree" target="degree_of_robustness">
   <data key="d0">1.0</data>
 </edge>
-<edge source="teleportation" target="quantum_teleportation">
+<edge source="degree" target="unexpected_degree">
   <data key="d0">1.0</data>
 </edge>
-<edge source="number" target="photon_number">
+<edge source="degree" target="surprising_degree">
   <data key="d0">1.0</data>
 </edge>
-<edge source="control" target="quantum_feedback_control">
+<edge source="communicate" target="communicate_being_unaffected">
   <data key="d0">1.0</data>
 </edge>
-<edge source="control" target="control_algorithms">
+<edge source="communicate" target="nodes_to_communicate">
   <data key="d0">1.0</data>
 </edge>
-<edge source="control" target="feedback_control_strategy">
+<edge source="web_internet" target="wide_web_internet">
   <data key="d0">1.0</data>
 </edge>
-<edge source="control" target="control_strategy">
+<edge source="web_internet" target="web_internet_social">
   <data key="d0">1.0</data>
 </edge>
-<edge source="control" target="feedback_control">
+<edge source="key" target="robustness_while_key">
   <data key="d0">1.0</data>
 </edge>
-<edge source="motivates" target="motivates_concepts">
+<edge source="key" target="key_components">
   <data key="d0">1.0</data>
 </edge>
-<edge source="variable" target="continuous_variable_teleportation">
+<edge source="key" target="key_components_regularly">
   <data key="d0">1.0</data>
 </edge>
-<edge source="variable" target="continuous_variable_quantum">
+<edge source="attacks" target="vulnerable_to_attacks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="variable" target="variable_teleportation">
+<edge source="scale-free" target="scale-free_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="variable" target="variable_quantum">
+<edge source="scale-free" target="scale-free_networks_describing">
   <data key="d0">1.0</data>
 </edge>
-<edge source="variable" target="continuous_variable">
+<edge source="scale-free" target="called_scale-free_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="properties" target="desirable_properties">
+<edge source="scale-free" target="called_scale-free">
   <data key="d0">1.0</data>
 </edge>
-<edge source="properties" target="optimizing_desirable_properties">
+<edge source="scale-free" target="networks_called_scale-free">
   <data key="d0">1.0</data>
 </edge>
-<edge source="quantum_feedback" target="quantum_feedback_control">
+<edge source="called" target="wired_networks_called">
   <data key="d0">1.0</data>
 </edge>
-<edge source="continuous_variable" target="continuous_variable_teleportation">
+<edge source="called" target="networks_called">
   <data key="d0">1.0</data>
 </edge>
-<edge source="continuous_variable" target="continuous_variable_quantum">
+<edge source="called" target="called_scale-free_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="universe" target="quantum_universe">
+<edge source="called" target="called_scale-free">
   <data key="d0">1.0</data>
 </edge>
-<edge source="universe" target="universe_jumps">
+<edge source="called" target="networks_called_scale-free">
   <data key="d0">1.0</data>
 </edge>
-<edge source="correspond" target="distortions_correspond">
+<edge source="local_failures" target="local_failures_rarely">
   <data key="d0">1.0</data>
 </edge>
-<edge source="variable_quantum" target="continuous_variable_quantum">
+<edge source="local_failures" target="malfunction_local_failures">
   <data key="d0">1.0</data>
 </edge>
-<edge source="furusawa" target="name.akira_furusawa">
+<edge source="social" target="internet_social">
   <data key="d0">1.0</data>
 </edge>
-<edge source="amplitude" target="field_amplitude_measurement">
+<edge source="social" target="web_internet_social">
   <data key="d0">1.0</data>
 </edge>
-<edge source="amplitude" target="amplitude_measurement">
+<edge source="social" target="social_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="amplitude" target="field_amplitude">
+<edge source="social" target="internet_social_networks">
   <data key="d0">1.0</data>
 </edge>
-<edge source="concepts" target="concepts_we_identify">
+<edge source="unrealistically_high" target="unrealistically_high_failure">
   <data key="d0">1.0</data>
 </edge>
-<edge source="concepts" target="motivates_concepts">
+<edge source="wired_networks" target="wired_networks_called">
   <data key="d0">1.0</data>
 </edge>
-<edge source="estimation_strategy" target="measurement_estimation_strategy">
+<edge source="networks_display" target="communication_networks_display">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="number" target="describing_a_number">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="number" target="number_of_systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="internet_social" target="web_internet_social">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="internet_social" target="internet_social_networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="networks_called" target="wired_networks_called">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="networks_called" target="called_scale-free_networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="networks_called" target="networks_called_scale-free">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="class" target="class_of_inhomogeneously">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="rarely_lead" target="failures_rarely_lead">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="rates" target="failure_rates">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="rates" target="high_failure_rates">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="rates" target="rates_however_error">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="called_scale-free" target="called_scale-free_networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="called_scale-free" target="networks_called_scale-free">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="failure" target="high_failure">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="failure" target="failure_rates">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="failure" target="high_failure_rates">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="failure" target="unrealistically_high_failure">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="key_components" target="key_components_regularly">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="wide_web" target="wide_web_internet">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="generate_mass" target="generate_mass_energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="wide" target="wide_web">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="wide" target="wide_web_internet">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="social_networks" target="internet_social_networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="robustness" target="robustness_while_key">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="robustness" target="degree_of_robustness">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="robustness" target="robustness_the_ability">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="error" target="error_tolerance">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="error" target="demonstrate_that_error">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="error" target="rates_however_error">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="demonstrate" target="demonstrate_that_error">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="demonstrate" target="paper_we_demonstrate">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="display" target="networks_display">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="display" target="communication_networks_display">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="display" target="display_an_unexpected">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="display" target="display_a_surprising">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="display" target="cell_display">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="failure_rates" target="high_failure_rates">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="high" target="unrealistically_high">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="high" target="high_price">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="high" target="high_failure">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="high" target="high_failure_rates">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="high" target="unrealistically_high_failure">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="high_failure" target="unrealistically_high_failure">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="high_failure" target="high_failure_rates">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="vulnerable" target="extremely_vulnerable">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="vulnerable" target="vulnerable_to_attacks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="complex" target="complex_networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="complex" target="complex_systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="complex" target="tolerance_of_complex">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="role" target="role_in_assuring">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="play" target="nodes_that_play">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="price" target="high_price">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="price" target="price_these_networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="communication_networks" target="communication_networks_display">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="components_regularly" target="key_components_regularly">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="components_regularly" target="components_regularly_malfunction">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="extremely" target="extremely_vulnerable">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="extremely" target="networks_are_extremely">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="networks_describing" target="scale-free_networks_describing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="redundant" target="redundant_wiring">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="redundant" target="redundant_systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="components" target="components_regularly">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="components" target="key_components">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="components" target="components_regularly_malfunction">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="components" target="key_components_regularly">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="components" target="systems_components">
   <data key="d0">1.0</data>
 </edge>
 </graph></graphml>

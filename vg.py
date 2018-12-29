@@ -103,7 +103,7 @@ def idf(word, bloblist):
     return math.log(1.0*len(bloblist) / (1 + n_containing(word, bloblist)))
 
 def tfidf(word, blob, bloblist):
-    return 1.0*tf_(word, blob) * idf(word, bloblist)
+    return 1.0*tf_(word, blob) #* idf(word, bloblist)
 
 def IDF(element, quantity_all_documents):
     return math.log(1.0*quantity_all_documents / (1 + n_containing(element, bloblist)))
@@ -183,10 +183,10 @@ for i, blob in enumerate(bloblist):
     ##sorted_words = sorted(word_value.items(), key=lambda x: x[1], reverse=True)
     ##for word, score in sorted_words[:10]:
      ##   print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
-    
     for word in blob:
         if (word not in list_of_words) and (word not in black_list): #(якщо розглянуте слово відсутнє в списку слів, що мають tff>lambda_)або(і це слово не в чорному списку)
             tff = TF(word, all_words, quantity_all_words, bloblist)
+            #tff = tfidf(word, blob, bloblist)
             if tff > lambda_:
                 scores_within_doc.append(tff)
                 all_scores.append(tff)
@@ -202,10 +202,27 @@ for i, blob in enumerate(bloblist):
     scores_within_doc = []
 
 print 'Max_A '+str(max(all_scores))
+print list_of_words
 
 time_for_tf_words = (time.time()-t0) - time_for_read_files
 print 'Time_for_tf_words '+str(time_for_tf_words)
-print
+print 
+
+#побулова графу видимості 1 ======================================================
+print 'quantity_all_words '+str(quantity_all_words)
+print 'list_of_words '+str(len(list_of_words))
+print 'all_scores '+str(len(all_scores))
+print list_of_words
+print 
+g1 = nx.Graph()
+n = 0
+for scores in list_of_scores:
+    #g1 = visibility_graph2(g1, scores, n)
+    g1 = horizontal_visibility_graph2(g1, scores, n)
+mapping = dict(zip(g1.nodes(),list_of_words))
+g1 = nx.relabel_nodes(g1,mapping)
+filename = 'vg.graphml'
+nx.write_graphml(g1,filename)
   
 #TF-IDF_біграми=======================================================================
 bigrams_scores_within_doc = list()
@@ -244,6 +261,21 @@ time_for_tf_bigrams = (time.time()-t0) - time_for_tf_words
 print 'Time_for_tf_bigrams '+str(time_for_tf_bigrams)
 print
 
+#побудова графу видимості 2 ======================================================
+print 'quantity_all_bigrams '+str(quantity_all_bigrams)
+print 'list_of_bigrams '+str(len(list_of_bigrams))
+print 'all_bigrams_scores '+str(len(all_bigrams_scores))
+print 
+g2 = nx.Graph()
+n = 0
+for scores in list_of_bigrams_scores:
+    #g2 = visibility_graph2(g2, scores, n)
+    g2 = horizontal_visibility_graph2(g2, scores, n)
+mapping = dict(zip(g2.nodes(),list_of_bigrams_name))
+g2 = nx.relabel_nodes(g2,mapping)
+filename = 'vg_bigrams.graphml'
+nx.write_graphml(g2,filename)
+
 #TF-IDF_триграми=======================================================================
 threegrams_scores_within_doc = list()
 list_of_threegrams_scores = list()
@@ -281,36 +313,6 @@ print
 time_for_tf_threegrams = (time.time()-t0) - time_for_tf_bigrams
 print 'Time_for_tf_threegrams '+str(time_for_tf_threegrams)
 print
-        
-#побулова графу видимості 1 ======================================================
-print 'quantity_all_words '+str(quantity_all_words)
-print 'list_of_words '+str(len(list_of_words))
-print 'all_scores '+str(len(all_scores))
-print 
-g1 = nx.Graph()
-n = 0
-for scores in list_of_scores:
-    #g1 = visibility_graph2(g1, scores, n)
-    g1 = horizontal_visibility_graph2(g1, scores, n)
-mapping = dict(zip(g1.nodes(),list_of_words))
-g1 = nx.relabel_nodes(g1,mapping)
-filename = 'vg.graphml'
-nx.write_graphml(g1,filename)
-
-#побудова графу видимості 2 ======================================================
-print 'quantity_all_bigrams '+str(quantity_all_bigrams)
-print 'list_of_bigrams '+str(len(list_of_bigrams))
-print 'all_bigrams_scores '+str(len(all_bigrams_scores))
-print 
-g2 = nx.Graph()
-n = 0
-for scores in list_of_bigrams_scores:
-    #g2 = visibility_graph2(g2, scores, n)
-    g2 = horizontal_visibility_graph2(g2, scores, n)
-mapping = dict(zip(g2.nodes(),list_of_bigrams_name))
-g2 = nx.relabel_nodes(g2,mapping)
-filename = 'vg_bigrams.graphml'
-nx.write_graphml(g2,filename)
 
 #побулова графу видимості 3======================================================
 print 'quantity_all_threegrams '+str(quantity_all_threegrams)
@@ -330,7 +332,8 @@ nx.write_graphml(g3,filename)
 
 print 1.0*all_words.count('information')/len(all_words)
 print 1.0*all_bigrams.count(['information', 'extraction'])/len(all_bigrams)
-print 1.0*all_threegrams.count(['quantum', 'information', 'theory'])/len(all_threegrams)
+print 1.0*all_threegrams.count(['quantum', 'information', 'theory'])/len(all_threegrams)        
+
 
 print 'Max_A '+str(max(all_scores))
 print 

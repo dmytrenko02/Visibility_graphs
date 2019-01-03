@@ -157,7 +157,7 @@ def read_files(): #зчитування файлів з папки documents
        
 my_words = (open('MyStopWords.txt', 'r').read()).split() #мій словник stop-слів
 my_stop_words = text.ENGLISH_STOP_WORDS.union(my_words) #формування розширеного словника stop-слів  
-print my_stop_words
+#print my_stop_words
    
 all_words, all_bigrams, all_threegrams, bloblist, bloblist_bigrams, bloblist_threegrams = read_files()
 

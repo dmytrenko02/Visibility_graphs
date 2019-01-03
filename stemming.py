@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct 06 15:23:22 2018
+Created on Wed Jan 02 11:28:58 2019
 
 @author: dmytr
 """
-# -*- coding: utf-8 -*- and from __future__ import division, unicode_literals
+
+from nltk.stem import PorterStemmer
+from nltk.tokenize import sent_tokenize
 import math
 import os
 from textblob import TextBlob as tb
@@ -115,50 +117,54 @@ def quantity_all_elements(bloblist):
     return sum(len(blob) for blob in bloblist)
 
 def read_files(): #зчитування файлів з папки documents
-        blobs = []
-        bloblist = []
-        all_words = []
-        bigrams = []
-        bloblist_bigrams = []
-        all_bigrams = []
+    blobs = []
+    bloblist = []
+    all_words = []
+    bigrams = []
+    bloblist_bigrams = []
+    all_bigrams = []
+    threegrams = []
+    all_threegrams = []
+    bloblist_threegrams = []
+    directory = 'C:/Users/dmytr/Documents/Python Scripts/VG/documents/'
+    files = os.listdir(directory) 
+    for file_ in files:
         threegrams = []
-        all_threegrams = []
-        bloblist_threegrams = []
-        directory = 'C:/Users/dmytr/Documents/Python Scripts/VG/documents/'
-        files = os.listdir(directory) 
-        for file_ in files:
+        f_input = open(directory+file_, 'r')
+        blob_ = tb(f_input.read().lower())
+        
+        all_words = all_words + list(ps.stem(w) for w in diff(blob_.words, my_stop_words)) #стемінг слів
+        blobs = blob_.split('***')
+            
+        for text_ in blobs:
+            tx = tb(text_)           
+            bloblist.append(list(ps.stem(w) for w in diff(tx.words, my_stop_words)))#list(set(blob_.words).difference(my_stop_words)))
+            
+            bigrams = []
+            for bigram in tx.ngrams(2): #формування списку біграм
+                if len(diff(bigram, my_stop_words)) == 2:
+                    bigram = list(ps.stem(w) for w in bigram) #стемінг слів
+                    bigrams.append(bigram)
+                    all_bigrams.append(bigram)
+            bloblist_bigrams.append(bigrams)
+            
             threegrams = []
-            f_input = open(directory+file_, 'r')
-            blob_ = tb(f_input.read().lower())
+            for threegram in tx.ngrams(3): #формування списку триграм
+                if (len(diff(threegram, my_stop_words)) == 3) or ((len(diff(threegram, my_stop_words)) == 2)and(threegram[1] in my_stop_words)and(threegram[1] not in ['010','021','020','007','040','050'])):
+                    threegram = list(ps.stem(w) for w in threegram) #стемінг слів
+                    threegrams.append(threegram)
+                    all_threegrams.append(threegram)
+            bloblist_threegrams.append(threegrams)
             
-            all_words = all_words + diff(blob_.words, my_stop_words)
-            blobs = blob_.split('***')
-            
-            for text_ in blobs:
-                tx = tb(text_)
-                bloblist.append(diff(tx.words, my_stop_words))#list(set(blob_.words).difference(my_stop_words)))
-                
-                bigrams = []
-                for bigram in tx.ngrams(2): #формування списку біграм
-                    if len(diff(bigram, my_stop_words)) == 2:
-                        bigrams.append(bigram)
-                        all_bigrams.append(bigram)
-                bloblist_bigrams.append(bigrams)
-                
-                threegrams = []
-                for threegram in tx.ngrams(3): #формування списку триграм
-                    if (len(diff(threegram, my_stop_words)) == 3) or ((len(diff(threegram, my_stop_words)) == 2)and(threegram[1] in my_stop_words)and(threegram[1] not in ['010','021','020','007','040','050'])):
-                        threegrams.append(threegram)
-                        all_threegrams.append(threegram)
-                bloblist_threegrams.append(threegrams)
-                
-        return all_words, all_bigrams, all_threegrams, bloblist, bloblist_bigrams, bloblist_threegrams
+    return all_words, all_bigrams, all_threegrams, bloblist, bloblist_bigrams, bloblist_threegrams
 
        
 my_words = (open('MyStopWords.txt', 'r').read()).split() #мій словник stop-слів
 my_stop_words = text.ENGLISH_STOP_WORDS.union(my_words) #формування розширеного словника stop-слів  
 #print my_stop_words
-   
+ 
+ps = PorterStemmer() #створюється об'єкт PorterStemmer  
+
 all_words, all_bigrams, all_threegrams, bloblist, bloblist_bigrams, bloblist_threegrams = read_files()
 
 time_for_read_files = time.time() - t0
@@ -345,3 +351,4 @@ print 'Time_for_tf_bigrams '+str(time_for_tf_bigrams)
 print 'Time_for_tf_bigrams '+str(time_for_tf_threegrams)
 print 'Time_for_built_vg '+str(time_for_built_vg)
 print 'Time: '+str(time.time()-t0)
+

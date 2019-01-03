@@ -1,116 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="mag" attr.type="double" for="node" id="d0"/>
 <graph edgedefault="undirected"><node id="quantum_feedback_control">
-  <data key="d0">0.0188679245283</data>
+  <data key="d0">0.0909090909091</data>
 </node>
-<node id="trade-off_in_quantum">
-  <data key="d0">0.0188679245283</data>
+<node id="quantum_inform_theori">
+  <data key="d0">0.030303030303</data>
 </node>
-<node id="name.andrew_c_doherty">
-  <data key="d0">0.0188679245283</data>
+<node id="consid_in_quantum">
+  <data key="d0">0.030303030303</data>
 </node>
-<node id="separating_the_problem">
-  <data key="d0">0.0188679245283</data>
+<node id="disturb_and_hamiltonian">
+  <data key="d0">0.030303030303</data>
 </node>
-<node id="quantum_information_theory">
-  <data key="d0">0.0188679245283</data>
+<node id="measur_estim_strategi">
+  <data key="d0">0.0606060606061</data>
 </node>
-<node id="jacobs_007_name.gerard">
-  <data key="d0">0.0188679245283</data>
+<node id="extract_and_disturb">
+  <data key="d0">0.030303030303</data>
 </node>
-<node id="name.kurt_jacobs_007">
-  <data key="d0">0.0188679245283</data>
+<node id="feedback_control_algorithm">
+  <data key="d0">0.030303030303</data>
 </node>
-<node id="identify_an_information">
-  <data key="d0">0.0188679245283</data>
+<node id="problem_of_design">
+  <data key="d0">0.030303030303</data>
 </node>
-<node id="007_name.kurt_jacobs">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="rubr.quant-ph_007_name.andrew">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="problem_of_designing">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="feedback_control_algorithms">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="control_007_rubr.quant-ph">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="extraction_and_disturbance">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="disturbance_and_hamiltonian">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="concepts_we_identify">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="007_name.gerard_jungman">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="007_rubr.quant-ph_007">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="measurement_estimation_strategy">
-  <data key="d0">0.0377358490566</data>
-</node>
-<node id="feedback_control_007">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="doherty_007_name.kurt">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="concepts_of_information">
-  <data key="d0">0.0377358490566</data>
-</node>
-<node id="feedback_control_strategy">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="optimizing_desirable_properties">
-  <data key="d0">0.0188679245283</data>
-</node>
-<node id="considered_in_quantum">
-  <data key="d0">0.0188679245283</data>
+<node id="name.andrew_c_doherti">
+  <data key="d0">0.030303030303</data>
 </node>
 <node id="hamiltonian_quantum_feedback">
-  <data key="d0">0.0188679245283</data>
+  <data key="d0">0.030303030303</data>
 </node>
-<node id="designing_hamiltonian_quantum">
-  <data key="d0">0.0188679245283</data>
+<node id="concept_of_inform">
+  <data key="d0">0.030303030303</data>
+</node>
+<node id="design_hamiltonian_quantum">
+  <data key="d0">0.030303030303</data>
+</node>
+<node id="separ_the_problem">
+  <data key="d0">0.030303030303</data>
+</node>
+<node id="identifi_an_inform">
+  <data key="d0">0.030303030303</data>
+</node>
+<node id="optim_desir_properti">
+  <data key="d0">0.030303030303</data>
+</node>
+<node id="feedback_control_strategi">
+  <data key="d0">0.030303030303</data>
+</node>
+<node id="trade-off_in_quantum">
+  <data key="d0">0.030303030303</data>
+</node>
+<node id="concept_we_identifi">
+  <data key="d0">0.030303030303</data>
 </node>
 <edge source="quantum_feedback_control" target="quantum_feedback_control"/>
-<edge source="quantum_feedback_control" target="feedback_control_007"/>
 <edge source="quantum_feedback_control" target="trade-off_in_quantum"/>
-<edge source="quantum_feedback_control" target="separating_the_problem"/>
+<edge source="quantum_feedback_control" target="feedback_control_algorithm"/>
 <edge source="quantum_feedback_control" target="hamiltonian_quantum_feedback"/>
-<edge source="quantum_feedback_control" target="007_rubr.quant-ph_007"/>
-<edge source="quantum_feedback_control" target="feedback_control_algorithms"/>
-<edge source="trade-off_in_quantum" target="identify_an_information"/>
-<edge source="name.andrew_c_doherty" target="doherty_007_name.kurt"/>
-<edge source="name.andrew_c_doherty" target="rubr.quant-ph_007_name.andrew"/>
-<edge source="separating_the_problem" target="problem_of_designing"/>
-<edge source="quantum_information_theory" target="concepts_we_identify"/>
-<edge source="quantum_information_theory" target="considered_in_quantum"/>
-<edge source="jacobs_007_name.gerard" target="name.kurt_jacobs_007"/>
-<edge source="jacobs_007_name.gerard" target="007_name.gerard_jungman"/>
-<edge source="name.kurt_jacobs_007" target="007_name.kurt_jacobs"/>
-<edge source="identify_an_information" target="concepts_we_identify"/>
-<edge source="007_name.kurt_jacobs" target="doherty_007_name.kurt"/>
-<edge source="rubr.quant-ph_007_name.andrew" target="007_rubr.quant-ph_007"/>
-<edge source="problem_of_designing" target="designing_hamiltonian_quantum"/>
-<edge source="feedback_control_algorithms" target="measurement_estimation_strategy"/>
-<edge source="control_007_rubr.quant-ph" target="007_rubr.quant-ph_007"/>
-<edge source="control_007_rubr.quant-ph" target="feedback_control_007"/>
-<edge source="extraction_and_disturbance" target="considered_in_quantum"/>
-<edge source="extraction_and_disturbance" target="concepts_of_information"/>
-<edge source="disturbance_and_hamiltonian" target="hamiltonian_quantum_feedback"/>
-<edge source="measurement_estimation_strategy" target="feedback_control_strategy"/>
-<edge source="measurement_estimation_strategy" target="hamiltonian_quantum_feedback"/>
-<edge source="measurement_estimation_strategy" target="concepts_of_information"/>
-<edge source="concepts_of_information" target="optimizing_desirable_properties"/>
-<edge source="feedback_control_strategy" target="optimizing_desirable_properties"/>
-<edge source="hamiltonian_quantum_feedback" target="designing_hamiltonian_quantum"/>
+<edge source="quantum_feedback_control" target="separ_the_problem"/>
+<edge source="quantum_feedback_control" target="name.andrew_c_doherti"/>
+<edge source="quantum_inform_theori" target="consid_in_quantum"/>
+<edge source="quantum_inform_theori" target="concept_we_identifi"/>
+<edge source="consid_in_quantum" target="extract_and_disturb"/>
+<edge source="disturb_and_hamiltonian" target="hamiltonian_quantum_feedback"/>
+<edge source="measur_estim_strategi" target="feedback_control_strategi"/>
+<edge source="measur_estim_strategi" target="feedback_control_algorithm"/>
+<edge source="measur_estim_strategi" target="hamiltonian_quantum_feedback"/>
+<edge source="extract_and_disturb" target="concept_of_inform"/>
+<edge source="problem_of_design" target="separ_the_problem"/>
+<edge source="problem_of_design" target="design_hamiltonian_quantum"/>
+<edge source="hamiltonian_quantum_feedback" target="design_hamiltonian_quantum"/>
+<edge source="concept_of_inform" target="optim_desir_properti"/>
+<edge source="identifi_an_inform" target="trade-off_in_quantum"/>
+<edge source="identifi_an_inform" target="concept_we_identifi"/>
+<edge source="optim_desir_properti" target="feedback_control_strategi"/>
 </graph></graphml>

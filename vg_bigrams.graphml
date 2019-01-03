@@ -1,127 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="mag" attr.type="double" for="node" id="d0"/>
-<graph edgedefault="undirected"><node id="designing_hamiltonian">
-  <data key="d0">0.0322580645161</data>
+<graph edgedefault="undirected"><node id="estim_strategi">
+  <data key="d0">0.0227272727273</data>
 </node>
-<node id="rubr.quant-ph_007">
-  <data key="d0">0.0161290322581</data>
+<node id="design_hamiltonian">
+  <data key="d0">0.0454545454545</data>
 </node>
-<node id="information_extraction">
-  <data key="d0">0.0161290322581</data>
+<node id="name.kurt_jacob">
+  <data key="d0">0.0227272727273</data>
 </node>
-<node id="hamiltonian_quantum">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="control_algorithms">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="jacobs_007">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="name.kurt_jacobs">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="minimal_constraint">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="doherty_007">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="control_strategy">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="motivates_concepts">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="007_name.andrew">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="measurement_estimation">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="information_disturbance">
-  <data key="d0">0.0322580645161</data>
-</node>
-<node id="feedback_control">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="optimizing_desirable">
-  <data key="d0">0.0322580645161</data>
+<node id="motiv_concept">
+  <data key="d0">0.0227272727273</data>
 </node>
 <node id="2000.06.03_16:56">
-  <data key="d0">0.0161290322581</data>
+  <data key="d0">0.0227272727273</data>
 </node>
-<node id="007_rubr.quant-ph">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="information_theory">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="007_name.kurt">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="name.gerard_jungman">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="information_trade-off">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="quantum_feedback">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="estimation_strategy">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="control_007">
-  <data key="d0">0.0161290322581</data>
-</node>
-<node id="desirable_properties">
-  <data key="d0">0.0322580645161</data>
+<node id="inform_disturb">
+  <data key="d0">0.0454545454545</data>
 </node>
 <node id="http_arxiv.org/abs/quant-ph/0006013">
-  <data key="d0">0.0161290322581</data>
+  <data key="d0">0.0227272727273</data>
 </node>
-<node id="007_name.gerard">
-  <data key="d0">0.0161290322581</data>
+<node id="inform_theori">
+  <data key="d0">0.0227272727273</data>
 </node>
-<node id="quantum_information">
-  <data key="d0">0.0161290322581</data>
+<node id="inform_extract">
+  <data key="d0">0.0454545454545</data>
 </node>
-<edge source="designing_hamiltonian" target="optimizing_desirable"/>
-<edge source="designing_hamiltonian" target="hamiltonian_quantum"/>
-<edge source="designing_hamiltonian" target="feedback_control"/>
-<edge source="rubr.quant-ph_007" target="007_rubr.quant-ph"/>
-<edge source="rubr.quant-ph_007" target="007_name.andrew"/>
-<edge source="information_extraction" target="quantum_feedback"/>
-<edge source="information_extraction" target="quantum_information"/>
-<edge source="information_extraction" target="motivates_concepts"/>
-<edge source="information_extraction" target="feedback_control"/>
-<edge source="hamiltonian_quantum" target="feedback_control"/>
-<edge source="hamiltonian_quantum" target="information_disturbance"/>
-<edge source="hamiltonian_quantum" target="quantum_feedback"/>
-<edge source="control_algorithms" target="measurement_estimation"/>
-<edge source="control_algorithms" target="feedback_control"/>
-<edge source="jacobs_007" target="007_name.gerard"/>
-<edge source="jacobs_007" target="name.kurt_jacobs"/>
-<edge source="name.kurt_jacobs" target="007_name.kurt"/>
-<edge source="minimal_constraint" target="desirable_properties"/>
-<edge source="minimal_constraint" target="motivates_concepts"/>
-<edge source="doherty_007" target="007_name.kurt"/>
-<edge source="doherty_007" target="007_name.andrew"/>
-<edge source="control_strategy" target="optimizing_desirable"/>
-<edge source="control_strategy" target="feedback_control"/>
-<edge source="measurement_estimation" target="estimation_strategy"/>
-<edge source="feedback_control" target="007_rubr.quant-ph"/>
-<edge source="feedback_control" target="estimation_strategy"/>
-<edge source="feedback_control" target="control_007"/>
-<edge source="feedback_control" target="quantum_feedback"/>
-<edge source="feedback_control" target="feedback_control"/>
-<edge source="optimizing_desirable" target="desirable_properties"/>
+<node id="minim_constraint">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="optim_desir">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="name.gerard_jungman">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="quantum_inform">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="desir_properti">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="control_algorithm">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="hamiltonian_quantum">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="quantum_feedback">
+  <data key="d0">0.0681818181818</data>
+</node>
+<node id="measur_estim">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="control_strategi">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="inform_trade-off">
+  <data key="d0">0.0227272727273</data>
+</node>
+<node id="feedback_control">
+  <data key="d0">0.0909090909091</data>
+</node>
+<edge source="estim_strategi" target="measur_estim"/>
+<edge source="estim_strategi" target="feedback_control"/>
+<edge source="design_hamiltonian" target="hamiltonian_quantum"/>
+<edge source="design_hamiltonian" target="feedback_control"/>
+<edge source="name.kurt_jacob" target="name.gerard_jungman"/>
+<edge source="name.kurt_jacob" target="feedback_control"/>
+<edge source="motiv_concept" target="minim_constraint"/>
+<edge source="motiv_concept" target="inform_extract"/>
 <edge source="2000.06.03_16:56" target="name.gerard_jungman"/>
 <edge source="2000.06.03_16:56" target="http_arxiv.org/abs/quant-ph/0006013"/>
-<edge source="007_rubr.quant-ph" target="control_007"/>
-<edge source="information_theory" target="quantum_information"/>
-<edge source="information_theory" target="information_trade-off"/>
-<edge source="name.gerard_jungman" target="007_name.gerard"/>
-<edge source="information_trade-off" target="quantum_feedback"/>
+<edge source="inform_disturb" target="hamiltonian_quantum"/>
+<edge source="inform_theori" target="inform_trade-off"/>
+<edge source="inform_theori" target="quantum_inform"/>
+<edge source="inform_extract" target="quantum_feedback"/>
+<edge source="inform_extract" target="quantum_inform"/>
+<edge source="inform_extract" target="feedback_control"/>
+<edge source="minim_constraint" target="desir_properti"/>
+<edge source="optim_desir" target="desir_properti"/>
+<edge source="optim_desir" target="control_strategi"/>
+<edge source="control_algorithm" target="measur_estim"/>
+<edge source="control_algorithm" target="feedback_control"/>
+<edge source="hamiltonian_quantum" target="feedback_control"/>
+<edge source="hamiltonian_quantum" target="quantum_feedback"/>
+<edge source="quantum_feedback" target="inform_trade-off"/>
+<edge source="quantum_feedback" target="feedback_control"/>
+<edge source="control_strategi" target="feedback_control"/>
+<edge source="feedback_control" target="feedback_control"/>
 </graph></graphml>

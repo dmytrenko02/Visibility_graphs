@@ -1,0 +1,21 @@
+276
+010       Information, disturbance and Hamiltonian quantum feedback control
+021       We consider separating the problem of designing Hamiltonian quantum feedback control algorithms into a measurement (estimation) strategy and a feedback (control) strategy, and consider optimizing desirable properties of each under the minimal constraint that the available strength of both is limited. 
+020       This motivates concepts of information extraction and disturbance which are distinct from those usually considered in quantum information theory. Using these concepts we identify an information trade-off in quantum feedback control. 
+007       rubr.quant-ph
+007       name.Andrew C. Doherty
+007       name.Kurt Jacobs
+007       name.Gerard Jungman
+040       2000.06.03 16:56
+050       http://arxiv.org/abs/quant-ph/0006013
+*** 3307
+010       Information extraction and quantum state distortions in continuous   variable quantum teleportation
+021       We analyze the loss of fidelity in continuous variable teleportation due to non-maximal entanglement. 
+020       It is shown that the quantum state distortions correspond to the measurement back-action of a field amplitude measurement. Results for coherent states and for photon number states are presented. 
+007       rubr.quant-ph
+007       name.Holger F. Hofmann
+007       name.Toshiki Ide
+007       name.Takayoshi Kobayashi
+007       name.Akira Furusawa
+040       2001.10.22 06:21
+050       http://arxiv.org/abs/quant-ph/0110127

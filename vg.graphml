@@ -1,206 +1,191 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="mag" attr.type="double" for="node" id="d0"/>
 <graph edgedefault="undirected"><node id="control">
-  <data key="d0">0.0373831775701</data>
+  <data key="d0">0.0408163265306</data>
 </node>
 <node id="concept">
-  <data key="d0">0.00934579439252</data>
+  <data key="d0">0.0102040816327</data>
 </node>
 <node id="identifi">
-  <data key="d0">0.00934579439252</data>
+  <data key="d0">0.0102040816327</data>
 </node>
 <node id="feedback">
-  <data key="d0">0.00934579439252</data>
+  <data key="d0">0.0408163265306</data>
 </node>
 <node id="arxiv.org/abs/quant-ph/0006013">
-  <data key="d0">0.00934579439252</data>
+  <data key="d0">0.0102040816327</data>
 </node>
 <node id="doherti">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="design">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="name.andrew">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="276">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="quantum">
-  <data key="d0">0.018691588785</data>
-</node>
-<node id="2000.06.03">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="extract">
-  <data key="d0">0.0841121495327</data>
-</node>
-<node id="name.gerard">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="strength">
-  <data key="d0">0.0841121495327</data>
-</node>
-<node id="minim">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="distinct">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="http">
-  <data key="d0">0.018691588785</data>
-</node>
-<node id="16:56">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="estim">
-  <data key="d0">0.0654205607477</data>
-</node>
-<node id="name.kurt">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="strategi">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="jungman">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="desir">
-  <data key="d0">0.0280373831776</data>
-</node>
-<node id="optim">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="constraint">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="trade-off">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="007">
-  <data key="d0">0.0841121495327</data>
-</node>
-<node id="theori">
-  <data key="d0">0.0841121495327</data>
-</node>
-<node id="consid">
-  <data key="d0">0.0841121495327</data>
-</node>
-<node id="jacob">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="measur">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="disturb">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="algorithm">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="hamiltonian">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="properti">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="rubr.quant-ph">
-  <data key="d0">0.018691588785</data>
-</node>
-<node id="separ">
-  <data key="d0">0.018691588785</data>
-</node>
-<node id="inform">
-  <data key="d0">0.00934579439252</data>
-</node>
-<node id="limit">
-  <data key="d0">0.018691588785</data>
+  <data key="d0">0.0102040816327</data>
 </node>
 <node id="motiv">
-  <data key="d0">0.0841121495327</data>
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="name.andrew">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="276">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="quantum">
+  <data key="d0">0.0714285714286</data>
+</node>
+<node id="2000.06.03">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="extract">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="name.gerard">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="strength">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="minim">
+  <data key="d0">0.030612244898</data>
+</node>
+<node id="distinct">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="http">
+  <data key="d0">0.0204081632653</data>
+</node>
+<node id="16:56">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="estim">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="name.kurt">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="strategi">
+  <data key="d0">0.030612244898</data>
+</node>
+<node id="jungman">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="desir">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="optim">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="constraint">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="trade-off">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="theori">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="consid">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="jacob">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="measur">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="disturb">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="algorithm">
+  <data key="d0">0.0204081632653</data>
+</node>
+<node id="hamiltonian">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="properti">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="rubr.quant-ph">
+  <data key="d0">0.0204081632653</data>
+</node>
+<node id="separ">
+  <data key="d0">0.0714285714286</data>
+</node>
+<node id="inform">
+  <data key="d0">0.0204081632653</data>
+</node>
+<node id="limit">
+  <data key="d0">0.0102040816327</data>
+</node>
+<node id="design">
+  <data key="d0">0.0102040816327</data>
 </node>
 <node id="problem">
-  <data key="d0">0.00934579439252</data>
+  <data key="d0">0.0204081632653</data>
 </node>
 <edge source="control" target="measur"/>
-<edge source="control" target="desir"/>
 <edge source="control" target="feedback"/>
 <edge source="control" target="algorithm"/>
 <edge source="control" target="hamiltonian"/>
+<edge source="control" target="rubr.quant-ph"/>
+<edge source="control" target="separ"/>
 <edge source="control" target="inform"/>
-<edge source="control" target="estim"/>
-<edge source="control" target="007"/>
-<edge source="control" target="consid"/>
 <edge source="control" target="quantum"/>
 <edge source="control" target="strategi"/>
+<edge source="concept" target="identifi"/>
+<edge source="concept" target="minim"/>
 <edge source="concept" target="inform"/>
 <edge source="concept" target="motiv"/>
 <edge source="concept" target="theori"/>
-<edge source="concept" target="identifi"/>
 <edge source="concept" target="strategi"/>
 <edge source="identifi" target="inform"/>
 <edge source="feedback" target="quantum"/>
+<edge source="feedback" target="problem"/>
 <edge source="feedback" target="strategi"/>
 <edge source="feedback" target="measur"/>
 <edge source="arxiv.org/abs/quant-ph/0006013" target="http"/>
-<edge source="doherti" target="007"/>
 <edge source="doherti" target="name.andrew"/>
-<edge source="design" target="problem"/>
-<edge source="design" target="hamiltonian"/>
-<edge source="name.andrew" target="007"/>
+<edge source="doherti" target="name.kurt"/>
+<edge source="motiv" target="limit"/>
+<edge source="name.andrew" target="rubr.quant-ph"/>
 <edge source="276" target="inform"/>
 <edge source="quantum" target="disturb"/>
 <edge source="quantum" target="trade-off"/>
 <edge source="quantum" target="hamiltonian"/>
-<edge source="quantum" target="separ"/>
 <edge source="quantum" target="inform"/>
-<edge source="quantum" target="007"/>
-<edge source="quantum" target="theori"/>
 <edge source="quantum" target="consid"/>
 <edge source="quantum" target="quantum"/>
 <edge source="2000.06.03" target="jungman"/>
 <edge source="2000.06.03" target="16:56"/>
 <edge source="extract" target="inform"/>
 <edge source="extract" target="disturb"/>
-<edge source="extract" target="motiv"/>
-<edge source="extract" target="consid"/>
+<edge source="name.gerard" target="jacob"/>
 <edge source="name.gerard" target="jungman"/>
-<edge source="name.gerard" target="007"/>
 <edge source="strength" target="limit"/>
-<edge source="strength" target="motiv"/>
-<edge source="strength" target="estim"/>
-<edge source="strength" target="desir"/>
 <edge source="strength" target="constraint"/>
-<edge source="minim" target="properti"/>
 <edge source="minim" target="constraint"/>
+<edge source="minim" target="properti"/>
+<edge source="minim" target="strategi"/>
 <edge source="distinct" target="disturb"/>
 <edge source="distinct" target="consid"/>
-<edge source="http" target="007"/>
+<edge source="http" target="rubr.quant-ph"/>
 <edge source="http" target="16:56"/>
 <edge source="estim" target="measur"/>
-<edge source="estim" target="consid"/>
 <edge source="estim" target="strategi"/>
 <edge source="name.kurt" target="jacob"/>
-<edge source="name.kurt" target="007"/>
 <edge source="strategi" target="measur"/>
-<edge source="strategi" target="consid"/>
+<edge source="strategi" target="algorithm"/>
+<edge source="strategi" target="optim"/>
+<edge source="strategi" target="separ"/>
+<edge source="strategi" target="strategi"/>
 <edge source="desir" target="optim"/>
 <edge source="desir" target="properti"/>
-<edge source="optim" target="consid"/>
 <edge source="trade-off" target="inform"/>
-<edge source="007" target="rubr.quant-ph"/>
-<edge source="007" target="jacob"/>
-<edge source="007" target="007"/>
 <edge source="theori" target="inform"/>
-<edge source="theori" target="consid"/>
-<edge source="consid" target="hamiltonian"/>
-<edge source="consid" target="separ"/>
 <edge source="measur" target="algorithm"/>
 <edge source="disturb" target="inform"/>
 <edge source="disturb" target="hamiltonian"/>
+<edge source="hamiltonian" target="separ"/>
 <edge source="hamiltonian" target="inform"/>
+<edge source="hamiltonian" target="design"/>
 <edge source="separ" target="problem"/>
 <edge source="inform" target="inform"/>
-<edge source="limit" target="motiv"/>
+<edge source="design" target="problem"/>
 </graph></graphml>
